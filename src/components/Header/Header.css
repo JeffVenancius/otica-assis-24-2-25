@@ -42,7 +42,7 @@
 @media (max-width: 880px) {
 	.header__nav {
 		flex-direction: column;
-		margin: 5% 0;
+		margin: 2% 0;
 		margin-bottom: 0;
 	}
 }
@@ -51,7 +51,7 @@
 	.header__nav {
 		flex-direction: row;
 		justify-content: flex-end;
-		margin-right: 13%;
+		margin-right: 12%;
 		align-items: start;
 		height: 100%;
 	}
@@ -60,10 +60,10 @@
 	}
 	.mobile__hamburger {
 		display: unset;
-		width: 10vw;
+		width: 12vw;
 		position: absolute;
-		top: 2%;
-		left: 2%;
+		top: 1%;
+		left: 1%;
 		background-color: white;
 		border: none;
 		z-index: 1015;

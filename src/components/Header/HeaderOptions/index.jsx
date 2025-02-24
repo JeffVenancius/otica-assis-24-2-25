@@ -53,7 +53,6 @@ const HeaderOptions = (props) => {
 	}
 	const active = props.active === props.type ? " header__options--first--active" : ""
 	const boxSize = props.options.filter(e=> props.possibleFilters.includes(e)).length
-	console.log(active)
 
 	return (
 		<div className={'header__options' + active}>

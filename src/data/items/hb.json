@@ -1,5 +1,5 @@
+[
 {
-    "10140710": {
         "Tipo": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Hb",
@@ -13,7 +13,7 @@
             "https://i.ibb.co/tmRQDyY/image.jpg"
         ]
     },
-    "10140711": {
+{
         "Tipo": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Hb",
@@ -27,7 +27,7 @@
             "https://i.ibb.co/8NndKrk/image.jpg"
         ]
     },
-    "10140686": {
+{
         "Tipo": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Hb",
@@ -41,7 +41,7 @@
             "https://i.ibb.co/s3dWW0s/image.jpg"
         ]
     },
-    "10136205": {
+{
         "Tipo": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Hb",
@@ -55,7 +55,7 @@
             "https://i.ibb.co/d5SQQvW/image.jpg"
         ]
     },
-    "10140564": {
+{
         "Tipo": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Hb",
@@ -69,7 +69,7 @@
             "https://i.ibb.co/WKwkKjL/image.jpg"
         ]
     },
-    "10140655": {
+{
         "Tipo": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Hb",
@@ -83,7 +83,7 @@
             "https://i.ibb.co/Mn1Y1QV/image.jpg"
         ]
     },
-    "10137942": {
+{
         "Tipo": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Hb",
@@ -97,7 +97,7 @@
             "https://i.ibb.co/Pmdrbv0/image.jpg"
         ]
     },
-    "10140541": {
+{
         "Tipo": "Óculos de Sol",
         "Gênero": "Masculino",
         "marca": "Hb",
@@ -111,7 +111,7 @@
             "https://i.ibb.co/rk84rhg/image.jpg"
         ]
     },
-    "10136079": {
+{
         "Tipo": "Óculos de Sol",
         "Gênero": "Masculino",
         "marca": "Hb",
@@ -125,4 +125,4 @@
             "https://i.ibb.co/5YRhG81/image.jpg"
         ]
     }
-}
+]

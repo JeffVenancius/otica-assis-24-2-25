@@ -20,7 +20,7 @@
 		"modelo": "",
 		"preco": 249,
 		"precoPromo": 249,
-		"wppDesc": "n\u00b0 5",
+		"wppDesc": "n\u00b0 48",
 		"imgs": [
 			"https://i.ibb.co/cKRVWwdG/0-6.jpg"
 		]
@@ -111,19 +111,6 @@
 		"modelo": "",
 		"preco": 198,
 		"precoPromo": 198,
-		"wppDesc": "n\u00b0 22",
-		"imgs": [
-			"https://i.ibb.co/Y4St9Z8q/0-7.jpg"
-		]
-	},
-	{
-		"Tipo": "\u00d3culos de Grau",
-		"G\u00eanero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Pre\u00e7o",
-		"modelo": "",
-		"preco": 198,
-		"precoPromo": 198,
 		"wppDesc": "n\u00b0 17",
 		"imgs": [
 			"https://i.ibb.co/0R23nqKp/0-30.jpg"
@@ -153,32 +140,6 @@
 		"wppDesc": "n\u00b0 9",
 		"imgs": [
 			"https://i.ibb.co/dJHqv0vr/0-13.jpg"
-		]
-	},
-	{
-		"Tipo": "\u00d3culos de Sol",
-		"G\u00eanero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Pre\u00e7o",
-		"modelo": "",
-		"preco": 198,
-		"precoPromo": 198,
-		"wppDesc": "n\u00b0 42",
-		"imgs": [
-			"https://i.ibb.co/wrNxtsFv/0-9.jpg"
-		]
-	},
-	{
-		"Tipo": "\u00d3culos de Sol",
-		"G\u00eanero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Pre\u00e7o",
-		"modelo": "",
-		"preco": 198,
-		"precoPromo": 198,
-		"wppDesc": "n\u00b0 43",
-		"imgs": [
-			"https://i.ibb.co/wrNxtsFv/0-9.jpg"
 		]
 	},
 	{
@@ -5400,19 +5361,6 @@
 		"modelo": "",
 		"preco": 349,
 		"precoPromo": 349,
-		"wppDesc": "n\u00b0 4",
-		"imgs": [
-			"https://i.ibb.co/8gHBCvZr/0-32.jpg"
-		]
-	},
-	{
-		"Tipo": "\u00d3culos de Grau",
-		"G\u00eanero": "Feminino",
-		"marca": "On Design",
-		"tipoDeCard": "Com Pre\u00e7o",
-		"modelo": "",
-		"preco": 349,
-		"precoPromo": 349,
 		"wppDesc": "n\u00b0 3",
 		"imgs": [
 			"https://i.ibb.co/8gHBCvZr/0-32.jpg"
@@ -6037,37 +5985,9 @@
 		"G\u00eanero": "Masculino",
 		"marca": "Ray-Ban",
 		"tipoDeCard": "Com Pre\u00e7o",
-		"modelo": "RB3025L 002/58",
-		"preco": 1390,
-		"precoPromo": 1390,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/HgBT2PW/image.jpg",
-			"https://i.ibb.co/pKvBVNZ/image.jpg"
-		]
-	},
-	{
-		"Tipo": "\u00d3culos de Sol",
-		"G\u00eanero": "Masculino",
-		"marca": "Ray-Ban",
-		"tipoDeCard": "Com Pre\u00e7o",
 		"modelo": "RB3503L 006/71",
 		"preco": 740,
 		"precoPromo": 740,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/xFXT2pn/image.jpg",
-			"https://i.ibb.co/jWvFpXW/image.jpg"
-		]
-	},
-	{
-		"Tipo": "\u00d3culos de Sol",
-		"G\u00eanero": "Masculino",
-		"marca": "Ray-Ban",
-		"tipoDeCard": "Com Pre\u00e7o",
-		"modelo": "RB3503L 006/71",
-		"preco": 800,
-		"precoPromo": 800,
 		"wppDesc": "",
 		"imgs": [
 			"https://i.ibb.co/xFXT2pn/image.jpg",
@@ -6205,20 +6125,6 @@
 		"G\u00eanero": "Unissex",
 		"marca": "Ray-Ban",
 		"tipoDeCard": "Com Pre\u00e7o",
-		"modelo": "RB2140 901",
-		"preco": 1011,
-		"precoPromo": 1011,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/jw6wZyX/image.jpg",
-			"https://i.ibb.co/qg9wQBm/image.jpg"
-		]
-	},
-	{
-		"Tipo": "\u00d3culos de Sol",
-		"G\u00eanero": "Unissex",
-		"marca": "Ray-Ban",
-		"tipoDeCard": "Com Pre\u00e7o",
 		"modelo": "RB0316-S 990/31",
 		"preco": 935,
 		"precoPromo": 935,
@@ -6306,20 +6212,6 @@
 		"modelo": "RB2186 1334/51",
 		"preco": 999,
 		"precoPromo": 999,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/C76mg9F/image.jpg",
-			"https://i.ibb.co/RGnCDC9/image.jpg"
-		]
-	},
-	{
-		"Tipo": "\u00d3culos de Sol",
-		"G\u00eanero": "Feminino",
-		"marca": "Ray-Ban",
-		"tipoDeCard": "Com Pre\u00e7o",
-		"modelo": "RB2186 1334/51",
-		"preco": 1086,
-		"precoPromo": 1086,
 		"wppDesc": "",
 		"imgs": [
 			"https://i.ibb.co/C76mg9F/image.jpg",
@@ -6786,20 +6678,6 @@
 		"imgs": [
 			"https://i.ibb.co/N3B6XbW/image.jpg",
 			"https://i.ibb.co/b715Y4H/image.jpg"
-		]
-	},
-	{
-		"Tipo": "\u00d3culos de Sol",
-		"G\u00eanero": "Masculino",
-		"marca": "Ray-Ban",
-		"tipoDeCard": "Com Pre\u00e7o",
-		"modelo": "RB4165L 601/8G",
-		"preco": 1080,
-		"precoPromo": 1080,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/1qNvWpJ/image.jpg",
-			"https://i.ibb.co/d2cHNQD/image.jpg"
 		]
 	},
 	{
@@ -7325,20 +7203,6 @@
 		"G\u00eanero": "Unissex",
 		"marca": "Ray-Ban",
 		"tipoDeCard": "Com Pre\u00e7o",
-		"modelo": "RB2186 901/31",
-		"preco": 1026,
-		"precoPromo": 1026,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/ct4hswj/image.jpg",
-			"https://i.ibb.co/kg7DHXH/image.jpg"
-		]
-	},
-	{
-		"Tipo": "\u00d3culos de Sol",
-		"G\u00eanero": "Unissex",
-		"marca": "Ray-Ban",
-		"tipoDeCard": "Com Pre\u00e7o",
 		"modelo": "RB2198 902/R5",
 		"preco": 881,
 		"precoPromo": 881,
@@ -7388,20 +7252,6 @@
 		"imgs": [
 			"https://i.ibb.co/RbfxjN2/image.jpg",
 			"https://i.ibb.co/yNWzpjZ/image.jpg"
-		]
-	},
-	{
-		"Tipo": "\u00d3culos de Grau",
-		"G\u00eanero": "Masculino",
-		"marca": "Ray-Ban",
-		"tipoDeCard": "Com Pre\u00e7o",
-		"modelo": "RB6335 2503",
-		"preco": 869,
-		"precoPromo": 869,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/g33MXjk/image.jpg",
-			"https://i.ibb.co/XVVj8B1/image.jpg"
 		]
 	},
 	{
