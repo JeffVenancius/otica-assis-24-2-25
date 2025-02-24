@@ -17,7 +17,7 @@ const Default = (props) => {
 	useEffect(() => {
 		let currSelection = window.location.pathname.replace("/","")
 		currSelection = currSelection ? currSelection : "default"
-		import('../../data/items/' + currSelection + '.json')
+		import('./data/items/' + currSelection + '.json')
 			.then(items_default => {
 				const items = items_default['default']
 				for (let i = 0; i < Object.keys(urls).length; i++) {
