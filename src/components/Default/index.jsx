@@ -14,6 +14,8 @@ const Default = (props) => {
 	const [selection, setSelection] = useState(props.customSelection ? props.customSelection : "")
 	const itemsPerPage = 6
 
+	console.log(urls)
+
 	useEffect(() => {
 		let currSelection = window.location.pathname.replace("/","")
 		currSelection = currSelection ? currSelection : "default"
