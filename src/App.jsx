@@ -16,9 +16,9 @@ function App() {
 	useEffect(() => {
 		let currSelection = window.location.pathname.replace("/","")
 		currSelection = currSelection ? currSelection : "default"
-		import('./data/items/' + currSelection + '.json')
-			.then(res => {
-				const items = res["default"]
+		fetch('./data/items/' + currSelection + '.json', {method:"GET"})
+			.then(res => res.json())
+			.then(items => {
 				let possibleFiltersOut = [...Object.keys(urls)]
 				items.forEach(item => {
 					const filters = ["Tipo", "Gênero"]

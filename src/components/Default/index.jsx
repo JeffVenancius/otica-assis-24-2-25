@@ -14,14 +14,12 @@ const Default = (props) => {
 	const [selection, setSelection] = useState(props.customSelection ? props.customSelection : "")
 	const itemsPerPage = 6
 
-	console.log(urls)
-
 	useEffect(() => {
 		let currSelection = window.location.pathname.replace("/","")
 		currSelection = currSelection ? currSelection : "default"
-		import('./data/items/' + currSelection + '.json')
-			.then(items_default => {
-				const items = items_default['default']
+		fetch('./data/items/' + currSelection + '.json', {method: 'GET'})
+			.then(res => res.json())
+			.then(items => {
 				for (let i = 0; i < Object.keys(urls).length; i++) {
 					if (urls[Object.keys(urls)[i]] === currSelection) {
 						currSelection = Object.keys(urls)[i]
