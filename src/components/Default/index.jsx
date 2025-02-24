@@ -63,6 +63,38 @@ const Default = (props) => {
 		setPage(nextPage)
 	}
 
+	const get_filtered_items = () => {
+		const items = totalItems
+		let currCards = []
+		for (let key = 0; key < items.length; key++) {
+			let tipo = false
+			let genero = false
+			const filtersKeys = Object.keys(context.currFilters)
+			if (filtersKeys.includes("Tipo")) {
+				if (items[key]["Tipo"] === context.currFilters["Tipo"] || context.currFilters["Tipo"] === "Todos") {
+					tipo = true
+				}
+			} else {
+				tipo = true
+			}
+			if (filtersKeys.includes("Gênero")) {
+				if (items[key]["Gênero"] === context.currFilters["Gênero"] || context.currFilters["Gênero"] === "Todos") {
+					genero = true
+				}
+			} else {
+				genero = true
+			}
+			if (tipo && genero) {
+				if (typeof items[key][Object.keys(items[key])[0]] !== 'object') {
+					if (!currCards.includes(items[key])) {
+						currCards.push(items[key])
+					}
+				}
+			} 
+		}
+		return currCards
+	}
+
 	useEffect(() => topRef.current?.scrollIntoView({behavior: 'smooth'}),[page])
 
 	const changeOrder = (e) => {
@@ -74,9 +106,9 @@ const Default = (props) => {
 	const endPg = Math.min(totalItems.length, startPg + itemsPerPage)
 
 	useEffect(() => {
-	setPage(1)
+		setPage(1)
 	},[])
-	
+
 
 	if (!totalItems.length) {
 		return (
@@ -84,10 +116,10 @@ const Default = (props) => {
 		)
 	}
 
-	const totalItems_sorted = totalItems.sort((a,b) => {
-			if (order === "Menor Preço") return a['preco'] > b['preco'] ? 1 : -1
-			if (order === "Maior Preço") return a['preco'] > b['preco'] ? -1 : 1
-			return 0
+	const totalItems_sorted = get_filtered_items().sort((a,b) => {
+		if (order === "Menor Preço") return a['preco'] > b['preco'] ? 1 : -1
+		if (order === "Maior Preço") return a['preco'] > b['preco'] ? -1 : 1
+		return 0
 	})
 
 	const totalItems_split = totalItems_sorted.splice(startPg, endPg)
@@ -95,32 +127,32 @@ const Default = (props) => {
 	return (
 		<>
 		<div className='title__cards' ref={topRef}>
-			<h1>{selection}</h1>
-			<h2>{context.currFilters["Tipo"]}</h2>
-			<h2>{context.currFilters["Gênero"]}</h2>
+		<h1>{selection}</h1>
+		<h2>{context.currFilters["Tipo"]}</h2>
+		<h2>{context.currFilters["Gênero"]}</h2>
 		</div>
 		<div className='order__container'>
-			<select name="Ordem" onChange={changeOrder}>
-				<option value="Ordem">Ordem</option>
-				<option value="Menor Preço">Menor Preço</option>
-				<option value="Maior Preço">Maior Preço</option>
-			</select>
+		<select name="Ordem" onChange={changeOrder}>
+		<option value="Ordem">Ordem</option>
+		<option value="Menor Preço">Menor Preço</option>
+		<option value="Maior Preço">Maior Preço</option>
+		</select>
 		</div>
 		<div className="cards__container">
 		{totalItems_split.map(e => {
 			const key = e["marca"].replace(" ", "__") + e["modelo"].replace(" ", "__") + e["wppDesc"].replace(" ", "__") + e["preco"]
 			return (
 				<Card 
-					key={"card__" + key}
-					marca={e["marca"]} 
-					tipoDeCard={e["tipoDeCard"]} 
-					modelo={e["modelo"]} 
-					imgs={e["imgs"]} 
-					preco={e["preco"]} 
-					precoPromo={e["precoPromo"]} 
-					wppDesc={e["wppDesc"]}
+				key={"card__" + key}
+				marca={e["marca"]} 
+				tipoDeCard={e["tipoDeCard"]} 
+				modelo={e["modelo"]} 
+				imgs={e["imgs"]} 
+				preco={e["preco"]} 
+				precoPromo={e["precoPromo"]} 
+				wppDesc={e["wppDesc"]}
 				/>
-		)})}
+			)})}
 		</div>
 		<Pagination 
 		changePage={changePage}
