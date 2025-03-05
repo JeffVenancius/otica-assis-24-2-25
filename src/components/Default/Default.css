@@ -38,15 +38,15 @@
 
 
 .order__container select {
-	background-color: #fff;
-	border: 2px solid #f16122;
-	color: #f16122;
+	background-color: #2c2d3b;
+	border: none;
+	padding: 0;
+	color: #fff;
 	font-weight: 500;
-	width: 156px;
-	height: 40px;
-	border-radius: 32px;
+	width: 20%;
+	height: 44px;
 	text-align: center;
-	font-size: 16px;
+	font-size: 22px;
 }
 
 .not__founded {
@@ -57,6 +57,7 @@
 @media (max-width: 1064px) {
 	.order__container select {
 		height: 32px;
+		width: 25%;
 	}
 }
 
@@ -69,6 +70,10 @@
 	}
 	.title__cards h2 {
 		font-size: 3.5vw;
+	}
+	.order__container select {
+		width: 20vw;
+		font-size: 2.5vw; 
 	}
 }
 
@@ -93,23 +98,27 @@
 }
 
 
+
+@media (max-width: 700px) {
+	.order__container {
+		margin-top: 0;
+	}
+	.order__container select {
+		width: 30vw;
+	}
+}
+
 @media (max-width: 500px) {
 	.order__container {
 		margin: 0;
-		margin-top: 5%;
-		margin-bottom: 5%;
 		justify-content: center;
+		width: 100%;
 	}
 	.order__container select {
 		width: 80%;
 	}
 }
 
-@media (max-width: 480px) {
-	.order__container {
-		margin-top: 0;
-	}
-}
 
 @media (max-width: 350px) {
 	.order__container select {

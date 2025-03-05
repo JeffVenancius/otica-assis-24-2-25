@@ -1,6 +1,7 @@
 import './HeaderOptions.css'
 import HeaderOption from './HeaderOption'
 import urls from "../../../data/urls.json"
+import types from '../../../data/types.json'
 import { useEffect, useRef, useLayoutEffect, useState } from 'react';
 
 function useOutsideAlerter(ref, changeActive, size) {
@@ -37,29 +38,44 @@ const HeaderOptions = (props) => {
 		return () => window.removeEventListener("resize", updateSize);
 	}, []);
 
-	const getTitle = () => {
-		if (props.type === "Seleções" && props.title !== "/") {
-			let keys = Object.keys(urls)
-			for(let i = 0; i < keys.length ;i++) {
-				if (urls[keys[i]] === props.title.replace("/","")) {
-					return keys[i]
+		let currSelections = window.location.pathname.split('/')
+		let typesList = {}
+		for (let i = 0; i < Object.keys(urls).length; i++) {
+			for (let j = 0; j < currSelections.length; j++) {
+				if (urls[Object.keys(urls)[i]] === currSelections[j]) {
+					currSelections[j] = [Object.keys(urls)[i], currSelections[j]]
+					break
 				}
 			}
 		}
-		if (props.type in props.currFilters) {
-			return props.currFilters[props.type]
+
+		for (let i = 0; i < currSelections.length; i++) {
+			for (let j = 0; j < Object.keys(types).length; j++) {
+				let t = types[Object.keys(types)[j]]
+				if (t.includes(currSelections[i][0])) {
+					typesList[Object.keys(types)[j]] = currSelections[i]
+					break
+				}
+			}
+		}
+
+	const getTitle = () => {
+		if (Object.keys(typesList).includes(props.type)) {
+			return typesList[props.type][0]
 		}
 		return props.type
 	}
 	const active = props.active === props.type ? " header__options--first--active" : ""
-	const boxSize = props.options.filter(e=> props.possibleFilters.includes(e)).length
+
+	console.log(props.possibleFilters)
+
 
 	return (
 		<div className={'header__options' + active}>
-		<button ref={wrapperRef} className="header__buttons header__buttons--first" onClick={() => props.changeActive(props.type)}>{getTitle()}</button>
-		<div className={'header__options--container' + ' header__options--container--size--' + Math.max(boxSize, 2)} >
-			<HeaderOption setFilters={props.setFilters} type={props.type} value="Todos">"Todos"</HeaderOption>
-			{props.options.filter(e => props.possibleFilters.includes(e)).sort().map(e => <HeaderOption setFilters={props.setFilters} type={props.type} value={e} key={e + "__option"} url={urls[e]}>{e}</HeaderOption>)}
+		<button ref={wrapperRef} className="header__buttons header__buttons--first" onClick={() => props.changeActive(props.type)} >{getTitle()}</button>
+		<div className={'header__options--container'} >
+		<HeaderOption type={props.type} value="Todos">"Todos"</HeaderOption>
+		{props.options.filter(e => props.possibleFilters.includes(e)).sort().map(e => <HeaderOption type={props.type} value={e} key={e + "__option"} url={urls[e]}>{e}</HeaderOption>)}
 		</div>
 		</div>
 	)

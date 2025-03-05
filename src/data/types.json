@@ -1,5 +1,5 @@
 {
-	"Seleções": [
+	"Marcas": [
 		"Oslo",
 		"P12",
 		"On Design",
@@ -20,7 +20,7 @@
 		"Vogue",
 		"Lentes Cosméticas"
 	],
-	"Tipo":[
+	"Grau/Sol":[
 		"Óculos de Grau",
 		"Óculos Clip On",
 		"Óculos de Sol"
@@ -29,5 +29,7 @@
 		"Másculino",
 		"Feminino",
 		"Unissex"
+	],
+	"Formato": [
 	]
 }

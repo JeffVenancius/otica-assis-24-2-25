@@ -1,11 +1,15 @@
+.header__banner {
+	margin: 0 5%;
+}
+
 .header__banner--mobile {
 	display: none;
-	width: 100vw;
+	width: 100%;
 	aspect-ratio: 1.66667 / 1;
 }
 
 .header__banner--pc {
-	width: 100vw;
+	width: 100%;
 	aspect-ratio: 3.33333 / 1;
 }
 
@@ -19,8 +23,9 @@
 	}
 }
 
-@media (max-width: 480px) {
+@media (max-width: 700px) {
 	.header__banner--mobile {
 	margin: 2% 0;
+	margin-top: 0;
 	}
 }

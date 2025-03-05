@@ -2,8 +2,9 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	margin: 0 2%;
+	padding: 0 2%;
 	height: 128px;
+	background-color: #2c2d3b;
 }
 
 .header__nav--menu--mobile, .mobile__hamburger {
@@ -16,57 +17,74 @@
 }
 .header__nav--menu {
 	display: flex;
-	flex-basis: 50%;
-	justify-content: space-evenly;
+	flex-basis: 100%;
+	justify-content: space-around;
+	align-items: center;
+	height: 100%;
 }
 
 
 .header__buttons {
 	display: block;
 	background-color: transparent;
-	color: #f16122;
+	color: #2c2d3b;
 	opacity: 1;
 	border: none;
 	outline: none;
-	border-radius: 10px;
-	font-size: 18px;
+	font-size: 26px;
+	width: 100%;
 	font-weight: 400;
 	padding: 10px 14px;
-	margin:2px;
+}
+
+.header__buttons--first {
+	color: white;
 }
 
 .header__buttons--contact {
 	margin: 2px;
+	color: white;
+}
+
+
+@media (max-width: 1200px) {
+	.header__logo {
+		width: 20vw;
+	}
 }
 
 @media (max-width: 880px) {
 	.header__nav {
 		flex-direction: column;
-		margin: 2% 0;
+		padding: 1% 0;
 		margin-bottom: 0;
+	}
+	.header__logo {
+		width: 80%;
 	}
 }
 
-@media (max-width: 480px) {
+@media (max-width: 700px) {
 	.header__nav {
 		flex-direction: row;
-		justify-content: flex-end;
-		margin-right: 12%;
+		justify-content: center;
 		align-items: start;
 		height: 100%;
+	}
+	.header__logo {
+		width: 100%;
 	}
 	.header__nav--menu {
 		display: none;
 	}
-	.mobile__hamburger {
+	.mobile__hamburger, .mobile__on > .mobile__background > .mobile__hamburger {
 		display: unset;
-		width: 12vw;
+		width: 48px;
 		position: absolute;
 		top: 1%;
-		left: 1%;
-		background-color: white;
+		left: 2%;
+		background-color: transparent;
 		border: none;
-		z-index: 1015;
 	}
 
 	.mobile__hamburger img {
@@ -87,16 +105,20 @@
 	}
 	.mobile__on > .mobile__background > div {
 		height: 100%;;
-		width: 40%;
+		width: 50%;
 		margin:0;
-		background-color: white;
+		background-color: #2c2d3b;
 		display: flex;
 		flex-direction: column;
 		row-gap: 2vw;
 		padding-top: 15%
 	}
+	.inside__header--mobile .header__options {
+		flex-basis: 0;
+	}
+
 	.mobile__on > .mobile__background button {
-		font-size: 5vw;
+		font-size: 4.5vw;
 		width: 100%;
 		text-align: left;
 	}

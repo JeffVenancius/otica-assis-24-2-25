@@ -1,17 +1,20 @@
 import { useEffect, useState } from "react"
 import './Card.css'
 import WppBtn from '../WppButton'
+import { Link } from "react-router-dom"
 
 const ImgCarousel = (props) => {
 	if (props.imgs) {
 		if (props.imgs.length > 1) {
 			return (
-				<div className="card__img__colection">
-					{props.imgs.map(e => <img style={{translate: `${-100 * props.currImg}%`}} alt={props.modelo} className="card__image__custom" src={e} loading="lazy" key={e}/>)}
-				</div>
+				<Link to={"/produto/" + encodeURIComponent(props.marca + " " + props.modelo + " " + props.wppDesc)}> 
+					<div className="card__img__colection">
+						{props.imgs.map(e => <img style={{translate: `${-100 * props.currImg}%`}} alt={props.modelo} className="card__image__custom" src={e} loading="lazy" key={e}/>)}
+					</div>
+				</Link>
 			)
 		} else {
-			return <img alt={props.modelo} className="card__image__custom" src={props.imgs[0]} loading="lazy"/>
+			return <Link to={"/produto/" + encodeURIComponent(props.marca + "$$" + props.modelo + " " + props.wppDesc)}> <img alt={props.modelo} className="card__image__custom" src={props.imgs[0]} loading="lazy"/> </Link>
 		}
 	}
 }
@@ -25,7 +28,9 @@ const ImgContainer = (props) => {
 				currImg={props.currImg} 
 				delay={props.delay} 
 				discount={props.discount}
+				marca={props.marca}
 				modelo={props.modelo}
+				wppDesc={props.wppDesc}
 			/>
 		</div>
 		)
@@ -37,6 +42,9 @@ const ImgContainer = (props) => {
 				currImg={props.currImg} 
 				delay={props.delay} 
 				discount={props.discount}
+				marca={props.marca}
+				modelo={props.modelo}
+				wppDesc={props.wppDesc}
 		/>
 	)
 }
@@ -76,7 +84,7 @@ const Card = (props) => {
 		let price_option2 =  times === 1 ? "" : "ou " + formater.format(props.preco) + " à vista"
 	return (
 		<div className="card__custom">
-			<ImgContainer tipoDeCard={props.tipoDeCard} imgs={props?.imgs} currImg={currImg} delay={props.delay} discount={props.discount}/>
+			<ImgContainer marca={props.marca} modelo={props.modelo} wppDesc={props.wppDesc} tipoDeCard={props.tipoDeCard} imgs={props?.imgs} currImg={currImg} delay={props.delay} discount={props.discount}/>
 			<div className="card--description">
 	  			<div className="card__description-model">
 				<h2 >{props.marca}</h2>
@@ -96,7 +104,7 @@ const Card = (props) => {
 	}
 	return (
 		<div className="card__custom">
-			<ImgContainer imgs={props?.imgs} currImg={currImg} delay={props.delay} discount={props.discount}/>
+			<ImgContainer marca={props.marca} modelo={props.modelo} wppDesc={props.wppDesc} imgs={props?.imgs} currImg={currImg} delay={props.delay} discount={props.discount}/>
 			<div className="card--description">
 	  			<div className="card__description-model">
 				<h2 >{props.marca}</h2>

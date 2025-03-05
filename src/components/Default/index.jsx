@@ -1,9 +1,11 @@
 import urls from '../../data/urls.json'
+import types from '../../data/types.json'
 import Card from '../Card'
 import Pagination from '../Pagination'
 import { useOutletContext } from 'react-router'
 import { useState, useEffect, useRef } from 'react'
 import './Default.css'
+import axios from 'axios'
 
 const Default = (props) => {
 	const topRef = useRef()
@@ -15,48 +17,82 @@ const Default = (props) => {
 	const itemsPerPage = 6
 
 	useEffect(() => {
-		let currSelection = window.location.pathname.replace("/","")
-		currSelection = currSelection ? currSelection : "default"
-		fetch('./data/items/' + currSelection + '.json', {method: 'GET'})
-			.then(res => res.json())
-			.then(items => {
-				for (let i = 0; i < Object.keys(urls).length; i++) {
-					if (urls[Object.keys(urls)[i]] === currSelection) {
-						currSelection = Object.keys(urls)[i]
-						if (!selection) setSelection(currSelection)
-					} 
-				}
-				let currCards = []
+		let currSelections = window.location.pathname.split('/')
+		let typesList = {}
 
-				// const keys = Object.keys(items)
-				for (let key = 0; key < items.length; key++) {
-					let tipo = false
-					let genero = false
-					const filtersKeys = Object.keys(context.currFilters)
-					if (filtersKeys.includes("Tipo")) {
-						if (items[key]["Tipo"] === context.currFilters["Tipo"] || context.currFilters["Tipo"] === "Todos") {
+		for (let i = 0; i < Object.keys(urls).length; i++) {
+			for (let j = 0; j < currSelections.length; j++) {
+				if (urls[Object.keys(urls)[i]] === currSelections[j]) {
+					currSelections[j] = [Object.keys(urls)[i], currSelections[j]]
+					break
+				}
+			}
+		}
+
+		for (let i = 0; i < currSelections.length; i++) {
+			for (let j = 0; j < Object.keys(types).length; j++) {
+				let t = types[Object.keys(types)[j]]
+				if (t.includes(currSelections[i][0])) {
+					typesList[Object.keys(types)[j]] = currSelections[i]
+					break
+				}
+			}
+		}
+
+		const name = 0
+		const urlName = 1
+		if (Object.keys(typesList).includes("Marcas")) {
+			let currCards = []
+			fetch('/data/items/' + typesList['Marcas'][urlName] + '.json', {method: 'GET'})
+				.then(res => res.json())
+				.then(items => {
+					for (let key = 0; key < items.length; key++) {
+						let tipo = false
+						let genero = false
+						const filtersKeys = Object.keys(typesList)
+						if (filtersKeys.includes("Grau/Sol")) {
+							if (items[key]["Grau/Sol"] === typesList["Grau/Sol"][name]) {
+								tipo = true
+							}
+						} else {
 							tipo = true
 						}
-					} else {
-						tipo = true
-					}
-					if (filtersKeys.includes("Gênero")) {
-						if (items[key]["Gênero"] === context.currFilters["Gênero"] || context.currFilters["Gênero"] === "Todos") {
+						if (filtersKeys.includes("Gênero")) {
+							if (items[key]["Gênero"] === typesList["Gênero"][name]) {
+								genero = true
+							}
+						} else {
 							genero = true
 						}
-					} else {
-						genero = true
-					}
-					if (tipo && genero) {
-						if (typeof items[key][Object.keys(items[key])[0]] !== 'object') {
-							if (!currCards.includes(items[key])) {
-								currCards.push(items[key])
+						if (tipo && genero) {
+							if (typeof items[key][Object.keys(items[key])[0]] !== 'object') {
+								if (!currCards.includes(items[key])) {
+									currCards.push(items[key])
+								}
 							}
-						}
-					} 
-				}
-				setTotalItems(currCards)
-			})
+						} 
+					}
+					setTotalItems(currCards)
+				})
+		} else {
+			let promises = []
+			for (let i = 0; i < Object.keys(urls).length; i++) {
+				let url = urls[Object.keys(urls)[i]]
+				if (url) promises.push(axios.get('/data/items/' + url +'.json'))
+				let currCards = []
+				axios.all(promises)
+					.then(
+						axios.spread((...allData) => {
+							allData.forEach((data) => {
+								if (typeof data['data'] === 'object') {
+									currCards.push(...data['data'])
+								}
+							})
+							setTotalItems(currCards)
+						})
+					)
+			}
+		}
 	}, [])
 
 	const changePage = (nextPage) => {
@@ -64,31 +100,51 @@ const Default = (props) => {
 	}
 
 	const get_filtered_items = () => {
-		const items = totalItems
+		let currSelections = window.location.pathname.split('/')
+		let typesList = {}
 		let currCards = []
-		for (let key = 0; key < items.length; key++) {
+
+		for (let i = 0; i < Object.keys(urls).length; i++) {
+			for (let j = 0; j < currSelections.length; j++) {
+				if (urls[Object.keys(urls)[i]] === currSelections[j]) {
+					currSelections[j] = [Object.keys(urls)[i], currSelections[j]]
+					break
+				}
+			}
+		}
+
+		for (let i = 0; i < currSelections.length; i++) {
+			for (let j = 0; j < Object.keys(types).length; j++) {
+				let t = types[Object.keys(types)[j]]
+				if (t.includes(currSelections[i][0])) {
+					typesList[Object.keys(types)[j]] = currSelections[i]
+					break
+				}
+			}
+		}
+		const name = 0
+		const urlName = 1
+		for (let key = 0; key < totalItems.length; key++) {
 			let tipo = false
 			let genero = false
-			const filtersKeys = Object.keys(context.currFilters)
-			if (filtersKeys.includes("Tipo")) {
-				if (items[key]["Tipo"] === context.currFilters["Tipo"] || context.currFilters["Tipo"] === "Todos") {
+			const filtersKeys = Object.keys(typesList)
+			if (filtersKeys.includes("Grau/Sol")) {
+				if (totalItems[key]["Grau/Sol"] === typesList["Grau/Sol"][name]) {
 					tipo = true
 				}
 			} else {
 				tipo = true
 			}
 			if (filtersKeys.includes("Gênero")) {
-				if (items[key]["Gênero"] === context.currFilters["Gênero"] || context.currFilters["Gênero"] === "Todos") {
+				if (totalItems[key]["Gênero"] === typesList["Gênero"][name]) {
 					genero = true
 				}
 			} else {
 				genero = true
 			}
 			if (tipo && genero) {
-				if (typeof items[key][Object.keys(items[key])[0]] !== 'object') {
-					if (!currCards.includes(items[key])) {
-						currCards.push(items[key])
-					}
+				if (!currCards.includes(totalItems[key])) {
+					currCards.push(totalItems[key])
 				}
 			} 
 		}
@@ -122,13 +178,12 @@ const Default = (props) => {
 		return 0
 	})
 
-	const totalItems_split = totalItems_sorted.splice(startPg, endPg)
-
+	const totalItems_split = totalItems_sorted.slice(startPg, endPg)
 	return (
 		<>
 		<div className='title__cards' ref={topRef}>
 		<h1>{selection}</h1>
-		<h2>{context.currFilters["Tipo"]}</h2>
+		<h2>{context.currFilters["Grau/Sol"]}</h2>
 		<h2>{context.currFilters["Gênero"]}</h2>
 		</div>
 		<div className='order__container'>

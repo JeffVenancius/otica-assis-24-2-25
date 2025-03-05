@@ -3,8 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 
-
+import Default from './components/Default';
 import Oslo from './pages/Oslo';
+import Produto from './pages/Produto';
 import P12 from './pages/P12'
 import OnDesign from './pages/OnDesign'
 import Adventure from './pages/Adventure'
@@ -31,10 +32,10 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 const router = createBrowserRouter([
-		{
-			path: "/",
-			element: <App />,
-			children: [
+	{
+		path: "/",
+		element: <App />,
+		children: [
 			{
 				path: "/",
 				element: <DefaultHome />
@@ -115,10 +116,26 @@ const router = createBrowserRouter([
 				path: "vogue",
 				element: <Vogue />
 			},
-			]
+		{
+			path: "produto/:product",
+			element:<Produto />
 		},
-	])
+		{
+			path: ":param1",
+			element: <Default />
+		},
+		{
+			path: ":param1/:param2",
+			element: <Default />
+		},
+		{
+			path: ":param1/:param2/:param3",
+			element: <Default />
+		}
+		]
+	},
+])
 
 root.render(
-		<RouterProvider router={router}/>
+	<RouterProvider router={router}/>
 );
