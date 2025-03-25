@@ -18,6 +18,11 @@
 	background-color: #de7c34;
 }
 
+@media (max-width: 880px) {
+.wpp__link__product {
+	aspect-ratio: 7/1;
+	}
+}
 @media (max-width: 530px) {
 	.wpp__button__product {
 		font-size: 4vw;

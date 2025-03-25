@@ -4,7 +4,7 @@ import Header from './components/Header';
 import DefaultBanner from './components/DefaultBanner';
 import Footer from './components/Footer';
 import ScrollToTop from './components/scrollToTop.jsx'
-import { Outlet } from 'react-router-dom'
+import { Outlet, useLocation, useParams } from 'react-router-dom'
 import { useState, useEffect } from 'react';
 
 import axios from 'axios'
@@ -12,9 +12,11 @@ import types from './data/types.json'
 import urls from './data/urls.json'
 
 function App() {
+	const params = useParams()
+	const location = useLocation()
 	const [currFilters, changeCurrFilters] = useState({})
-	const [possibleFilters, setPossibleFilters] = useState([])
 	const [totalItems, setTotalItems] = useState([])
+	const [possibleFilters, setPossibleFilters] = useState([])
 
 	const getTypesList = () => {
 		let currSelections = window.location.pathname.split('/')
@@ -38,73 +40,36 @@ function App() {
 				}
 			}
 		}
+		if (Object.keys(typesList).includes("Especiais")) {
+			typesList["Marcas"] = [...typesList["Especiais"]]
+			delete typesList["Especiais"]
+		}
 		return typesList
 	}
 
 	useEffect(() => {
-		let currSelections = window.location.pathname.split('/')
+		if (params.product) {
+			return
+		}
+
 		let typesList = getTypesList()
-
-		// for (let i = 0; i < Object.keys(urls).length; i++) {
-		// 	for (let j = 0; j < currSelections.length; j++) {
-		// 		if (urls[Object.keys(urls)[i]] === currSelections[j]) {
-		// 			currSelections[j] = [Object.keys(urls)[i], currSelections[j]]
-		// 			break
-		// 		}
-		// 	}
-		// }
-
-		// for (let i = 0; i < currSelections.length; i++) {
-		// 	for (let j = 0; j < Object.keys(types).length; j++) {
-		// 		let t = types[Object.keys(types)[j]]
-		// 		if (t.includes(currSelections[i][0])) {
-		// 			typesList[Object.keys(types)[j]] = currSelections[i]
-		// 			break
-		// 		}
-		// 	}
-		// }
-
 
 		const name = 0
 		const urlName = 1
 		if (Object.keys(typesList).includes("Marcas")) {
-			let currCards = []
 			fetch('/data/items/' + typesList['Marcas'][urlName] + '.json', {method: 'GET'})
 				.then(res => res.json())
 				.then(items => {
-					for (let key = 0; key < items.length; key++) {
-						let tipo = false
-						let genero = false
-						const filtersKeys = Object.keys(typesList)
-						if (filtersKeys.includes("Grau/Sol")) {
-							if (items[key]["Grau/Sol"] === typesList["Grau/Sol"][name]) {
-								tipo = true
-							}
-						} else {
-							tipo = true
-						}
-						if (filtersKeys.includes("Gênero")) {
-							if (items[key]["Gênero"] === typesList["Gênero"][name]) {
-								genero = true
-							}
-						} else {
-							genero = true
-						}
-						if (tipo && genero) {
-							if (typeof items[key][Object.keys(items[key])[0]] !== 'object') {
-								if (!currCards.includes(items[key])) {
-									currCards.push(items[key])
-								}
-							}
-						} 
-					}
-					setTotalItems(currCards)
+					console.log(items)
+					setTotalItems(items)
 				})
 		} else {
 			let promises = []
 			for (let i = 0; i < Object.keys(urls).length; i++) {
 				let url = urls[Object.keys(urls)[i]]
-				if (url) promises.push(axios.get('/data/items/' + url +'.json'))
+				if (url && (types["Marcas"].includes(Object.keys(urls)[i]) || types["Especiais"].includes(Object.keys(urls)[i]))) {
+					promises.push(axios.get('/data/items/' + url +'.json'))
+				}
 				let currCards = []
 				axios.all(promises)
 					.then(
@@ -120,30 +85,6 @@ function App() {
 			}
 		}
 	}, [])
-
-
-
-
-
-		// let currSelection = window.location.pathname.replace("/","")
-		// currSelection = currSelection ? currSelection : "default"
-		// fetch('./data/items/' + currSelection + '.json', {method:"GET"})
-		// 	.then(res => res.json())
-		// 	.then(items => {
-		// 		let possibleFiltersOut = [...Object.keys(urls)]
-		// 		items.forEach(item => {
-		// 			const filters = ["Tipo", "Gênero"]
-		// 			filters.forEach(type => {
-		// 				if (!possibleFilters.includes(item[type])) {
-		// 					possibleFiltersOut.push(item[type])
-		// 				}
-		// 			})
-		// 		})
-		// 		setPossibleFilters(possibleFiltersOut)
-		// 	})
-	// },[])
-
-
 
 	const setFilters = (filter, type) => {
 		let newFilter = JSON.parse(JSON.stringify(currFilters))
@@ -194,29 +135,11 @@ function App() {
 		return [...possibleItems, ...types["Marcas"]]
 	}
 
-	// useEffect(() => {
-	// 	const params = new URLSearchParams(document.location.search)
-	// 	if (Object.keys(currFilters).length) {
-	// 	Object.keys(currFilters).forEach((k) =>
-	// 		{
-	// 			params.set(k, currFilters[k])
-	// 		})
-	// 			history.pushState({},"", currFilters && "?" + params.toString())
-	// 	}
-	// }, [currFilters])
-
 	useEffect(() => {
-		const params = new URLSearchParams(document.location.search)
-		let out = {}
-		for (const [key, value] of params) {
-			out[key] = value
-		}
-		changeCurrFilters(out)
-	}, [])
+		setPossibleFilters(getPossibleFilters())
 
-	const changeUrl = () => {
-		changeCurrFilters({})
-	}
+	}, [location, totalItems])
+
   return (
 		<>
 		<ScrollToTop />
@@ -225,8 +148,8 @@ function App() {
 			headerAlt="Logo Ótica Assis"
 			setFilters={setFilters}
 			currFilters={currFilters}
-			possibleFilters={getPossibleFilters()}
-			changeUrl={changeUrl}
+			possibleFilters={possibleFilters}
+			totalItems={{totalItems}}
 		>
 		<DefaultBanner/>
 		</Header>

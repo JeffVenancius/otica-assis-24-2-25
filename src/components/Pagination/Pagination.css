@@ -8,39 +8,45 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	column-gap: 10%;
+	column-gap: 2%;
+	height: 32px;
+	width: 5%;
+	min-width: 173px;
+	background-color: #2c2d3b;
+	border-radius: 16px;
 }
 
-.pagination__container button {
+.pagination__container button, .empty__page {
+	height: 100%;
 	background: none;
 	border: none;
 	outline: none;
 	box-shadow: none;
+	padding: unset;
+	color: #fff;
+	text-align: center;
+	font-weight: 600;
+	width: 100%;
 }
 
-.pagination__container button, .pagination__container div {
-	background-color: #fff;
-	color: #f16122;
-	border: 2px solid #f16122;
-	border-radius: 50%;
-	width: 40px;
-	aspect-ratio: 1/1;
-	text-align: center;
-}
 
 .pagination__container div {
+	background-color: #2c2d3b;
+	color: #fff;
+	border-radius: 10%;
+	text-align: center;
+	font-weight: 500;
+	height: 100%;
+	flex-grow: 1;
 	display: flex;
 	justify-content: center;
-	align-content: center;
 	align-items: center;
-	width: 64px;
+	font-size: 20px;
+	width: 100%;
 }
 
-.pagination__container div.empty__page {
-	background-color: #fff;
-	border: 2px solid #f16122;
-	width: 5px;
-	height: 5px;
+.pagination__container .empty__page {
+	background-color: transparent;
 }
 
 @media (max-width: 700px) {
@@ -48,14 +54,10 @@
 		margin: 0;
 		justify-content: center;
 	}
-	.pagination__container div {
-		width: 70px;
-	}
-	.pagination__container button {
-		width: 50px;
-	}
-	.pagination__container div.empty__page {
-		width: 10px;
-		height: 10px;
-	}
+	/* .pagination__container div { */
+	/* 	width: 70px; */
+	/* } */
+	/* .pagination__container button, .empty__page { */
+	/* 	width: 50px; */
+	/* } */
 }

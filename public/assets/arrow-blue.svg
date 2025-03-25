@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   height="800"
+   width="800"
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 0 330 330"
+   xml:space="preserve"
+   sodipodi:docname="burger.svg"
+   inkscape:export-filename="/home/jeffven/arrow-white.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1" /><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"><inkscape:page
+     x="0"
+     y="0"
+     width="330"
+     height="330"
+     id="page2"
+     margin="0"
+     bleed="0" /></sodipodi:namedview>
+<path
+   id="XMLID_222_"
+   d="M 250.606,154.389 100.606,4.393 C 94.749,-1.465 85.251,-1.465 79.393,4.394 73.536,10.252 73.536,19.749 79.394,25.607 L 218.787,164.997 79.393,304.394 c -5.857,5.858 -5.857,15.355 0.001,21.213 2.928,2.929 6.767,4.393 10.606,4.393 3.839,0 7.678,-1.464 10.607,-4.394 L 250.606,175.602 c 2.814,-2.813 4.394,-6.628 4.394,-10.606 0,-3.978 -1.58,-7.794 -4.394,-10.607 z"
+   style="fill:#2c2d3b;fill-opacity:1;stroke:none;stroke-opacity:1" />
+</svg>

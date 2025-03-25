@@ -1,0 +1,19 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Spellbound",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SB065",
+        "cor numérica": "C1",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 748,
+        "precoPromo": 748,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/bLTg3D5/image.jpg",
+            "https://i.ibb.co/FmfcTBV/image.jpg"
+        ]
+    }
+]

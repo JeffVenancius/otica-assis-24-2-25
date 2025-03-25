@@ -1,0 +1,19 @@
+[
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Havaianas",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RIOM",
+        "cor númerica": "TDSLS",
+        "cor": "Rosa",
+        "Formato": "Redondo",
+        "preco": 239,
+        "precoPromo": 239,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/n3w3hRb/image.jpg",
+            "https://i.ibb.co/TKmsGst/image.jpg"
+        ]
+    }
+]

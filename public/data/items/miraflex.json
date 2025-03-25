@@ -1,0 +1,19 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Miraflex",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MF4007",
+        "cor numérica": "L141",
+        "cor": "Cinza ",
+        "Formato": "Esportivo",
+        "preco": 311,
+        "precoPromo": 311,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pLrqJfB/image.jpg",
+            "https://i.ibb.co/QCzpyXC/image.jpg"
+        ]
+    }
+]

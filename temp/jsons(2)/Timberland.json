@@ -1,0 +1,155 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Timberland",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TB1590",
+        "cor númerica": "52",
+        "cor": "Demi",
+        "Formato": "Retangular",
+        "preco": 547,
+        "precoPromo": 547,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Nmh6BHM/image.jpg",
+            "https://i.ibb.co/jzXqz6R/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Timberland",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TB1767",
+        "cor númerica": "026",
+        "cor": "Transparente",
+        "Formato": "Quadrado",
+        "preco": 646,
+        "precoPromo": 646,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/nDfqBmG/image.jpg",
+            "https://i.ibb.co/hR4JPjF/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Timberland",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TB1774-H",
+        "cor númerica": "001",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 823,
+        "precoPromo": 823,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/MDkR00h/image.jpg",
+            "https://i.ibb.co/tZL2HDs/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Timberland",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TB9335-H",
+        "cor númerica": "52H",
+        "cor": "Tortoise",
+        "Formato": "Quadrado",
+        "preco": 684,
+        "precoPromo": 684,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gz77gmM/image.jpg",
+            "https://i.ibb.co/fqYjBkf/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Timberland",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TB9086",
+        "cor númerica": "49H",
+        "cor": "Bronze",
+        "Formato": "Esportivo",
+        "preco": 590,
+        "precoPromo": 590,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/v4C2YTZ/image.jpg",
+            "https://i.ibb.co/sQJGfCB/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Timberland",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TB9104",
+        "cor númerica": "52H",
+        "cor": "Demi",
+        "Formato": "Esportivo",
+        "preco": 590,
+        "precoPromo": 590,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pX1x2Kt/image.jpg",
+            "https://i.ibb.co/jLXv10n/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Timberland",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TB9148",
+        "cor númerica": "96D",
+        "cor": "Cinza",
+        "Formato": "Clubmaster",
+        "preco": 590,
+        "precoPromo": 590,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/mN3zBX9/image.jpg",
+            "https://i.ibb.co/9rmHZfp/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Timberland",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TB9159",
+        "cor númerica": "91D",
+        "cor": "Azul",
+        "Formato": "Redondo",
+        "preco": 590,
+        "precoPromo": 590,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/J2Xgqrh/image.jpg",
+            "https://i.ibb.co/N30Xc93/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Timberland",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TB9165",
+        "cor númerica": "02D",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 590,
+        "precoPromo": 590,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/nsbjg7P/image.jpg",
+            "https://i.ibb.co/yfLDLds/image.jpg"
+        ]
+    }
+]

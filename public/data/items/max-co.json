@@ -1,0 +1,1203 @@
+[
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO0091",
+        "cor numérica": "30P",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 1160,
+        "precoPromo": 1160,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/CKSL7JXB/image.jpg",
+            "https://i.ibb.co/G4vJ4K5C/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO0091",
+                "cor numérica": "32N",
+                "cor": "Dourado",
+                "Formato": "Borboleta",
+                "preco": 1160,
+                "precoPromo": 1160,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/Y0bptwR/image.jpg",
+                    "https://i.ibb.co/zsNNXRp/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO0088",
+        "cor numérica": "52Z",
+        "cor": "Demi",
+        "Formato": "Borboleta",
+        "preco": 875,
+        "precoPromo": 875,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/bQSdZxL/image.jpg",
+            "https://i.ibb.co/WDT0HMk/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO0088",
+                "cor numérica": "01B",
+                "cor": "Preto",
+                "Formato": "Redondo",
+                "preco": 791,
+                "precoPromo": 791,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/phNRPHJ/image.jpg",
+                    "https://i.ibb.co/f2FSCYm/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO0088",
+                "cor numérica": "55T",
+                "cor": "Tortoise",
+                "Formato": "Redondo",
+                "preco": 875,
+                "precoPromo": 875,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/MCj3tXG/image.jpg",
+                    "https://i.ibb.co/ryBynV2/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5008",
+        "cor numérica": "92",
+        "cor": "Azul",
+        "Formato": "Borboleta",
+        "preco": 747,
+        "precoPromo": 747,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/vwrSwNW/image.jpg",
+            "https://i.ibb.co/1b023X4/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5051",
+        "cor numérica": "092",
+        "cor": "Azul",
+        "Formato": "Quadrado",
+        "preco": 748,
+        "precoPromo": 748,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/nQYdv6C/image.jpg",
+            "https://i.ibb.co/5jcRQC3/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO0034",
+        "cor numérica": "52E",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 845,
+        "precoPromo": 845,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/1zf8ny0/image.jpg",
+            "https://i.ibb.co/QF2VpQk/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5143",
+        "cor numérica": "55A",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 820,
+        "precoPromo": 820,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/6BQRffJ/image.jpg",
+            "https://i.ibb.co/VgSJbwy/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO5143",
+                "cor numérica": "001",
+                "cor": "Preto",
+                "Formato": "Gatinho",
+                "preco": 795,
+                "precoPromo": 795,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/dpQ5P1y/image.jpg",
+                    "https://i.ibb.co/WFRgRRs/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO5143",
+                "cor numérica": "075",
+                "cor": "Burgundy",
+                "Formato": "Gatinho",
+                "preco": 855,
+                "precoPromo": 855,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/F0tpt49/image.jpg",
+                    "https://i.ibb.co/Wn1GX32/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO5143",
+                "cor numérica": "081",
+                "cor": "Lilás",
+                "Formato": "Gatinho",
+                "preco": 795,
+                "precoPromo": 795,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/7z8JL9j/image.jpg",
+                    "https://i.ibb.co/gThW2PZ/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO5143",
+                "cor numérica": "093",
+                "cor": "Verde",
+                "Formato": "Gatinho",
+                "preco": 795,
+                "precoPromo": 795,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/Y032gWq/image.jpg",
+                    "https://i.ibb.co/1sBxbRQ/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5171",
+        "cor numérica": "090",
+        "cor": "Azul",
+        "Formato": "Gatinho",
+        "preco": 815,
+        "precoPromo": 815,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/ZdWDJcC/image.jpg",
+            "https://i.ibb.co/BK5zBqp/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO5171",
+                "cor numérica": "052",
+                "cor": "Tortoise",
+                "Formato": "Gatinho",
+                "preco": 790,
+                "precoPromo": 790,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/kHM2k7b/image.jpg",
+                    "https://i.ibb.co/0DYctHm/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO0032",
+        "cor numérica": "55P",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 987,
+        "precoPromo": 987,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0cW4HLs/image.jpg",
+            "https://i.ibb.co/12VNRMj/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO0059",
+        "cor numérica": "55W",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 874,
+        "precoPromo": 874,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/30wr6kz/image.jpg",
+            "https://i.ibb.co/pJCtFws/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO0059",
+                "cor numérica": "56B",
+                "cor": "Tortoise",
+                "Formato": "Borboleta",
+                "preco": 855,
+                "precoPromo": 855,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/3v1wYN1/image.jpg",
+                    "https://i.ibb.co/m87Tvz4/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO0063",
+        "cor numérica": "24F",
+        "cor": "Branco",
+        "Formato": "Borboleta",
+        "preco": 797,
+        "precoPromo": 797,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/9VccmSw/image.jpg",
+            "https://i.ibb.co/SXm2ZB9/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO0063",
+                "cor numérica": "56F",
+                "cor": "Demi",
+                "Formato": "Borboleta",
+                "preco": 883,
+                "precoPromo": 883,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/pPGxygB/image.jpg",
+                    "https://i.ibb.co/KWzSp1g/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO0063",
+                "cor numérica": "01B",
+                "cor": "Preto",
+                "Formato": "Borboleta",
+                "preco": 797,
+                "precoPromo": 797,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/vmJGFm9/image.jpg",
+                    "https://i.ibb.co/WpHm8gH/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO0076",
+        "cor numérica": "72B",
+        "cor": "Rosa",
+        "Formato": "Redondo",
+        "preco": 987,
+        "precoPromo": 987,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/9ZMMrrp/image.jpg",
+            "https://i.ibb.co/pLPsPH2/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO0106",
+        "cor numérica": "55Z",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 985,
+        "precoPromo": 985,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/5xmPQZr/image.jpg",
+            "https://i.ibb.co/HqTFNMH/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5033",
+        "cor numérica": "092",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 855,
+        "precoPromo": 855,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gvZPjCF/image.jpg",
+            "https://i.ibb.co/3cJcFxx/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5045",
+        "cor numérica": "56A",
+        "cor": "Tortoise",
+        "Formato": "Redondo",
+        "preco": 935,
+        "precoPromo": 935,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/6mPpBjQ/image.jpg",
+            "https://i.ibb.co/Sxjsvsr/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5079",
+        "cor numérica": "001",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 748,
+        "precoPromo": 748,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Wp2yRtw/image.jpg",
+            "https://i.ibb.co/G5MN1GW/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO5079",
+                "cor numérica": "056",
+                "cor": "Tortoise",
+                "Formato": "Gatinho",
+                "preco": 748,
+                "precoPromo": 748,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/hZMgdKp/image.jpg",
+                    "https://i.ibb.co/CsJYg5g/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5081",
+        "cor numérica": "001",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 771,
+        "precoPromo": 771,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/BTkXXd4/image.jpg",
+            "https://i.ibb.co/tMvHH6L/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5083",
+        "cor numérica": "055",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 748,
+        "precoPromo": 748,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/j6wcYt4/image.jpg",
+            "https://i.ibb.co/9TQ4S3N/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO5083",
+                "cor numérica": "072",
+                "cor": "Rosa",
+                "Formato": "Gatinho",
+                "preco": 695,
+                "precoPromo": 695,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/9GJCf65/image.jpg",
+                    "https://i.ibb.co/rFR4sh9/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5085",
+        "cor numérica": "056",
+        "cor": "Marrom",
+        "Formato": "Borboleta",
+        "preco": 855,
+        "precoPromo": 855,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/vZL4hkL/image.jpg",
+            "https://i.ibb.co/Bjkx3cj/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5088",
+        "cor numérica": "033",
+        "cor": "Rosé",
+        "Formato": "Borboleta",
+        "preco": 906,
+        "precoPromo": 906,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/YyMMjhm/image.jpg",
+            "https://i.ibb.co/yPb3Yyc/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5089",
+        "cor numérica": "032",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 879,
+        "precoPromo": 879,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/GMNpgdF/image.jpg",
+            "https://i.ibb.co/yPVr9hh/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5092",
+        "cor numérica": "072",
+        "cor": "Rosa",
+        "Formato": "Gatinho",
+        "preco": 654,
+        "precoPromo": 654,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/MB0Xjhq/image.jpg",
+            "https://i.ibb.co/GpRGxWX/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5095",
+        "cor numérica": "083",
+        "cor": "Roxo",
+        "Formato": "Quadrado",
+        "preco": 804,
+        "precoPromo": 804,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Kb2thX5/image.jpg",
+            "https://i.ibb.co/TDXb9hf/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5102",
+        "cor numérica": "020",
+        "cor": "Cinza ",
+        "Formato": "Borboleta",
+        "preco": 760,
+        "precoPromo": 760,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/YRs56Zt/image.jpg",
+            "https://i.ibb.co/hYmWfdR/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO5102",
+                "cor numérica": "055",
+                "cor": "Tortoise",
+                "Formato": "Borboleta",
+                "preco": 760,
+                "precoPromo": 760,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/KVrWYwL/image.jpg",
+                    "https://i.ibb.co/cL9cF4J/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO5102",
+                "cor numérica": "096",
+                "cor": "Verde ",
+                "Formato": "Gatinho",
+                "preco": 760,
+                "precoPromo": 760,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/ccKL29L/image.jpg",
+                    "https://i.ibb.co/rbCr1S2/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5109",
+        "cor numérica": "001",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 804,
+        "precoPromo": 804,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/KzbWCWC/image.jpg",
+            "https://i.ibb.co/RHpK8Gv/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5111",
+        "cor numérica": "032",
+        "cor": "Nude",
+        "Formato": "Retangular",
+        "preco": 869,
+        "precoPromo": 869,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/YySrPMt/image.jpg",
+            "https://i.ibb.co/KsK3g90/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5119",
+        "cor numérica": "032",
+        "cor": "Prata",
+        "Formato": "Gatinho",
+        "preco": 869,
+        "precoPromo": 869,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/zrYsqLk/image.jpg",
+            "https://i.ibb.co/BqhYrZy/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5120",
+        "cor numérica": "001",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 760,
+        "precoPromo": 760,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0VtRP84/image.jpg",
+            "https://i.ibb.co/6P86ZWb/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO5120",
+                "cor numérica": "052",
+                "cor": "Tortoise",
+                "Formato": "Gatinho",
+                "preco": 760,
+                "precoPromo": 760,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/LtzbxzP/image.jpg",
+                    "https://i.ibb.co/Czc1h28/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO5120",
+                "cor numérica": "087",
+                "cor": "Azul",
+                "Formato": "Gatinho",
+                "preco": 760,
+                "precoPromo": 760,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/L92ktPB/image.jpg",
+                    "https://i.ibb.co/8xN61GP/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO5120",
+                "cor numérica": "066",
+                "cor": "Vermelho",
+                "Formato": "Gatinho",
+                "preco": 739,
+                "precoPromo": 739,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/dP7d9jS/image.jpg",
+                    "https://i.ibb.co/j8sWxYD/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5127",
+        "cor numérica": "001",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 804,
+        "precoPromo": 804,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/v472fP6/image.jpg",
+            "https://i.ibb.co/YP7rs6C/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5129",
+        "cor numérica": "055",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 927,
+        "precoPromo": 927,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/BBD33ZQ/image.jpg",
+            "https://i.ibb.co/5cwPKqP/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO5129",
+                "cor numérica": "090",
+                "cor": "Azul ",
+                "Formato": "Gatinho",
+                "preco": 927,
+                "precoPromo": 927,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/PY4ggBr/image.jpg",
+                    "https://i.ibb.co/ZTWwYnM/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5141",
+        "cor numérica": "055",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 927,
+        "precoPromo": 927,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/rxpvY3G/image.jpg",
+            "https://i.ibb.co/VgnGTCj/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5144",
+        "cor numérica": "090",
+        "cor": "Azul",
+        "Formato": "Quadrado",
+        "preco": 837,
+        "precoPromo": 837,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/k342nzr/image.jpg",
+            "https://i.ibb.co/NNchktf/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5145",
+        "cor numérica": "001",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 789,
+        "precoPromo": 789,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/cgV0kN1/image.jpg",
+            "https://i.ibb.co/ky5M89Q/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO5145",
+                "cor numérica": "093",
+                "cor": "Azul ",
+                "Formato": "Redondo",
+                "preco": 728,
+                "precoPromo": 728,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/4pwpvYq/image.jpg",
+                    "https://i.ibb.co/614NxwF/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5147",
+        "cor numérica": "096",
+        "cor": "Verde",
+        "Formato": "Gatinho",
+        "preco": 795,
+        "precoPromo": 795,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/dgCdQKY/image.jpg",
+            "https://i.ibb.co/ckRk7TF/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5170",
+        "cor numérica": "001",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 790,
+        "precoPromo": 790,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/DtnftFH/image.jpg",
+            "https://i.ibb.co/CzqvGDn/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5169",
+        "cor numérica": "001",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 790,
+        "precoPromo": 790,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/LPNYtwR/image.jpg",
+            "https://i.ibb.co/sCyqhY1/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO5169",
+                "cor numérica": "069",
+                "cor": "Bordô",
+                "Formato": "Gatinho",
+                "preco": 790,
+                "precoPromo": 790,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/dtr429K/image.jpg",
+                    "https://i.ibb.co/4J5K1r0/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5173",
+        "cor numérica": "001",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 626,
+        "precoPromo": 626,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/099Z3SP/image.jpg",
+            "https://i.ibb.co/zrhBYqr/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Max&Co.",
+                "tipoDeCard": "Com Preço",
+                "modelo": "MO5173",
+                "cor numérica": "096",
+                "cor": "Verde",
+                "Formato": "Borboleta",
+                "preco": 626,
+                "precoPromo": 626,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/tBvtxQp/image.jpg",
+                    "https://i.ibb.co/PwNMGKG/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO0039",
+        "cor numérica": "01B",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 1103,
+        "precoPromo": 1103,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Nr5YG4j/MO0039-01-B-1.jpg",
+            "https://i.ibb.co/ggcrMtW/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO0053",
+        "cor numérica": "52F",
+        "cor": "Demi",
+        "Formato": "Borboleta",
+        "preco": 776,
+        "precoPromo": 776,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Q9jZ9DF/image.jpg",
+            "https://i.ibb.co/xHndYH9/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO0057",
+        "cor numérica": "52E",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 935,
+        "precoPromo": 935,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/4mcLPfL/image.jpg",
+            "https://i.ibb.co/3zxDWFC/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO0065",
+        "cor numérica": "01B",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 858,
+        "precoPromo": 858,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2PbJj9L/MO0065-01-B-1.jpg",
+            "https://i.ibb.co/M5bPqzB/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO0081",
+        "cor numérica": "55E",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 877,
+        "precoPromo": 877,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/y5zprtF/image.jpg",
+            "https://i.ibb.co/JkT3Q47/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5028",
+        "cor numérica": "55",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 804,
+        "precoPromo": 804,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/vQrJLtR/image.jpg",
+            "https://i.ibb.co/f2RBh7f/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5097",
+        "cor numérica": "033",
+        "cor": "Rosé",
+        "Formato": "Borboleta",
+        "preco": 893,
+        "precoPromo": 893,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/kxLSPMt/image.jpg",
+            "https://i.ibb.co/B6gk2Dt/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO0102",
+        "cor numérica": "55J",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 1128,
+        "precoPromo": 1128,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/rQyJVzg/image.jpg",
+            "https://i.ibb.co/WW8D9Jf/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO0031",
+        "cor numérica": "45P",
+        "cor": "Marrom",
+        "Formato": "Borboleta",
+        "preco": 1032,
+        "precoPromo": 1032,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/FBQ9yV6/image.jpg",
+            "https://i.ibb.co/Xbs6Wy0/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5105",
+        "cor numérica": "055",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 798,
+        "precoPromo": 798,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/RzMn0Kt/image.jpg",
+            "https://i.ibb.co/SNzNtBJ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Max&Co.",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MO5117",
+        "cor numérica": "042",
+        "cor": "Marrom ",
+        "Formato": "Gatinho",
+        "preco": 705,
+        "precoPromo": 705,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/ggb3PNg/image.jpg",
+            "https://i.ibb.co/w0P4cz3/image.jpg"
+        ]
+    }
+]

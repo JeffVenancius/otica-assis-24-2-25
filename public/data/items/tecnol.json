@@ -1,0 +1,545 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN3056",
+        "cor numérica": "G219",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 356,
+        "precoPromo": 356,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/JycKMgZ/image.jpg",
+            "https://i.ibb.co/nMBjSVL/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Tecnol",
+                "tipoDeCard": "Com Preço",
+                "modelo": "TN3056",
+                "cor numérica": "G220",
+                "cor": "Azul",
+                "Formato": "Retangular",
+                "preco": 356,
+                "precoPromo": 356,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/9Tx0Nxd/image.jpg",
+                    "https://i.ibb.co/7Qq9nkt/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN3068",
+        "cor numérica": "H230",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jH0vHTS/image.jpg",
+            "https://i.ibb.co/jTGTyX0/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN3070",
+        "cor numérica": "H491",
+        "cor": "Bordô",
+        "Formato": "Borboleta",
+        "preco": 356,
+        "precoPromo": 356,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2jJZCBJ/image.jpg",
+            "https://i.ibb.co/x73dCJk/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN3072",
+        "cor numérica": "H496",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 259,
+        "precoPromo": 259,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jhsLkgK/image.jpg",
+            "https://i.ibb.co/NxB5yb8/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN3073",
+        "cor numérica": "H500",
+        "cor": "Burgundy",
+        "Formato": "Retangular",
+        "preco": 305,
+        "precoPromo": 305,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/W0NxydT/image.jpg",
+            "https://i.ibb.co/LQy2Lmx/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN3074",
+        "cor numérica": "H863",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 356,
+        "precoPromo": 356,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/S62QHwm/image.jpg",
+            "https://i.ibb.co/6gPTNQ9/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Tecnol",
+                "tipoDeCard": "Com Preço",
+                "modelo": "TN3074",
+                "cor numérica": "H864",
+                "cor": "Grafite",
+                "Formato": "Retangular",
+                "preco": 356,
+                "precoPromo": 356,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/pX4KwYk/image.jpg",
+                    "https://i.ibb.co/nC6TD2n/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN3079",
+        "cor numérica": "I538",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 299,
+        "precoPromo": 299,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/cygGwFL/image.jpg",
+            "https://i.ibb.co/k986VBC/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN3081",
+        "cor numérica": "I903",
+        "cor": "Roxo",
+        "Formato": "Borboleta",
+        "preco": 299,
+        "precoPromo": 299,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/SdKfmB9/image.jpg",
+            "https://i.ibb.co/xmqtrSj/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN3084",
+        "cor numérica": "J990",
+        "cor": "Roxo",
+        "Formato": "Gatinho",
+        "preco": 356,
+        "precoPromo": 356,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/yyQvLgM/image.jpg",
+            "https://i.ibb.co/QPvX49T/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Tecnol",
+                "tipoDeCard": "Com Preço",
+                "modelo": "TN3084",
+                "cor numérica": "K008",
+                "cor": "Preto",
+                "Formato": "Gatinho",
+                "preco": 299,
+                "precoPromo": 299,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/jhkqT1t/image.jpg",
+                    "https://i.ibb.co/QYgYkdH/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN3085",
+        "cor numérica": "K483",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 356,
+        "precoPromo": 356,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/L9kkFq4/image.jpg",
+            "https://i.ibb.co/vQNLJVb/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN3087",
+        "cor numérica": "K479",
+        "cor": "Burgundy",
+        "Formato": "Gatinho",
+        "preco": 356,
+        "precoPromo": 356,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/PGWYS2R/image.jpg",
+            "https://i.ibb.co/pL1Pgrx/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN4029",
+        "cor numérica": "H870",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 335,
+        "precoPromo": 335,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/5MzhjQT/image.jpg",
+            "https://i.ibb.co/qnb4ZK6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN4032",
+        "cor numérica": "I542",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 335,
+        "precoPromo": 335,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sRQKsyF/image.jpg",
+            "https://i.ibb.co/6m4cdmR/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Tecnol",
+                "tipoDeCard": "Com Preço",
+                "modelo": "TN4032",
+                "cor numérica": "I543",
+                "cor": "Marrom",
+                "Formato": "Borboleta",
+                "preco": 335,
+                "precoPromo": 335,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/Z1Ljh8L/image.jpg",
+                    "https://i.ibb.co/Vwj3K9m/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN4034",
+        "cor numérica": "I912",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 335,
+        "precoPromo": 335,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/JyqGYk3/image.jpg",
+            "https://i.ibb.co/3pHfMm2/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Tecnol",
+                "tipoDeCard": "Com Preço",
+                "modelo": "TN4034",
+                "cor numérica": "I913",
+                "cor": "Preto",
+                "Formato": "Quadrado",
+                "preco": 334,
+                "precoPromo": 334,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/vX98Tdg/image.jpg",
+                    "https://i.ibb.co/X7MqkJ1/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN3080",
+        "cor numérica": "I901",
+        "cor": "Rosa ",
+        "Formato": "Borboleta",
+        "preco": 356,
+        "precoPromo": 356,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/wLqsG77/image.jpg",
+            "https://i.ibb.co/t8ZCJtr/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN3082",
+        "cor numérica": "K012",
+        "cor": "Marrom",
+        "Formato": "Gatinho",
+        "preco": 356,
+        "precoPromo": 356,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/TvRmXjg/image.jpg",
+            "https://i.ibb.co/gMrX2RN/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN3083",
+        "cor numérica": "K013",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 356,
+        "precoPromo": 356,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sFDB1MJ/image.jpg",
+            "https://i.ibb.co/rfGVZ0R/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN3088",
+        "cor numérica": "K952",
+        "cor": "Marrom ",
+        "Formato": "Gatinho",
+        "preco": 299,
+        "precoPromo": 299,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/nsTt3sw/image.jpg",
+            "https://i.ibb.co/C9ZCWrp/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Tecnol",
+                "tipoDeCard": "Com Preço",
+                "modelo": "TN3088",
+                "cor numérica": "K953",
+                "cor": "Roxo",
+                "Formato": "Gatinho",
+                "preco": 356,
+                "precoPromo": 356,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/6YmwBw6/image.jpg",
+                    "https://i.ibb.co/9bj9h6D/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN3089",
+        "cor numérica": "K954",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 356,
+        "precoPromo": 356,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0ZvSM5Z/image.jpg",
+            "https://i.ibb.co/5BYDpNK/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Tecnol",
+                "tipoDeCard": "Com Preço",
+                "modelo": "TN3089",
+                "cor numérica": "K956",
+                "cor": "Cinza",
+                "Formato": "Retangular",
+                "preco": 356,
+                "precoPromo": 356,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/MhL8ZSF/image.jpg",
+                    "https://i.ibb.co/vY4WzXb/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN4031",
+        "cor numérica": "I587",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 298,
+        "precoPromo": 298,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/DQBmF4J/image.jpg",
+            "https://i.ibb.co/R6YTrkb/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN4036",
+        "cor numérica": "K019",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 298,
+        "precoPromo": 298,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/1nD6wsp/image.jpg",
+            "https://i.ibb.co/CKCm9fk/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN4037",
+        "cor numérica": "K961",
+        "cor": "Marrom",
+        "Formato": "Gatinho",
+        "preco": 335,
+        "precoPromo": 335,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pwGcSXc/image.jpg",
+            "https://i.ibb.co/D7ZK5L3/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Tecnol",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TN4038",
+        "cor numérica": "K957",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 299,
+        "precoPromo": 299,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/1dFPNMQ/image.jpg",
+            "https://i.ibb.co/M6MZMwf/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Tecnol",
+                "tipoDeCard": "Com Preço",
+                "modelo": "TN4038",
+                "cor numérica": "K958",
+                "cor": "Marrom",
+                "Formato": "Borboleta",
+                "preco": 334,
+                "precoPromo": 334,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/KVps2S5/image.jpg",
+                    "https://i.ibb.co/Rc4Tk3j/image.jpg"
+                ]
+            }
+        ]
+    }
+]

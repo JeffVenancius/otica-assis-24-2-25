@@ -1,0 +1,19 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Athenas",
+        "tipoDeCard": "Com Preço",
+        "modelo": "ATH2501",
+        "cor numérica": "C3",
+        "cor": "Marrom",
+        "Formato": "Gatinho",
+        "preco": 376,
+        "precoPromo": 376,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/WFdvYRW/image.jpg",
+            "https://i.ibb.co/zmZVg7r/image.jpg"
+        ]
+    }
+]

@@ -1,0 +1,762 @@
+[
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA4142",
+        "cor númerica": "9427/68",
+        "cor": "Rosé",
+        "Formato": "Quadrado",
+        "preco": 797,
+        "precoPromo": 797,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/yF7DYr0/image.jpg",
+            "https://i.ibb.co/kBg2GVp/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Ralph",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RA4142",
+                "cor númerica": "9470/13",
+                "cor": "Rosé",
+                "Formato": "Quadrado",
+                "preco": 830,
+                "precoPromo": 830,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/v18bnnj/image.jpg",
+                    "https://i.ibb.co/HXFX3HH/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA4146",
+        "cor númerica": "9458/13",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 750,
+        "precoPromo": 750,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/xsrqmrV/image.jpg",
+            "https://i.ibb.co/c8gJRgD/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5248",
+        "cor númerica": "5001/81",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 817,
+        "precoPromo": 817,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/zXZPRT4/image.jpg",
+            "https://i.ibb.co/pzRJJdd/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5265",
+        "cor númerica": "5836/13",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 661,
+        "precoPromo": 661,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/mtRNCpd/image.jpg",
+            "https://i.ibb.co/DGWMft5/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Ralph",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RA5265",
+                "cor númerica": "5752/25",
+                "cor": "Preto",
+                "Formato": "Borboleta",
+                "preco": 617,
+                "precoPromo": 617,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/zJCJj1b/image.jpg",
+                    "https://i.ibb.co/6rGDvBm/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5301U",
+        "cor númerica": "5003/13",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 794,
+        "precoPromo": 794,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sb8NK2f/image.jpg",
+            "https://i.ibb.co/tMV9v1X/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5304U",
+        "cor númerica": "5001/8G",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 727,
+        "precoPromo": 727,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pnX0wML/image.jpg",
+            "https://i.ibb.co/vzpbnFn/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5305U",
+        "cor númerica": "5001/8G",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 817,
+        "precoPromo": 817,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/VqMxwy9/image.jpg",
+            "https://i.ibb.co/Y3fgD5J/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Ralph",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RA5305U",
+                "cor númerica": "6116/74",
+                "cor": "Bege",
+                "Formato": "Borboleta",
+                "preco": 817,
+                "precoPromo": 817,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/RpRFP4Y/image.jpg",
+                    "https://i.ibb.co/KxMHhpR/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5309U",
+        "cor númerica": "614913",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 891,
+        "precoPromo": 891,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/CtH6vXS/image.jpg",
+            "https://i.ibb.co/4sQdnsP/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5310U",
+        "cor númerica": "6153/14",
+        "cor": "Rosé",
+        "Formato": "Borboleta",
+        "preco": 794,
+        "precoPromo": 794,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HpmD6n8/image.jpg",
+            "https://i.ibb.co/MC3RFjv/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5319U",
+        "cor númerica": "5001/8G",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 967,
+        "precoPromo": 967,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/nPYGB0Y/image.jpg",
+            "https://i.ibb.co/JkP2p2G/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5322U",
+        "cor númerica": "61147N",
+        "cor": "Nude",
+        "Formato": "Gatinho",
+        "preco": 664,
+        "precoPromo": 664,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/N1bqJ53/image.jpg",
+            "https://i.ibb.co/jz54GgX/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5324U",
+        "cor númerica": "5536/8G",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 664,
+        "precoPromo": 664,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/vzy81g5/image.jpg",
+            "https://i.ibb.co/HqMqs6s/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Ralph",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RA5324U",
+                "cor númerica": "6059/73",
+                "cor": "Azul",
+                "Formato": "Gatinho",
+                "preco": 664,
+                "precoPromo": 664,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/g9FBDfF/image.jpg",
+                    "https://i.ibb.co/5Wcx0hW/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5325U",
+        "cor númerica": "6058/13",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 664,
+        "precoPromo": 664,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/7VCjrdD/image.jpg",
+            "https://i.ibb.co/rkSfFYq/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5326U",
+        "cor númerica": "6065/74",
+        "cor": "Marrom",
+        "Formato": "Gatinho",
+        "preco": 664,
+        "precoPromo": 664,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pycSC44/image.jpg",
+            "https://i.ibb.co/KsF0v1r/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA6058",
+        "cor númerica": "9443",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 768,
+        "precoPromo": 768,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sqvQD81/image.jpg",
+            "https://i.ibb.co/JnYXmnQ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA6059",
+        "cor númerica": "9004",
+        "cor": "Dourado",
+        "Formato": "Gatinho",
+        "preco": 724,
+        "precoPromo": 724,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/bKygS45/image.jpg",
+            "https://i.ibb.co/XJkVst2/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA6061",
+        "cor númerica": "9427",
+        "cor": "Rosé",
+        "Formato": "Gatinho",
+        "preco": 831,
+        "precoPromo": 831,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/6XZ8kkF/image.jpg",
+            "https://i.ibb.co/P42RGCB/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA7141",
+        "cor númerica": "5989",
+        "cor": "Vermelho",
+        "Formato": "Gatinho",
+        "preco": 595,
+        "precoPromo": 595,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2g4F5Z3/image.jpg",
+            "https://i.ibb.co/F4HCnBh/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA7157U",
+        "cor númerica": "5263",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 705,
+        "precoPromo": 705,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/7zBDbh8/image.jpg",
+            "https://i.ibb.co/5FjXKvY/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA7158U",
+        "cor númerica": "6147",
+        "cor": "Nude",
+        "Formato": "Borboleta",
+        "preco": 631,
+        "precoPromo": 631,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Yf3yGQT/image.jpg",
+            "https://i.ibb.co/fN77Nj6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA7159U",
+        "cor númerica": "5001",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 534,
+        "precoPromo": 534,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/FDWZXQn/image.jpg",
+            "https://i.ibb.co/mSMCG4J/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA7161U",
+        "cor númerica": "6155",
+        "cor": "Rosa ",
+        "Formato": "Gatinho",
+        "preco": 695,
+        "precoPromo": 695,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/hds9GNz/image.jpg",
+            "https://i.ibb.co/7nXdT1N/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA7162U",
+        "cor númerica": "6063",
+        "cor": "Rosa",
+        "Formato": "Borboleta",
+        "preco": 687,
+        "precoPromo": 687,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/VNnTsNH/image.jpg",
+            "https://i.ibb.co/3Bg3h2L/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA7164U",
+        "cor númerica": "6158",
+        "cor": "Roxo",
+        "Formato": "Gatinho",
+        "preco": 631,
+        "precoPromo": 631,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/D8YRL1R/image.jpg",
+            "https://i.ibb.co/94vPPqf/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA7174U",
+        "cor númerica": "6059",
+        "cor": "Azul",
+        "Formato": "Borboleta",
+        "preco": 663,
+        "precoPromo": 663,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/rd0GNQk/image.jpg",
+            "https://i.ibb.co/6R7zcJj/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA7122",
+        "cor númerica": "5892",
+        "cor": "Demi",
+        "Formato": "Gatinho",
+        "preco": 527,
+        "precoPromo": 527,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2W3HrDJ/image.jpg",
+            "https://i.ibb.co/4tn3Brv/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5160",
+        "cor númerica": "510/13",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 697,
+        "precoPromo": 697,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jZDP6Wv/image.jpg",
+            "https://i.ibb.co/SfGGX1R/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5264",
+        "cor númerica": "5844/E3",
+        "cor": "Demi",
+        "Formato": "Gatinho",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sgpWszz/image.jpg",
+            "https://i.ibb.co/HCK4qDw/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5203",
+        "cor númerica": "1090/13",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 830,
+        "precoPromo": 830,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/9806GV6/image.jpg",
+            "https://i.ibb.co/nkHqwnz/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA6046",
+        "cor númerica": "9095",
+        "cor": "Rosé",
+        "Formato": "Gatinho",
+        "preco": 829,
+        "precoPromo": 829,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/BGnTxVv/image.jpg",
+            "https://i.ibb.co/84WM7ZB/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA7116",
+        "cor númerica": "5848",
+        "cor": "Demi",
+        "Formato": "Gatinho",
+        "preco": 529,
+        "precoPromo": 529,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/6gXQZN9/image.jpg",
+            "https://i.ibb.co/yqSCLyb/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA7117",
+        "cor númerica": "5850",
+        "cor": "Demi",
+        "Formato": "Gatinho",
+        "preco": 525,
+        "precoPromo": 525,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/StJ6HmF/image.jpg",
+            "https://i.ibb.co/ZLdz8t6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5293",
+        "cor númerica": "5003/3B",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 639,
+        "precoPromo": 639,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/x37tvHt/image.jpg",
+            "https://i.ibb.co/7GvzvRG/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5298U",
+        "cor númerica": "5001/T3",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 889,
+        "precoPromo": 889,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Zx51Xbb/image.jpg",
+            "https://i.ibb.co/BydwMsT/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Ralph",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RA5298U",
+                "cor númerica": "6058/13",
+                "cor": "Tortoise",
+                "Formato": "Borboleta",
+                "preco": 726,
+                "precoPromo": 726,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/yh07Qrz/image.jpg",
+                    "https://i.ibb.co/Fsnk28W/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA6056",
+        "cor númerica": "9443",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 733,
+        "precoPromo": 733,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/L6XsjgB/image.jpg",
+            "https://i.ibb.co/rwZnJPM/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA7137U",
+        "cor númerica": "5003",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 743,
+        "precoPromo": 743,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/yFZszMJ/image.jpg",
+            "https://i.ibb.co/2ghtpFz/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Ralph",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RA7137U",
+                "cor númerica": "6008",
+                "cor": "Roxo",
+                "Formato": "Gatinho",
+                "preco": 631,
+                "precoPromo": 631,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/FbMhJ2V/image.jpg",
+                    "https://i.ibb.co/hW5zHbM/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA7146",
+        "cor númerica": "5003",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 687,
+        "precoPromo": 687,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/1ZCZVxP/image.jpg",
+            "https://i.ibb.co/dbxRH1J/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA7151",
+        "cor númerica": "6058",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 690,
+        "precoPromo": 690,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/6Z7GP33/image.jpg",
+            "https://i.ibb.co/M82DtNv/image.jpg"
+        ]
+    }
+]

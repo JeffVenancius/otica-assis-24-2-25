@@ -1,0 +1,70 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Via Pampa",
+        "tipoDeCard": "Com Preço",
+        "modelo": "CHELSEA",
+        "cor númerica": "01",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 855,
+        "precoPromo": 855,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/4s6ztPR/image.jpg",
+            "https://i.ibb.co/4N4pDVR/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Via Pampa",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MACHY-NERY",
+        "cor númerica": "65",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 795,
+        "precoPromo": 795,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/nB07nv7/image.jpg",
+            "https://i.ibb.co/SdtzSFN/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Via Pampa",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RIVER",
+        "cor númerica": "3",
+        "cor": "Bronze",
+        "Formato": "Gatinho",
+        "preco": 993,
+        "precoPromo": 993,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/N1wdBRS/image.jpg",
+            "https://i.ibb.co/k09zR3t/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Via Pampa",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SOHO II",
+        "cor númerica": "10",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 1194,
+        "precoPromo": 1194,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0msVV2B/image.jpg",
+            "https://i.ibb.co/7z4qrgN/image.jpg"
+        ]
+    }
+]

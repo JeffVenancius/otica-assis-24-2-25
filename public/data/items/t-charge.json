@@ -1,0 +1,189 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "T-Charge",
+        "tipoDeCard": "Com Preço",
+        "modelo": "T1042",
+        "cor numérica": "03S",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 689,
+        "precoPromo": 689,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HxqcS42/image.jpg",
+            "https://i.ibb.co/WPyX8wx/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "T-Charge",
+        "tipoDeCard": "Com Preço",
+        "modelo": "T1073",
+        "cor numérica": "01H",
+        "cor": "Champagne",
+        "Formato": "Esportivo",
+        "preco": 689,
+        "precoPromo": 689,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/hWZqsMZ/image.jpg",
+            "https://i.ibb.co/PDKbHDy/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "T-Charge",
+        "tipoDeCard": "Com Preço",
+        "modelo": "T1088",
+        "cor numérica": "12G",
+        "cor": "Cinza",
+        "Formato": "Retangular",
+        "preco": 689,
+        "precoPromo": 689,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/m6h99C8/image.jpg",
+            "https://i.ibb.co/MgytHZx/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "T-Charge",
+        "tipoDeCard": "Com Preço",
+        "modelo": "T1114",
+        "cor numérica": "02H",
+        "cor": "Cinza",
+        "Formato": "Retangular",
+        "preco": 689,
+        "precoPromo": 689,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/T4VJ44P/image.jpg",
+            "https://i.ibb.co/nBht0bp/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "T-Charge",
+        "tipoDeCard": "Com Preço",
+        "modelo": "T1152",
+        "cor numérica": "03A",
+        "cor": "Cinza",
+        "Formato": "Retangular",
+        "preco": 689,
+        "precoPromo": 689,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/mhjTf48/image.jpg",
+            "https://i.ibb.co/1bs8HZJ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "T-Charge",
+        "tipoDeCard": "Com Preço",
+        "modelo": "T1153",
+        "cor numérica": "04A",
+        "cor": "Dourado",
+        "Formato": "Retangular",
+        "preco": 689,
+        "precoPromo": 689,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/YttppSZ/image.jpg",
+            "https://i.ibb.co/gb8m6NV/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "T-Charge",
+        "tipoDeCard": "Com Preço",
+        "modelo": "T1154",
+        "cor numérica": "04A",
+        "cor": "Dourado",
+        "Formato": "Retangular",
+        "preco": 689,
+        "precoPromo": 689,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pLqWbJG/image.jpg",
+            "https://i.ibb.co/McSZLcp/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "T-Charge",
+        "tipoDeCard": "Com Preço",
+        "modelo": "T1168A",
+        "cor numérica": "04C",
+        "cor": "Dourado",
+        "Formato": "Retangular",
+        "preco": 689,
+        "precoPromo": 689,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Dbbv0s1/image.jpg",
+            "https://i.ibb.co/9YHWXK5/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "T-Charge",
+        "tipoDeCard": "Com Preço",
+        "modelo": "T6083",
+        "cor numérica": "G21",
+        "cor": "Demi",
+        "Formato": "Quadrado",
+        "preco": 689,
+        "precoPromo": 689,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/NFhCy6N/image.jpg",
+            "https://i.ibb.co/t3r29kn/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "T-Charge",
+        "tipoDeCard": "Com Preço",
+        "modelo": "T9040",
+        "cor numérica": "G23",
+        "cor": "Demi",
+        "Formato": "Quadrado",
+        "preco": 689,
+        "precoPromo": 689,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/frPZvVx/image.jpg",
+            "https://i.ibb.co/vqgrt9N/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "T-Charge",
+        "tipoDeCard": "Com Preço",
+        "modelo": "T9056",
+        "cor numérica": "G21",
+        "cor": "Demi",
+        "Formato": "Redondo",
+        "preco": 689,
+        "precoPromo": 689,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/v44V0q8/image.jpg",
+            "https://i.ibb.co/Z6My09T/image.jpg"
+        ]
+    }
+]

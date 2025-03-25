@@ -1,0 +1,265 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Fila",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VFI115V",
+        "cor númerica": "0700",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 742,
+        "precoPromo": 742,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2YGCg2y/image.jpg",
+            "https://i.ibb.co/PwsGWgb/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Fila",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VFI115",
+        "cor númerica": "0703",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 742,
+        "precoPromo": 742,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/yVcqgNd/image.jpg",
+            "https://i.ibb.co/qjLw5NP/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Fila",
+                "tipoDeCard": "Com Preço",
+                "modelo": "VFI115",
+                "cor númerica": "0V15",
+                "cor": "Azul",
+                "Formato": "Quadrado",
+                "preco": 742,
+                "precoPromo": 742,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/z8LzcZt/image.jpg",
+                    "https://i.ibb.co/nmPwZm0/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Fila",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VFI204",
+        "cor númerica": "08GG",
+        "cor": "Grafite",
+        "Formato": "Quadrado",
+        "preco": 946,
+        "precoPromo": 946,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/QdQtzZ1/image.jpg",
+            "https://i.ibb.co/9NJnLv0/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Fila",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VFI213",
+        "cor númerica": "0700",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 775,
+        "precoPromo": 775,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/XJvs14Q/image.jpg",
+            "https://i.ibb.co/qNsBLGv/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Fila",
+                "tipoDeCard": "Com Preço",
+                "modelo": "VFI213",
+                "cor númerica": "0722",
+                "cor": "Demi",
+                "Formato": "Quadrado",
+                "preco": 775,
+                "precoPromo": 775,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/0YSft7X/image.jpg",
+                    "https://i.ibb.co/ymCV5Gf/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Fila",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VFI218",
+        "cor númerica": "0705",
+        "cor": "Cinza",
+        "Formato": "Redondo",
+        "preco": 801,
+        "precoPromo": 801,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/XFSNtL8/image.jpg",
+            "https://i.ibb.co/GCqFzM6/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Fila",
+                "tipoDeCard": "Com Preço",
+                "modelo": "VFI218",
+                "cor númerica": "0BLK",
+                "cor": "Preto",
+                "Formato": "Redondo",
+                "preco": 801,
+                "precoPromo": 801,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/5vLDG8D/image.jpg",
+                    "https://i.ibb.co/MkD6Nn7/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Fila",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VFI442",
+        "cor númerica": "0627",
+        "cor": "Grafite",
+        "Formato": "Retangular",
+        "preco": 860,
+        "precoPromo": 860,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sy9tkqW/image.jpg",
+            "https://i.ibb.co/zr9G41G/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Fila",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VFI448",
+        "cor númerica": "04BL",
+        "cor": "Tortoise",
+        "Formato": "Redondo",
+        "preco": 795,
+        "precoPromo": 795,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/mRsFPCh/image.jpg",
+            "https://i.ibb.co/FsW4cg6/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Fila",
+                "tipoDeCard": "Com Preço",
+                "modelo": "VFI448",
+                "cor númerica": "0700",
+                "cor": "Preto",
+                "Formato": "Redondo",
+                "preco": 795,
+                "precoPromo": 795,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/sw35WvW/image.jpg",
+                    "https://i.ibb.co/52mMLhX/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Fila",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VFI449",
+        "cor númerica": "4BLY",
+        "cor": "Tortoise",
+        "Formato": "Retangular",
+        "preco": 795,
+        "precoPromo": 795,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/P4Mp7dc/image.jpg",
+            "https://i.ibb.co/Tmkrc6f/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Fila",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VFI452",
+        "cor númerica": "0C10",
+        "cor": "Tortoise",
+        "Formato": "Quadrado",
+        "preco": 663,
+        "precoPromo": 663,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/VqsstGj/image.jpg",
+            "https://i.ibb.co/6ZvgG34/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Fila",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VFI532",
+        "cor númerica": "0C10",
+        "cor": "Tortoise",
+        "Formato": "Retangular",
+        "preco": 919,
+        "precoPromo": 919,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/JtBhhzV/image.jpg",
+            "https://i.ibb.co/5WTMQms/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Fila",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VFI539",
+        "cor númerica": "0AAU",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 801,
+        "precoPromo": 801,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/c8HSqPt/image.jpg",
+            "https://i.ibb.co/tDZHWNC/image.jpg"
+        ]
+    }
+]

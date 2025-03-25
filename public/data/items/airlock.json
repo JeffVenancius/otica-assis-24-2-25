@@ -1,0 +1,19 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Airlock",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AIRLOCK2005",
+        "cor numérica": "412",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 1095,
+        "precoPromo": 1095,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2qTdDZJ/image.jpg",
+            "https://i.ibb.co/c6Nr49C/image.jpg"
+        ]
+    }
+]

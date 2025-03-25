@@ -1,0 +1,225 @@
+[
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "David Beckham",
+        "tipoDeCard": "Com Preço",
+        "modelo": "DB7110/S",
+        "cor numérica": "35JMT",
+        "cor": "Rosé",
+        "Formato": "Redondo",
+        "preco": 1938,
+        "precoPromo": 1938,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/fdsMBb4/image.jpg",
+            "https://i.ibb.co/Yyhp5Xt/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "David Beckham",
+        "tipoDeCard": "Com Preço",
+        "modelo": "DB1094",
+        "cor numérica": "R2Z",
+        "cor": "Verde ",
+        "Formato": "Quadrado",
+        "preco": 1209,
+        "precoPromo": 1209,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/S6KdLz2/image.jpg",
+            "https://i.ibb.co/DfnX7mS/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "David Beckham",
+        "tipoDeCard": "Com Preço",
+        "modelo": "DB7000/S",
+        "cor numérica": "EX4QT",
+        "cor": "Tortoise",
+        "Formato": "Quadrado",
+        "preco": 1413,
+        "precoPromo": 1413,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/zm4jjHZ/image.jpg",
+            "https://i.ibb.co/K2kHMYf/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "David Beckham",
+                "tipoDeCard": "Com Preço",
+                "modelo": "DB7000/S",
+                "cor numérica": "WR9KU",
+                "cor": "Tortoise",
+                "Formato": "Quadrado",
+                "preco": 1767,
+                "precoPromo": 1767,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/fDTtkmr/image.jpg",
+                    "https://i.ibb.co/NC3KVqp/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "David Beckham",
+        "tipoDeCard": "Com Preço",
+        "modelo": "DB1092/S",
+        "cor numérica": "WGW9K",
+        "cor": "Tortoise",
+        "Formato": "Retangular",
+        "preco": 1446,
+        "precoPromo": 1446,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/dDtqLjV/image.jpg",
+            "https://i.ibb.co/fYM04c2/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "David Beckham",
+        "tipoDeCard": "Com Preço",
+        "modelo": "DB1103",
+        "cor numérica": "GUA",
+        "cor": "Prata",
+        "Formato": "Borboleta",
+        "preco": 1523,
+        "precoPromo": 1523,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/DfjCrFJ/image.jpg",
+            "https://i.ibb.co/1fR6fF0/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "David Beckham",
+        "tipoDeCard": "Com Preço",
+        "modelo": "DB1110/G",
+        "cor numérica": "2IK",
+        "cor": "Demi",
+        "Formato": "Quadrado",
+        "preco": 1429,
+        "precoPromo": 1429,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Tkv2sz1/image.jpg",
+            "https://i.ibb.co/Nmswdzk/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "David Beckham",
+        "tipoDeCard": "Com Preço",
+        "modelo": "DB7070",
+        "cor numérica": "086",
+        "cor": "Demi",
+        "Formato": "Quadrado",
+        "preco": 1256,
+        "precoPromo": 1256,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/5K0z1kq/image.jpg",
+            "https://i.ibb.co/Ytz5rJQ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "David Beckham",
+        "tipoDeCard": "Com Preço",
+        "modelo": "DB7085",
+        "cor numérica": "KB7",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 1209,
+        "precoPromo": 1209,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/f2F9wxZ/image.jpg",
+            "https://i.ibb.co/QrRFWX0/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "David Beckham",
+        "tipoDeCard": "Com Preço",
+        "modelo": "DB7097",
+        "cor numérica": "086",
+        "cor": "Demi",
+        "Formato": "Gatinho",
+        "preco": 1209,
+        "precoPromo": 1209,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/8r5df8S/image.jpg",
+            "https://i.ibb.co/ZBCWbb3/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "David Beckham",
+        "tipoDeCard": "Com Preço",
+        "modelo": "DB1020",
+        "cor numérica": "807",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 1036,
+        "precoPromo": 1036,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/hFXGBsW/image.jpg",
+            "https://i.ibb.co/MkmTCgR/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "David Beckham",
+        "tipoDeCard": "Com Preço",
+        "modelo": "DB7096",
+        "cor numérica": "086",
+        "cor": "Tortoise",
+        "Formato": "Quadrado",
+        "preco": 1084,
+        "precoPromo": 1084,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/PQ47ssw/image.jpg",
+            "https://i.ibb.co/cwcKKc1/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "David Beckham",
+        "tipoDeCard": "Com Preço",
+        "modelo": "DB1018",
+        "cor numérica": "EX4",
+        "cor": "Amarelo ",
+        "Formato": "Redondo",
+        "preco": 1036,
+        "precoPromo": 1036,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pKqb3Nz/image.jpg",
+            "https://i.ibb.co/WWhnxG5/image.jpg"
+        ]
+    }
+]

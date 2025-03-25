@@ -1,0 +1,703 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83242",
+        "cor numérica": "L888",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 435,
+        "precoPromo": 435,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/21PPVhc8/image.jpg",
+            "https://i.ibb.co/nsBFGH5V/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Jean Monnier",
+                "tipoDeCard": "Com Preço",
+                "modelo": "J83242",
+                "cor numérica": "L886",
+                "cor": "Preto",
+                "Formato": "Retangular",
+                "preco": 350,
+                "precoPromo": 350,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/tLnyy81/image.jpg",
+                    "https://i.ibb.co/hVQbP5j/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83234",
+        "cor numérica": "K672",
+        "cor": "Transparente",
+        "Formato": "Borboleta",
+        "preco": 391,
+        "precoPromo": 391,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/R6NXQXX/image.jpg",
+            "https://i.ibb.co/LpH5ZBJ/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Jean Monnier",
+                "tipoDeCard": "Com Preço",
+                "modelo": "J83234",
+                "cor numérica": "K674",
+                "cor": "Marrom",
+                "Formato": "Borboleta",
+                "preco": 363,
+                "precoPromo": 363,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/wr3jJyq/image.jpg",
+                    "https://i.ibb.co/80kVR5m/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J84161",
+        "cor numérica": "K920",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 411,
+        "precoPromo": 411,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2ZLQ88r/image.jpg",
+            "https://i.ibb.co/RbckY4f/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83197",
+        "cor numérica": "H710",
+        "cor": "Azul",
+        "Formato": "Retangular",
+        "preco": 360,
+        "precoPromo": 360,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/88LRGd0/image.jpg",
+            "https://i.ibb.co/ysnBnF9/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Jean Monnier",
+                "tipoDeCard": "Com Preço",
+                "modelo": "J83197",
+                "cor numérica": "H709",
+                "cor": "Preto",
+                "Formato": "Retangular",
+                "preco": 360,
+                "precoPromo": 360,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/cyLzLCJ/image.jpg",
+                    "https://i.ibb.co/447nQwz/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83225",
+        "cor numérica": "J018",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 419,
+        "precoPromo": 419,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/9YHStJ4/image.jpg",
+            "https://i.ibb.co/10QkQqv/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83238",
+        "cor numérica": "K914",
+        "cor": "Rosa",
+        "Formato": "Gatinho",
+        "preco": 383,
+        "precoPromo": 383,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/rv10wK4/image.jpg",
+            "https://i.ibb.co/xfw32L9/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Jean Monnier",
+                "tipoDeCard": "Com Preço",
+                "modelo": "J83238",
+                "cor numérica": "K917",
+                "cor": "Vermelho",
+                "Formato": "Gatinho",
+                "preco": 485,
+                "precoPromo": 485,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/SXLwq4b/image.jpg",
+                    "https://i.ibb.co/R2hgQ0T/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83173",
+        "cor numérica": "F870",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 421,
+        "precoPromo": 421,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/v3CBP2f/image.jpg",
+            "https://i.ibb.co/hFPDgrT/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Jean Monnier",
+                "tipoDeCard": "Com Preço",
+                "modelo": "J83173",
+                "cor numérica": "F872",
+                "cor": "Preto",
+                "Formato": "Retangular",
+                "preco": 421,
+                "precoPromo": 421,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/m0xGTC9/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J81207",
+        "cor numérica": "K665",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 432,
+        "precoPromo": 432,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sKZvMgM/image.jpg",
+            "https://i.ibb.co/XxMKJYy/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83233",
+        "cor numérica": "K690",
+        "cor": "Azul",
+        "Formato": "Retangular",
+        "preco": 323,
+        "precoPromo": 323,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/KGP0Gcq/image.jpg",
+            "https://i.ibb.co/n3fsBjp/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Jean Monnier",
+                "tipoDeCard": "Com Preço",
+                "modelo": "J83233",
+                "cor numérica": "K689",
+                "cor": "Preto",
+                "Formato": "Quadrado",
+                "preco": 407,
+                "precoPromo": 407,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/dpRGyzY/image.jpg",
+                    "https://i.ibb.co/VTTjvXq/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Jean Monnier",
+                "tipoDeCard": "Com Preço",
+                "modelo": "J83233",
+                "cor numérica": "K691",
+                "cor": "Cinza",
+                "Formato": "Quadrado",
+                "preco": 420,
+                "precoPromo": 420,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/zhNmS0d/image.jpg",
+                    "https://i.ibb.co/QMH1fCM/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J81208",
+        "cor numérica": "K896",
+        "cor": "Dourado",
+        "Formato": "Gatinho",
+        "preco": 412,
+        "precoPromo": 412,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/thqMJkC/image.jpg",
+            "https://i.ibb.co/mSfWNpF/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J81210",
+        "cor numérica": "L852",
+        "cor": "Dourado",
+        "Formato": "Gatinho",
+        "preco": 576,
+        "precoPromo": 576,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/RcVQbZd/image.jpg",
+            "https://i.ibb.co/N65S8r0/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J81211",
+        "cor numérica": "L882",
+        "cor": "Prata",
+        "Formato": "Retangular",
+        "preco": 412,
+        "precoPromo": 412,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/YP9ThXq/image.jpg",
+            "https://i.ibb.co/hCMFMV7/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Jean Monnier",
+                "tipoDeCard": "Com Preço",
+                "modelo": "J81211",
+                "cor numérica": "L881",
+                "cor": "Cinza",
+                "Formato": "Retangular",
+                "preco": 442,
+                "precoPromo": 442,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/gTTpRmQ/image.jpg",
+                    "https://i.ibb.co/hD0Pqhn/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83232",
+        "cor numérica": "K688",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 291,
+        "precoPromo": 291,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/DG4JzZV/image.jpg",
+            "https://i.ibb.co/D7MchzP/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Jean Monnier",
+                "tipoDeCard": "Com Preço",
+                "modelo": "J83232",
+                "cor numérica": "K687",
+                "cor": "Azul",
+                "Formato": "Quadrado",
+                "preco": 349,
+                "precoPromo": 349,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/Pzgthm6/image.jpg",
+                    "https://i.ibb.co/J2qd2qk/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83239",
+        "cor numérica": "K925",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 492,
+        "precoPromo": 492,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/rmTLCG9/image.jpg",
+            "https://i.ibb.co/tLJn1GS/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83240",
+        "cor numérica": "K926",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 375,
+        "precoPromo": 375,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0mc1gWg/image.jpg",
+            "https://i.ibb.co/dLQg51t/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J84163",
+        "cor numérica": "K938",
+        "cor": "Cinza",
+        "Formato": "Esportivo",
+        "preco": 379,
+        "precoPromo": 379,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Zh8cNDN/image.jpg",
+            "https://i.ibb.co/WBwSS2s/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J81206",
+        "cor numérica": "K659",
+        "cor": "Rosé",
+        "Formato": "Borboleta",
+        "preco": 590,
+        "precoPromo": 590,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/4WpYc3V/image.jpg",
+            "https://i.ibb.co/hfp0rWY/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J82015V",
+        "cor numérica": "K100",
+        "cor": "Dourado",
+        "Formato": "Redondo",
+        "preco": 399,
+        "precoPromo": 399,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0mZpx6S/image.jpg",
+            "https://i.ibb.co/h8gf8Rr/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Jean Monnier",
+                "tipoDeCard": "Com Preço",
+                "modelo": "J82015V",
+                "cor numérica": "K101",
+                "cor": "Dourado",
+                "Formato": "Redondo",
+                "preco": 432,
+                "precoPromo": 432,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/7VsHh7y/image.jpg",
+                    "https://i.ibb.co/nfvB1mp/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83187",
+        "cor numérica": "G726",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 389,
+        "precoPromo": 389,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/9Zp4bdQ/image.jpg",
+            "https://i.ibb.co/SN6mTV6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83213",
+        "cor numérica": "I570",
+        "cor": "Vermelho",
+        "Formato": "Borboleta",
+        "preco": 332,
+        "precoPromo": 332,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/hL06yYh/image.jpg",
+            "https://i.ibb.co/Xj1GrX9/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83216",
+        "cor numérica": "I573",
+        "cor": "Azul",
+        "Formato": "Quadrado",
+        "preco": 332,
+        "precoPromo": 332,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/99j5wD6/image.jpg",
+            "https://i.ibb.co/c3XfxBD/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83221",
+        "cor numérica": "J316",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 399,
+        "precoPromo": 399,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/V33RNcV/image.jpg",
+            "https://i.ibb.co/WDhwXVt/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Jean Monnier",
+                "tipoDeCard": "Com Preço",
+                "modelo": "J83221",
+                "cor numérica": "J318",
+                "cor": "Azul",
+                "Formato": "Retangular",
+                "preco": 300,
+                "precoPromo": 300,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/6njDDXz/image.jpg",
+                    "https://i.ibb.co/D9c08y2/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Jean Monnier",
+                "tipoDeCard": "Com Preço",
+                "modelo": "J83221",
+                "cor numérica": "K025",
+                "cor": "Cinza ",
+                "Formato": "Retangular",
+                "preco": 380,
+                "precoPromo": 380,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/pynyV9s/image.jpg",
+                    "https://i.ibb.co/sV7LXrw/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83235",
+        "cor numérica": "K675",
+        "cor": "Marrom",
+        "Formato": "Borboleta",
+        "preco": 392,
+        "precoPromo": 392,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/VD2dYtt/image.jpg",
+            "https://i.ibb.co/mS3yBT4/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83236",
+        "cor numérica": "K679",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 483,
+        "precoPromo": 483,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/xSnDny2/image.jpg",
+            "https://i.ibb.co/CHCGCRs/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Jean Monnier",
+                "tipoDeCard": "Com Preço",
+                "modelo": "J83236",
+                "cor numérica": "K680",
+                "cor": "Azul",
+                "Formato": "Quadrado",
+                "preco": 363,
+                "precoPromo": 363,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/zxtgTRh/image.jpg",
+                    "https://i.ibb.co/rvtTPGQ/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83243",
+        "cor numérica": "L873",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 360,
+        "precoPromo": 360,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/GnxsT2t/image.jpg",
+            "https://i.ibb.co/5YJ2xXb/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J83246",
+        "cor numérica": "L860",
+        "cor": "Transparente",
+        "Formato": "Gatinho",
+        "preco": 382,
+        "precoPromo": 382,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Ytc8wp9/image.jpg",
+            "https://i.ibb.co/GTMHwDf/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Jean Monnier",
+        "tipoDeCard": "Com Preço",
+        "modelo": "J84159",
+        "cor numérica": "K692",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 369,
+        "precoPromo": 369,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/phsCYRB/image.jpg",
+            "https://i.ibb.co/hgwnSpS/image.jpg"
+        ]
+    }
+]

@@ -1,72 +1,157 @@
 [
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Masculino",
-		"marca": "Harley Davidson",
-		"tipoDeCard": "Com Preço",
-		"modelo": "HD0787 008",
-		"preco": 790,
-		"precoPromo": 790,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/drsggrH/image.jpg",
-			"https://i.ibb.co/HxqFDTx/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Masculino",
-		"marca": "Harley Davidson",
-		"tipoDeCard": "Com Preço",
-		"modelo": "HD2047 32Q",
-		"preco": 790,
-		"precoPromo": 790,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/HFWtG3K/image.jpg",
-			"https://i.ibb.co/Q83Xxqg/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Masculino",
-		"marca": "Harley Davidson",
-		"tipoDeCard": "Com Preço",
-		"modelo": "HD0770 002",
-		"preco": 790,
-		"precoPromo": 790,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/xXDVz59/image.jpg",
-			"https://i.ibb.co/D1brPZj/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Masculino",
-		"marca": "Harley Davidson",
-		"tipoDeCard": "Com Preço",
-		"modelo": "HD1019 008",
-		"preco": 790,
-		"precoPromo": 790,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/sghYFmc/image.jpg",
-			"https://i.ibb.co/2tDmsVN/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Masculino",
-		"marca": "Harley Davidson",
-		"tipoDeCard": "Com Preço",
-		"modelo": "HD1027 005",
-		"preco": 790,
-		"precoPromo": 790,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/6gJMJZ9/image.jpg",
-			"https://i.ibb.co/b76m0g3/image.jpg"
-		]
-	}
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Harley Davidson",
+        "tipoDeCard": "Com Preço",
+        "modelo": "HDX857",
+        "cor numérica": "NV-3",
+        "cor": "Demi",
+        "Formato": "Quadrado",
+        "preco": 790,
+        "precoPromo": 790,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/YNXZ2Mw/image.jpg",
+            "https://i.ibb.co/X77HLrd/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Harley Davidson",
+        "tipoDeCard": "Com Preço",
+        "modelo": "HD1027",
+        "cor numérica": "1",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 790,
+        "precoPromo": 790,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Msq5PL4/image.jpg",
+            "https://i.ibb.co/S5CmW0L/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Harley Davidson",
+                "tipoDeCard": "Com Preço",
+                "modelo": "HD1027",
+                "cor numérica": "005",
+                "cor": "Preto",
+                "Formato": "Quadrado",
+                "preco": 790,
+                "precoPromo": 790,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/6gJMJZ9/image.jpg",
+                    "https://i.ibb.co/b76m0g3/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Harley Davidson",
+        "tipoDeCard": "Com Preço",
+        "modelo": "HD0841",
+        "cor numérica": "091",
+        "cor": "Azul",
+        "Formato": "Quadrado",
+        "preco": 687,
+        "precoPromo": 687,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/thJJ0WW/image.jpg",
+            "https://i.ibb.co/6yqfK6d/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Harley Davidson",
+        "tipoDeCard": "Com Preço",
+        "modelo": "HD0966",
+        "cor numérica": "020",
+        "cor": "Cinza",
+        "Formato": "Retangular",
+        "preco": 609,
+        "precoPromo": 609,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/PC8b8jk/image.jpg",
+            "https://i.ibb.co/nsS9LmF/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Harley Davidson",
+        "tipoDeCard": "Com Preço",
+        "modelo": "HD0787",
+        "cor numérica": "008",
+        "cor": "Grafite",
+        "Formato": "Retangular",
+        "preco": 790,
+        "precoPromo": 790,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/drsggrH/image.jpg",
+            "https://i.ibb.co/HxqFDTx/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Harley Davidson",
+        "tipoDeCard": "Com Preço",
+        "modelo": "HD2047",
+        "cor numérica": "32Q",
+        "cor": "Dourado",
+        "Formato": "Quadrado",
+        "preco": 790,
+        "precoPromo": 790,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HFWtG3K/image.jpg",
+            "https://i.ibb.co/Q83Xxqg/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Harley Davidson",
+        "tipoDeCard": "Com Preço",
+        "modelo": "HD0770",
+        "cor numérica": "002",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 790,
+        "precoPromo": 790,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/xXDVz59/image.jpg",
+            "https://i.ibb.co/D1brPZj/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Harley Davidson",
+        "tipoDeCard": "Com Preço",
+        "modelo": "HD1019",
+        "cor numérica": "008",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 790,
+        "precoPromo": 790,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sghYFmc/image.jpg",
+            "https://i.ibb.co/2tDmsVN/image.jpg"
+        ]
+    }
 ]

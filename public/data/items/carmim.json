@@ -1,0 +1,19 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Carmim",
+        "tipoDeCard": "Com Preço",
+        "modelo": "CRM41652",
+        "cor numérica": "C2",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 499,
+        "precoPromo": 499,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/DVBcZZD/image.jpg",
+            "https://i.ibb.co/q7Kfr6n/image.jpg"
+        ]
+    }
+]

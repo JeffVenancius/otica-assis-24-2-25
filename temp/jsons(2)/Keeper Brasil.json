@@ -1,0 +1,36 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Keeper Brasil",
+        "tipoDeCard": "Com Preço",
+        "modelo": "KB2018",
+        "cor númerica": "C7",
+        "cor": "Azul",
+        "Formato": "Quadrado",
+        "preco": 345,
+        "precoPromo": 345,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/f4kgPb2/image.jpg",
+            "https://i.ibb.co/LkQ4hjh/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Keeper Brasil",
+        "tipoDeCard": "Com Preço",
+        "modelo": "KB2025",
+        "cor númerica": "C6",
+        "cor": "Azul",
+        "Formato": "Retangular",
+        "preco": 345,
+        "precoPromo": 345,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tMt5Gs8/image.jpg",
+            "https://i.ibb.co/GV1JBcD/image.jpg"
+        ]
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Nike",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EV0937",
+        "cor númerica": "1",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 798,
+        "precoPromo": 798,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/QQ2s4qx/image.jpg",
+            "https://i.ibb.co/80Cj3q2/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Nike",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EV0948",
+        "cor númerica": "106",
+        "cor": "Branco",
+        "Formato": "Esportivo",
+        "preco": 795,
+        "precoPromo": 795,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/CbPgvb6/image.jpg",
+            "https://i.ibb.co/W33FfYX/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Nike",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EV0992",
+        "cor númerica": "1",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 720,
+        "precoPromo": 720,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/wpcNkMQ/image.jpg",
+            "https://i.ibb.co/tBF22np/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Nike",
+        "tipoDeCard": "Com Preço",
+        "modelo": "7253",
+        "cor númerica": "205",
+        "cor": "Marrom",
+        "Formato": "Quadrado",
+        "preco": 687,
+        "precoPromo": 687,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gvqbskw/image.jpg",
+            "https://i.ibb.co/0f0n8Nx/image.jpg"
+        ]
+    }
+]

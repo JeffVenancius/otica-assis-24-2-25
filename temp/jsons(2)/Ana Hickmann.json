@@ -1,0 +1,870 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1181",
+        "cor númerica": "04D",
+        "cor": "Dourado",
+        "Formato": "Retangular",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0qP3cz4/image.jpg",
+            "https://i.ibb.co/ctQc89Q/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Ana Hickmann",
+                "tipoDeCard": "Com Preço",
+                "modelo": "AH1181",
+                "cor númerica": "04C",
+                "cor": "Bronze",
+                "Formato": "Retangular",
+                "preco": 597,
+                "precoPromo": 597,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/54jQqbJ/image.jpg",
+                    "https://i.ibb.co/SsTfJnQ/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1284",
+        "cor númerica": "15A",
+        "cor": "Dourado",
+        "Formato": "Gatinho",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/5Ww3Lnq/image.jpg",
+            "https://i.ibb.co/P4CfNKM/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Ana Hickmann",
+                "tipoDeCard": "Com Preço",
+                "modelo": "AH1284",
+                "cor númerica": "04B",
+                "cor": "Dourado",
+                "Formato": "Gatinho",
+                "preco": 597,
+                "precoPromo": 597,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/qCgzptq/image.jpg",
+                    "https://i.ibb.co/vddTy2n/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Ana Hickmann",
+                "tipoDeCard": "Com Preço",
+                "modelo": "AH1284",
+                "cor númerica": "06A",
+                "cor": "Azul",
+                "Formato": "Gatinho",
+                "preco": 597,
+                "precoPromo": 597,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/kq2NPwQ/image.jpg",
+                    "https://i.ibb.co/MGFNN7s/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1196",
+        "cor númerica": "08C",
+        "cor": "Prata",
+        "Formato": "Gatinho",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sjJVb0D/image.jpg",
+            "https://i.ibb.co/HCSxrfT/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60051",
+        "cor númerica": "C01",
+        "cor": "Bordô",
+        "Formato": "Gatinho",
+        "preco": 1078,
+        "precoPromo": 1078,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/mD4Js46/image.jpg",
+            "https://i.ibb.co/HT5KDGx/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH10009",
+        "cor númerica": "09A",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 765,
+        "precoPromo": 765,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tpN2SvD/image.jpg",
+            "https://i.ibb.co/2Fxm70t/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH10017",
+        "cor númerica": "04A",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 659,
+        "precoPromo": 659,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/y4xRycs/image.jpg",
+            "https://i.ibb.co/6DWRD9g/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Ana Hickmann",
+                "tipoDeCard": "Com Preço",
+                "modelo": "AH10017",
+                "cor númerica": "04B",
+                "cor": "Dourado",
+                "Formato": "Borboleta",
+                "preco": 659,
+                "precoPromo": 659,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/tx6C5cR/image.jpg",
+                    "https://i.ibb.co/tDv7cYM/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Ana Hickmann",
+                "tipoDeCard": "Com Preço",
+                "modelo": "AH10017",
+                "cor númerica": "09A",
+                "cor": "Dourado",
+                "Formato": "Borboleta",
+                "preco": 659,
+                "precoPromo": 659,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/dbFKLjs/image.jpg",
+                    "https://i.ibb.co/c6jqbnX/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1088",
+        "cor númerica": "04F",
+        "cor": "Dourado",
+        "Formato": "Retangular",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/f8JyZHy/image.jpg",
+            "https://i.ibb.co/p30MKX5/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Ana Hickmann",
+                "tipoDeCard": "Com Preço",
+                "modelo": "AH1088",
+                "cor númerica": "15A",
+                "cor": "Prata",
+                "Formato": "Retangular",
+                "preco": 597,
+                "precoPromo": 597,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/C0X9hjv/image.jpg",
+                    "https://i.ibb.co/nrcjSSF/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1123",
+        "cor númerica": "13A",
+        "cor": "Prata",
+        "Formato": "Retangular",
+        "preco": 665,
+        "precoPromo": 665,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/v1jxZXk/image.jpg",
+            "https://i.ibb.co/p49g5hX/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1154",
+        "cor númerica": "05B",
+        "cor": "Lilás",
+        "Formato": "Retangular",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0shYb43/image.jpg",
+            "https://i.ibb.co/RNZcdSX/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1164",
+        "cor númerica": "08C",
+        "cor": "Prata",
+        "Formato": "Retangular",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/CsTg7Sg/image.jpg",
+            "https://i.ibb.co/n3kHvD0/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1189",
+        "cor númerica": "05B",
+        "cor": "Bordô",
+        "Formato": "Retangular",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/L9rbBmP/image.jpg",
+            "https://i.ibb.co/qdRCdsM/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1190",
+        "cor númerica": "04F",
+        "cor": "Dourado",
+        "Formato": "Retangular",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/LzXCKMW/image.jpg",
+            "https://i.ibb.co/nMkjNJw/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1197",
+        "cor númerica": "04A",
+        "cor": "Dourado",
+        "Formato": "Retangular",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/H47m4jP/image.jpg",
+            "https://i.ibb.co/BcccXdp/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1209",
+        "cor númerica": "05A",
+        "cor": "Rosé",
+        "Formato": "Retangular",
+        "preco": 665,
+        "precoPromo": 665,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pRHDq50/image.jpg",
+            "https://i.ibb.co/8gLLXGr/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1212",
+        "cor númerica": "05A",
+        "cor": "Prata",
+        "Formato": "Retangular",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/THGK01X/image.jpg",
+            "https://i.ibb.co/hH3KGxm/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1215",
+        "cor númerica": "04C",
+        "cor": "Dourado",
+        "Formato": "Retangular",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/r2XdWwk/image.jpg",
+            "https://i.ibb.co/HNk7HtW/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1239",
+        "cor númerica": "04A",
+        "cor": "Dourado",
+        "Formato": "Retangular",
+        "preco": 550,
+        "precoPromo": 550,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gDP4Jd3/image.jpg",
+            "https://i.ibb.co/pxt3hbM/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Ana Hickmann",
+                "tipoDeCard": "Com Preço",
+                "modelo": "AH1239",
+                "cor númerica": "07B",
+                "cor": "Rosé",
+                "Formato": "Retangular",
+                "preco": 597,
+                "precoPromo": 597,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/rG7NkFr/image.jpg",
+                    "https://i.ibb.co/MkwPGyR/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Ana Hickmann",
+                "tipoDeCard": "Com Preço",
+                "modelo": "AH1239",
+                "cor númerica": "08B",
+                "cor": "Prata",
+                "Formato": "Retangular",
+                "preco": 597,
+                "precoPromo": 597,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/M2LpBBc/image.jpg",
+                    "https://i.ibb.co/280dbTC/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1255",
+        "cor númerica": "06D",
+        "cor": "Azul",
+        "Formato": "Retangular",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/bHPBcTd/image.jpg",
+            "https://i.ibb.co/XfnbyvR/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1261",
+        "cor númerica": "02A",
+        "cor": "Cinza",
+        "Formato": "Retangular",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/KFPvxNP/image.jpg",
+            "https://i.ibb.co/Z1cLGZS/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1266",
+        "cor númerica": "05B",
+        "cor": "Prata",
+        "Formato": "Retangular",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/x7S1zqt/image.jpg",
+            "https://i.ibb.co/Tq1xq6y/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1268",
+        "cor númerica": "04B",
+        "cor": "Dourado",
+        "Formato": "Retangular",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/VCSWMFG/image.jpg",
+            "https://i.ibb.co/Z6FMNj4/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1346",
+        "cor númerica": "07A",
+        "cor": "Vermelho",
+        "Formato": "Gatinho",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HdPdYxc/image.jpg",
+            "https://i.ibb.co/JjVBbmB/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1381B",
+        "cor númerica": "04A",
+        "cor": "Dourado",
+        "Formato": "Gatinho",
+        "preco": 810,
+        "precoPromo": 810,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/YZKG65K/image.jpg",
+            "https://i.ibb.co/wh991WK/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Ana Hickmann",
+                "tipoDeCard": "Com Preço",
+                "modelo": "AH1381B",
+                "cor númerica": "09A",
+                "cor": "Dourado",
+                "Formato": "Gatinho",
+                "preco": 810,
+                "precoPromo": 810,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/9tpNYgL/image.jpg",
+                    "https://i.ibb.co/nkY8t15/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH3231N",
+        "cor númerica": "G21",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 722,
+        "precoPromo": 722,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tmmjSnC/image.jpg",
+            "https://i.ibb.co/ZJBjCJV/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60001",
+        "cor númerica": "N01",
+        "cor": "Rosa",
+        "Formato": "Borboleta",
+        "preco": 695,
+        "precoPromo": 695,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/fGm8V3V/image.jpg",
+            "https://i.ibb.co/GHWJdSs/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60007",
+        "cor númerica": "K01",
+        "cor": "Rosa",
+        "Formato": "Gatinho",
+        "preco": 699,
+        "precoPromo": 699,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/SyTDxDf/image.jpg",
+            "https://i.ibb.co/5Gw8khw/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60011",
+        "cor númerica": "G22",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 625,
+        "precoPromo": 625,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/FHJ4rnx/image.jpg",
+            "https://i.ibb.co/PjF7h81/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60013",
+        "cor númerica": "A01",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 659,
+        "precoPromo": 659,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/mHRjbYg/image.jpg",
+            "https://i.ibb.co/0m5CBBr/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Ana Hickmann",
+                "tipoDeCard": "Com Preço",
+                "modelo": "AH60013",
+                "cor númerica": "G23",
+                "cor": "Demi",
+                "Formato": "Borboleta",
+                "preco": 729,
+                "precoPromo": 729,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/Kx3N3tH/image.jpg",
+                    "https://i.ibb.co/kKZcppZ/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60018",
+        "cor númerica": "G22",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 474,
+        "precoPromo": 474,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/j8wrWdQ/image.jpg",
+            "https://i.ibb.co/4WvtSQ9/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60019",
+        "cor númerica": "G22",
+        "cor": "Demi",
+        "Formato": "Gatinho",
+        "preco": 699,
+        "precoPromo": 699,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/kMyHRZz/image.jpg",
+            "https://i.ibb.co/CP8qR72/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60023",
+        "cor númerica": "A01",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 833,
+        "precoPromo": 833,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/b7jd9zB/image.jpg",
+            "https://i.ibb.co/7RgSg48/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60033",
+        "cor númerica": "A01",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 880,
+        "precoPromo": 880,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sKq5Prg/image.jpg",
+            "https://i.ibb.co/P6L5Bs4/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Ana Hickmann",
+                "tipoDeCard": "Com Preço",
+                "modelo": "AH60033",
+                "cor númerica": "G22",
+                "cor": "Tortoise",
+                "Formato": "Borboleta",
+                "preco": 895,
+                "precoPromo": 895,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/jR6zf4V/image.jpg",
+                    "https://i.ibb.co/L9Zj0nk/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60034",
+        "cor númerica": "A01",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 880,
+        "precoPromo": 880,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gtjwSbc/image.jpg",
+            "https://i.ibb.co/p46hwLs/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60035",
+        "cor númerica": "D21",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 729,
+        "precoPromo": 729,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sJmXzTk/image.jpg",
+            "https://i.ibb.co/GWy910g/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Ana Hickmann",
+                "tipoDeCard": "Com Preço",
+                "modelo": "AH60035",
+                "cor númerica": "G21",
+                "cor": "Demi",
+                "Formato": "Gatinho",
+                "preco": 729,
+                "precoPromo": 729,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/djNZpzV/image.jpg",
+                    "https://i.ibb.co/dMjTm6X/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60037",
+        "cor númerica": "C01",
+        "cor": "Burgundy",
+        "Formato": "Borboleta",
+        "preco": 691,
+        "precoPromo": 691,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/JzDgKF6/image.jpg",
+            "https://i.ibb.co/HBCjNHq/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60045",
+        "cor númerica": "D01",
+        "cor": "Azul",
+        "Formato": "Borboleta",
+        "preco": 719,
+        "precoPromo": 719,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/kygvgBv/image.jpg",
+            "https://i.ibb.co/rkt42WX/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60053",
+        "cor númerica": "A03",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 810,
+        "precoPromo": 810,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/svKz8f4/image.jpg",
+            "https://i.ibb.co/MDfDcj7/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH9325",
+        "cor númerica": "G22",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 774,
+        "precoPromo": 774,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/6vdY1vj/image.jpg",
+            "https://i.ibb.co/tLx3K2r/image.jpg"
+        ]
+    }
+]

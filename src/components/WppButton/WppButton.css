@@ -18,21 +18,46 @@
 	background-color: #de7c34;
 }
 
+@media (max-width: 1500px) {
+	.wpp__link {
+		aspect-ratio: 4/1;
+	}
+	.wpp__button {
+		font-size: 1.2vw;
+	}
+}
+@media (max-width: 1350px) {
+	.wpp__button {
+	font-size: 1.4vw;
+	border-radius: 10px;
+	}
+	.wpp__link {
+		aspect-ratio: 5/1;
+		width: 65%;
+	}
+}
+
+
 @media (max-width: 1240px) {
 	.wpp__button {
-	font-size: 1.2vw;
+	font-size: 2vw;
+	border-radius: 12px;
+	}
+	.wpp__link {
+		aspect-ratio: 4.5/1;
+		width: 80%;
 	}
 }
 
 @media (max-width: 850px) {
 	.wpp__button {
-	font-size: 1.5vw;
+	font-size: 2vw;
 	}
 }
 
 @media (max-width: 700px) {
 	.wpp__button {
-	font-size: 2vw;
+	font-size: 3vw;
 	}
 }
 

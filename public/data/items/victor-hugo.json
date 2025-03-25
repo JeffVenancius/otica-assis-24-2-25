@@ -1,632 +1,762 @@
 [
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "SH1270 0847",
-		"preco": 1314,
-		"precoPromo": 1314,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/HhJ1MM1/image.jpg",
-			"https://i.ibb.co/TmqHvWL/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "SH1270 09AT",
-		"preco": 1314,
-		"precoPromo": 1314,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/mTgmhWc/image.jpg",
-			"https://i.ibb.co/Q8yNfzB/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "SH1289 0A39",
-		"preco": 943,
-		"precoPromo": 943,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/zsPVQkz/image.jpg",
-			"https://i.ibb.co/Lzsx9bR/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "SH1292 0K99",
-		"preco": 943,
-		"precoPromo": 943,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/Yk8t6CZ/image.jpg",
-			"https://i.ibb.co/Sm01YLy/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "SH1313S 0300",
-		"preco": 1017,
-		"precoPromo": 1017,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/Qk664B1/image.jpg",
-			"https://i.ibb.co/5sMLRBW/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "SH1313S 0L41",
-		"preco": 1017,
-		"precoPromo": 1017,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/wJXzR9n/image.jpg",
-			"https://i.ibb.co/zZS0DLd/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "SH1315 0309",
-		"preco": 1014,
-		"precoPromo": 1014,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/51vXTW6/image.jpg",
-			"https://i.ibb.co/3ssk5fz/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "SH1789 0AHL",
-		"preco": 880,
-		"precoPromo": 880,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/HCYhfc3/image.jpg",
-			"https://i.ibb.co/NysR34b/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Unissex",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "SH1794 06S8",
-		"preco": 898,
-		"precoPromo": 898,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/jVqz2Cx/image.jpg",
-			"https://i.ibb.co/85WCKF5/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "SH1794 0913",
-		"preco": 898,
-		"precoPromo": 898,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/TPDL4Cd/image.jpg",
-			"https://i.ibb.co/8dYqkM6/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "SH1795S 09GU",
-		"preco": 1038,
-		"precoPromo": 1038,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/NZfmMcD/image.jpg",
-			"https://i.ibb.co/N6fSpf7/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "SH1843 07E4",
-		"preco": 838,
-		"precoPromo": 838,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/VTQg62M/image.jpg",
-			"https://i.ibb.co/cg4fZ2r/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1271 0579",
-		"preco": 1067,
-		"precoPromo": 1067,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/tL1mxww/image.jpg",
-			"https://i.ibb.co/Wk01JJK/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1297 08NS",
-		"preco": 955,
-		"precoPromo": 955,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/8rqgrPF/image.jpg",
-			"https://i.ibb.co/NZ52hyy/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1299 02A8",
-		"preco": 1015,
-		"precoPromo": 1015,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/r3KG9y8/image.jpg",
-			"https://i.ibb.co/Ybm96M4/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1300 0523",
-		"preco": 1015,
-		"precoPromo": 1015,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/XCtT23b/image.jpg",
-			"https://i.ibb.co/4NykVQL/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1328 0H32",
-		"preco": 1488,
-		"precoPromo": 1488,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/9y9HTyH/image.jpg",
-			"https://i.ibb.co/bvK2CkY/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1330 0301",
-		"preco": 1395,
-		"precoPromo": 1395,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/QDVTb0b/image.jpg",
-			"https://i.ibb.co/kMX7G05/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1330 0A93",
-		"preco": 1395,
-		"precoPromo": 1395,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/d5q1trN/image.jpg",
-			"https://i.ibb.co/tBK0CY0/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1331 0323",
-		"preco": 1442,
-		"precoPromo": 1442,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/VMc8Dxt/image.jpg",
-			"https://i.ibb.co/D506pQr/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1335 0367",
-		"preco": 1442,
-		"precoPromo": 1442,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/R2QzgVF/image.jpg",
-			"https://i.ibb.co/fk7QFrv/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1336 0A93",
-		"preco": 1442,
-		"precoPromo": 1442,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/tYvxgw6/image.jpg",
-			"https://i.ibb.co/y4Twg96/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1342 300K",
-		"preco": 1535,
-		"precoPromo": 1535,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/YRvfmqJ/image.jpg",
-			"https://i.ibb.co/bgjZKBZ/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1342 300Y",
-		"preco": 1535,
-		"precoPromo": 1535,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/c64dYqV/image.jpg",
-			"https://i.ibb.co/NYCmvT0/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1347 033M",
-		"preco": 1516,
-		"precoPromo": 1516,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/nwDZpxj/image.jpg",
-			"https://i.ibb.co/Vpb05kB/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1348 300K",
-		"preco": 1619,
-		"precoPromo": 1619,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/QQNFW55/image.jpg",
-			"https://i.ibb.co/jDLph2C/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1770 0U15",
-		"preco": 834,
-		"precoPromo": 834,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/jLFG75G/image.jpg",
-			"https://i.ibb.co/fdBK43M/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1813 0909",
-		"preco": 1162,
-		"precoPromo": 1162,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/sJDPYK1/image.jpg",
-			"https://i.ibb.co/8YLDs1C/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1817 09QL",
-		"preco": 1038,
-		"precoPromo": 1038,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/jvrFCwh/image.jpg",
-			"https://i.ibb.co/CWGDYLj/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1827 01EN",
-		"preco": 1015,
-		"precoPromo": 1015,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/fY2bs5t/image.jpg",
-			"https://i.ibb.co/GdKkbXb/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1836 06SC",
-		"preco": 1090,
-		"precoPromo": 1090,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/VtNsWPj/image.jpg",
-			"https://i.ibb.co/hLvg2q6/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1838 09BD",
-		"preco": 854,
-		"precoPromo": 854,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/M6k6hNw/image.jpg",
-			"https://i.ibb.co/LSMKjzF/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1858 0U62",
-		"preco": 1044,
-		"precoPromo": 1044,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/3sy2vCg/image.jpg",
-			"https://i.ibb.co/H2ZgtCh/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1881 0700",
-		"preco": 1488,
-		"precoPromo": 1488,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/PYZBddJ/image.jpg",
-			"https://i.ibb.co/zP2TbGT/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1883 06YZ",
-		"preco": 1535,
-		"precoPromo": 1535,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/2ZFqNVb/image.jpg",
-			"https://i.ibb.co/Z69DxX3/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1888 0700",
-		"preco": 1395,
-		"precoPromo": 1395,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/WVtqXKT/image.jpg",
-			"https://i.ibb.co/LnXkPWy/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1893 0700",
-		"preco": 1581,
-		"precoPromo": 1581,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/HCcR7wm/image.jpg",
-			"https://i.ibb.co/Ky8s2s9/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1902 07T1",
-		"preco": 1442,
-		"precoPromo": 1442,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/wdkzqhF/image.jpg",
-			"https://i.ibb.co/Fgmv8YD/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1909 02BQ",
-		"preco": 1563,
-		"precoPromo": 1563,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/JzHJ3dc/image.jpg",
-			"https://i.ibb.co/xJHsjpz/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1912 0700",
-		"preco": 1619,
-		"precoPromo": 1619,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/1r526tR/image.jpg",
-			"https://i.ibb.co/8xNxrvT/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1912 0762",
-		"preco": 1619,
-		"precoPromo": 1619,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/kM41D9Z/image.jpg",
-			"https://i.ibb.co/qBTmb3C/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1320 300Y",
-		"preco": 975,
-		"precoPromo": 975,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/fFgPg41/image.jpg",
-			"https://i.ibb.co/0yy5fWQ/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1735 752",
-		"preco": 849,
-		"precoPromo": 849,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/3BmGJW1/image.jpg",
-			"https://i.ibb.co/k2tCX4V/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1772 0AQ4",
-		"preco": 609,
-		"precoPromo": 609,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/Pz1V3jk/image.jpg",
-			"https://i.ibb.co/5sngxq6/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Victor Hugo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "VH1844 0700",
-		"preco": 975,
-		"precoPromo": 975,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/gWRf04g/image.jpg",
-			"https://i.ibb.co/c19ySht/image.jpg"
-		]
-	}
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SH1270",
+        "cor numérica": "0847",
+        "cor": "Branco",
+        "Formato": "Gatinho",
+        "preco": 1314,
+        "precoPromo": 1314,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HhJ1MM1/image.jpg",
+            "https://i.ibb.co/TmqHvWL/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Victor Hugo",
+                "tipoDeCard": "Com Preço",
+                "modelo": "SH1270",
+                "cor numérica": "09AT",
+                "cor": "Bordô",
+                "Formato": "Gatinho",
+                "preco": 1314,
+                "precoPromo": 1314,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/mTgmhWc/image.jpg",
+                    "https://i.ibb.co/Q8yNfzB/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SH1289",
+        "cor numérica": "0A39",
+        "cor": "Prata",
+        "Formato": "Borboleta",
+        "preco": 943,
+        "precoPromo": 943,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/zsPVQkz/image.jpg",
+            "https://i.ibb.co/Lzsx9bR/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SH1292",
+        "cor numérica": "0K99",
+        "cor": "Dourado",
+        "Formato": "Gatinho",
+        "preco": 943,
+        "precoPromo": 943,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Yk8t6CZ/image.jpg",
+            "https://i.ibb.co/Sm01YLy/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SH1313S",
+        "cor numérica": "0300",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 1017,
+        "precoPromo": 1017,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Qk664B1/image.jpg",
+            "https://i.ibb.co/5sMLRBW/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Victor Hugo",
+                "tipoDeCard": "Com Preço",
+                "modelo": "SH1313S",
+                "cor numérica": "0L41",
+                "cor": "Rosé",
+                "Formato": "Borboleta",
+                "preco": 1017,
+                "precoPromo": 1017,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/wJXzR9n/image.jpg",
+                    "https://i.ibb.co/zZS0DLd/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SH1315",
+        "cor numérica": "0309",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 1014,
+        "precoPromo": 1014,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/51vXTW6/image.jpg",
+            "https://i.ibb.co/3ssk5fz/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SH1789",
+        "cor numérica": "0AHL",
+        "cor": "Rosa",
+        "Formato": "Quadrado",
+        "preco": 880,
+        "precoPromo": 880,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HCYhfc3/image.jpg",
+            "https://i.ibb.co/NysR34b/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SH1794",
+        "cor numérica": "06S8",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 898,
+        "precoPromo": 898,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jVqz2Cx/image.jpg",
+            "https://i.ibb.co/85WCKF5/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Victor Hugo",
+                "tipoDeCard": "Com Preço",
+                "modelo": "SH1794",
+                "cor numérica": "0913",
+                "cor": "Marrom",
+                "Formato": "Quadrado",
+                "preco": 898,
+                "precoPromo": 898,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/TPDL4Cd/image.jpg",
+                    "https://i.ibb.co/8dYqkM6/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SH1795S",
+        "cor numérica": "09GU",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 1038,
+        "precoPromo": 1038,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/NZfmMcD/image.jpg",
+            "https://i.ibb.co/N6fSpf7/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SH1843",
+        "cor numérica": "07E4",
+        "cor": "Vermelho",
+        "Formato": "Gatinho",
+        "preco": 838,
+        "precoPromo": 838,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/VTQg62M/image.jpg",
+            "https://i.ibb.co/cg4fZ2r/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1271",
+        "cor numérica": "0579",
+        "cor": "Prata",
+        "Formato": "Gatinho",
+        "preco": 1067,
+        "precoPromo": 1067,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tL1mxww/image.jpg",
+            "https://i.ibb.co/Wk01JJK/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1297",
+        "cor numérica": "08NS",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 955,
+        "precoPromo": 955,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/8rqgrPF/image.jpg",
+            "https://i.ibb.co/NZ52hyy/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1299",
+        "cor numérica": "02A8",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 1015,
+        "precoPromo": 1015,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/r3KG9y8/image.jpg",
+            "https://i.ibb.co/Ybm96M4/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1300",
+        "cor numérica": "0523",
+        "cor": "Prata",
+        "Formato": "Borboleta",
+        "preco": 1015,
+        "precoPromo": 1015,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/XCtT23b/image.jpg",
+            "https://i.ibb.co/4NykVQL/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1328",
+        "cor numérica": "0H32",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 1488,
+        "precoPromo": 1488,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/9y9HTyH/image.jpg",
+            "https://i.ibb.co/bvK2CkY/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1330",
+        "cor numérica": "0301",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 1395,
+        "precoPromo": 1395,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/QDVTb0b/image.jpg",
+            "https://i.ibb.co/kMX7G05/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Victor Hugo",
+                "tipoDeCard": "Com Preço",
+                "modelo": "VH1330",
+                "cor numérica": "0A93",
+                "cor": "Dourado",
+                "Formato": "Borboleta",
+                "preco": 1395,
+                "precoPromo": 1395,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/d5q1trN/image.jpg",
+                    "https://i.ibb.co/tBK0CY0/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1331",
+        "cor numérica": "0323",
+        "cor": "Dourado",
+        "Formato": "Gatinho",
+        "preco": 1442,
+        "precoPromo": 1442,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/VMc8Dxt/image.jpg",
+            "https://i.ibb.co/D506pQr/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1335",
+        "cor numérica": "0367",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 1442,
+        "precoPromo": 1442,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/R2QzgVF/image.jpg",
+            "https://i.ibb.co/fk7QFrv/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1336",
+        "cor numérica": "0A93",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 1442,
+        "precoPromo": 1442,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tYvxgw6/image.jpg",
+            "https://i.ibb.co/y4Twg96/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1342",
+        "cor numérica": "300K",
+        "cor": "Azul",
+        "Formato": "Borboleta",
+        "preco": 1535,
+        "precoPromo": 1535,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/YRvfmqJ/image.jpg",
+            "https://i.ibb.co/bgjZKBZ/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Victor Hugo",
+                "tipoDeCard": "Com Preço",
+                "modelo": "VH1342",
+                "cor numérica": "300Y",
+                "cor": "Coral",
+                "Formato": "Borboleta",
+                "preco": 1535,
+                "precoPromo": 1535,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/c64dYqV/image.jpg",
+                    "https://i.ibb.co/NYCmvT0/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1347",
+        "cor numérica": "033M",
+        "cor": "Rosa",
+        "Formato": "Borboleta",
+        "preco": 1516,
+        "precoPromo": 1516,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/nwDZpxj/image.jpg",
+            "https://i.ibb.co/Vpb05kB/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1348",
+        "cor numérica": "300K",
+        "cor": "Rosa",
+        "Formato": "Borboleta",
+        "preco": 1619,
+        "precoPromo": 1619,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/QQNFW55/image.jpg",
+            "https://i.ibb.co/jDLph2C/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1770",
+        "cor numérica": "0U15",
+        "cor": "Vermelho",
+        "Formato": "Quadrado",
+        "preco": 834,
+        "precoPromo": 834,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jLFG75G/image.jpg",
+            "https://i.ibb.co/fdBK43M/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1813",
+        "cor numérica": "0909",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 1162,
+        "precoPromo": 1162,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sJDPYK1/image.jpg",
+            "https://i.ibb.co/8YLDs1C/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1817",
+        "cor numérica": "09QL",
+        "cor": "Azul",
+        "Formato": "Gatinho",
+        "preco": 1038,
+        "precoPromo": 1038,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jvrFCwh/image.jpg",
+            "https://i.ibb.co/CWGDYLj/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1827",
+        "cor numérica": "01EN",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 1015,
+        "precoPromo": 1015,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/fY2bs5t/image.jpg",
+            "https://i.ibb.co/GdKkbXb/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1836",
+        "cor numérica": "06SC",
+        "cor": "Roxo",
+        "Formato": "Gatinho",
+        "preco": 1090,
+        "precoPromo": 1090,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/VtNsWPj/image.jpg",
+            "https://i.ibb.co/hLvg2q6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1838",
+        "cor numérica": "09BD",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 854,
+        "precoPromo": 854,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/M6k6hNw/image.jpg",
+            "https://i.ibb.co/LSMKjzF/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1858",
+        "cor numérica": "0U62",
+        "cor": "Azul",
+        "Formato": "Gatinho",
+        "preco": 1044,
+        "precoPromo": 1044,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/3sy2vCg/image.jpg",
+            "https://i.ibb.co/H2ZgtCh/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1881",
+        "cor numérica": "0700",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 1488,
+        "precoPromo": 1488,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/PYZBddJ/image.jpg",
+            "https://i.ibb.co/zP2TbGT/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1883",
+        "cor numérica": "06YZ",
+        "cor": "Havana",
+        "Formato": "Gatinho",
+        "preco": 1535,
+        "precoPromo": 1535,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2ZFqNVb/image.jpg",
+            "https://i.ibb.co/Z69DxX3/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1888",
+        "cor numérica": "0700",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 1395,
+        "precoPromo": 1395,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/WVtqXKT/image.jpg",
+            "https://i.ibb.co/LnXkPWy/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1902",
+        "cor numérica": "07T1",
+        "cor": "Nude",
+        "Formato": "Borboleta",
+        "preco": 1442,
+        "precoPromo": 1442,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/wdkzqhF/image.jpg",
+            "https://i.ibb.co/Fgmv8YD/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1909",
+        "cor numérica": "02BQ",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 1563,
+        "precoPromo": 1563,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/JzHJ3dc/image.jpg",
+            "https://i.ibb.co/xJHsjpz/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1912",
+        "cor numérica": "0700",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 1619,
+        "precoPromo": 1619,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/1r526tR/image.jpg",
+            "https://i.ibb.co/8xNxrvT/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Victor Hugo",
+                "tipoDeCard": "Com Preço",
+                "modelo": "VH1912",
+                "cor numérica": "0762",
+                "cor": "Demi",
+                "Formato": "Gatinho",
+                "preco": 1619,
+                "precoPromo": 1619,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/kM41D9Z/image.jpg",
+                    "https://i.ibb.co/qBTmb3C/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1320",
+        "cor numérica": "300Y",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 975,
+        "precoPromo": 975,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/fFgPg41/image.jpg",
+            "https://i.ibb.co/0yy5fWQ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1735",
+        "cor numérica": "752",
+        "cor": "Demi",
+        "Formato": "Gatinho",
+        "preco": 849,
+        "precoPromo": 849,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/3BmGJW1/image.jpg",
+            "https://i.ibb.co/k2tCX4V/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1772",
+        "cor numérica": "0AQ4",
+        "cor": "Vermelho",
+        "Formato": "Gatinho",
+        "preco": 609,
+        "precoPromo": 609,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Pz1V3jk/image.jpg",
+            "https://i.ibb.co/5sngxq6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Victor Hugo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VH1844",
+        "cor numérica": "0700",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 975,
+        "precoPromo": 975,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gWRf04g/image.jpg",
+            "https://i.ibb.co/c19ySht/image.jpg"
+        ]
+    }
 ]

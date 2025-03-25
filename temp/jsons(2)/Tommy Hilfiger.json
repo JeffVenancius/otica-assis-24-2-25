@@ -1,0 +1,106 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Tommy Hilfiger",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TH1580/F",
+        "cor númerica": "SDK",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 409,
+        "precoPromo": 409,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/D8S78zb/image.jpg",
+            "https://i.ibb.co/wBLWQYt/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Tommy Hilfiger",
+                "tipoDeCard": "Com Preço",
+                "modelo": "TH1580/F",
+                "cor númerica": "86",
+                "cor": "Demi",
+                "Formato": "Retangular",
+                "preco": 409,
+                "precoPromo": 409,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/w7ZkKc3/image.jpg",
+                    "https://i.ibb.co/4JJW2gx/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Tommy Hilfiger",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TH1582/F",
+        "cor númerica": "WR9",
+        "cor": "Demi",
+        "Formato": "Retangular",
+        "preco": 409,
+        "precoPromo": 409,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/v4HHkQp/image.jpg",
+            "https://i.ibb.co/7v05mz0/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Tommy Hilfiger",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TH1591",
+        "cor númerica": "86",
+        "cor": "Demi",
+        "Formato": "Retangular",
+        "preco": 379,
+        "precoPromo": 379,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/8ms9PcP/image.jpg",
+            "https://i.ibb.co/K6kCh0P/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Tommy Hilfiger",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TH1406",
+        "cor númerica": "T9E",
+        "cor": "Vermelho",
+        "Formato": "Quadrado",
+        "preco": 575,
+        "precoPromo": 575,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/51ZnM7P/image.jpg",
+            "https://i.ibb.co/VWzbKc6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Tommy Hilfiger",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TH1417",
+        "cor númerica": "VYW",
+        "cor": "Marrom",
+        "Formato": "Redondo",
+        "preco": 498,
+        "precoPromo": 498,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Pz3Ty1c/image.jpg",
+            "https://i.ibb.co/q9VWMd5/image.jpg"
+        ]
+    }
+]

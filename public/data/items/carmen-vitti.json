@@ -1,0 +1,36 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Carmen Vitti",
+        "tipoDeCard": "Com Preço",
+        "modelo": "CV0371",
+        "cor numérica": "C2",
+        "cor": "Prata",
+        "Formato": "Redondo",
+        "preco": 791,
+        "precoPromo": 791,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/GVNSd1Y/image.jpg",
+            "https://i.ibb.co/wLv9MDb/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Carmen Vitti",
+        "tipoDeCard": "Com Preço",
+        "modelo": "CV8008",
+        "cor numérica": "C3",
+        "cor": "Prata",
+        "Formato": "Redondo",
+        "preco": 499,
+        "precoPromo": 499,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/LZfDrY7/image.jpg",
+            "https://i.ibb.co/jvcw9HJ/image.jpg"
+        ]
+    }
+]

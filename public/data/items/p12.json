@@ -1,262 +1,322 @@
 [
 	{
-		"Tipo": "Óculos de Grau",
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Grau",
 		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
 		"preco": 249,
 		"precoPromo": 249,
-		"wppDesc": "n° 9",
-		"imgs": [
-			"https://i.ibb.co/fGF3TvXY/0-56.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
 		"modelo": "",
-		"preco": 249,
-		"precoPromo": 249,
-		"wppDesc": "n° 7",
+		"cor numérica": "",
+		"cor": "Preto",
+		"Formato": "Borboleta",
+		"wppDesc": 29,
 		"imgs": [
 			"https://i.ibb.co/RTqwTs5c/0-54.jpg"
-		]
+		],
+		"tipoDeCard": "Com Preço"
 	},
 	{
-		"Tipo": "Óculos de Grau",
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Grau",
 		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
 		"preco": 249,
 		"precoPromo": 249,
-		"wppDesc": "n° 20",
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Azul",
+		"Formato": "Quadrado",
+		"wppDesc": 30,
 		"imgs": [
-			"https://i.ibb.co/LdThnzyf/0-67.jpg"
-		]
+			"https://i.ibb.co/fGF3TvXY/0-56.jpg"
+		],
+		"tipoDeCard": "Com Preço"
 	},
 	{
-		"Tipo": "Óculos de Grau",
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Grau",
 		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
 		"preco": 249,
 		"precoPromo": 249,
-		"wppDesc": "n° 14",
-		"imgs": [
-			"https://i.ibb.co/Jw21TK87/0-61.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
 		"modelo": "",
-		"preco": 249,
-		"precoPromo": 249,
-		"wppDesc": "n° 10",
+		"cor numérica": "",
+		"cor": "Rosé",
+		"Formato": "Quadrado",
+		"wppDesc": 31,
 		"imgs": [
 			"https://i.ibb.co/VYm42mDv/0-57.jpg"
-		]
+		],
+		"tipoDeCard": "Com Preço"
 	},
 	{
-		"Tipo": "Óculos de Sol",
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Grau",
 		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
 		"preco": 249,
 		"precoPromo": 249,
-		"wppDesc": "n° 8",
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Prata",
+		"Formato": "Redondo",
+		"wppDesc": 32,
 		"imgs": [
-			"https://i.ibb.co/XrhNcdR2/0-55.jpg"
-		]
+			"https://i.ibb.co/Jw21TK87/0-61.jpg"
+		],
+		"tipoDeCard": "Com Preço"
 	},
 	{
-		"Tipo": "Óculos de Sol",
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Grau",
 		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
 		"preco": 249,
 		"precoPromo": 249,
-		"wppDesc": "n° 6",
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Prata",
+		"Formato": "Borboleta",
+		"wppDesc": 33,
 		"imgs": [
-			"https://i.ibb.co/zVKrHyDN/0-53.jpg"
-		]
+			"https://i.ibb.co/LdThnzyf/0-67.jpg"
+		],
+		"tipoDeCard": "Com Preço"
 	},
 	{
-		"Tipo": "Óculos de Sol",
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Sol",
 		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
 		"preco": 249,
 		"precoPromo": 249,
-		"wppDesc": "n° 5",
-		"imgs": [
-			"https://i.ibb.co/VYpK9wGN/0-52.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
 		"modelo": "",
-		"preco": 249,
-		"precoPromo": 249,
-		"wppDesc": "n° 4",
-		"imgs": [
-			"https://i.ibb.co/Wvp5bzsW/0-51.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
-		"preco": 249,
-		"precoPromo": 249,
-		"wppDesc": "n° 3",
-		"imgs": [
-			"https://i.ibb.co/pv7Xxp8d/0-50.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
-		"preco": 249,
-		"precoPromo": 249,
-		"wppDesc": "n° 2",
-		"imgs": [
-			"https://i.ibb.co/W4q2p1dK/0-49.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
-		"preco": 249,
-		"precoPromo": 249,
-		"wppDesc": "n° 19",
-		"imgs": [
-			"https://i.ibb.co/zTMPMRwP/0-66.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
-		"preco": 249,
-		"precoPromo": 249,
-		"wppDesc": "n° 18",
-		"imgs": [
-			"https://i.ibb.co/fVSSZ8G9/0-65.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
-		"preco": 249,
-		"precoPromo": 249,
-		"wppDesc": "n° 17",
-		"imgs": [
-			"https://i.ibb.co/HLfwvmB7/0-64.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
-		"preco": 249,
-		"precoPromo": 249,
-		"wppDesc": "n° 16",
-		"imgs": [
-			"https://i.ibb.co/mCbv6k3f/0-63.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
-		"preco": 249,
-		"precoPromo": 249,
-		"wppDesc": "n° 15",
-		"imgs": [
-			"https://i.ibb.co/pj8Lq7JN/0-62.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
-		"preco": 249,
-		"precoPromo": 249,
-		"wppDesc": "n° 13",
-		"imgs": [
-			"https://i.ibb.co/s9qTLLZj/0-60.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
-		"preco": 249,
-		"precoPromo": 249,
-		"wppDesc": "n° 12",
-		"imgs": [
-			"https://i.ibb.co/23rmvT58/0-59.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
-		"preco": 249,
-		"precoPromo": 249,
-		"wppDesc": "n° 22",
-		"imgs": [
-			"https://i.ibb.co/5hryFqSc/0-58.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Sol",
-		"Gênero": "Feminino",
-		"marca": "Oslo",
-		"tipoDeCard": "Com Preço",
-		"modelo": "",
-		"preco": 249,
-		"precoPromo": 249,
-		"wppDesc": "n° 21",
+		"cor numérica": "",
+		"cor": "Verde",
+		"Formato": "Gatinho",
+		"wppDesc": 43,
 		"imgs": [
 			"https://i.ibb.co/JFt72Fz4/0-48.jpg"
-		]
+		],
+		"tipoDeCard": "Com Preço"
+	},
+	{
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Sol",
+		"Gênero": "Feminino",
+		"preco": 249,
+		"precoPromo": 249,
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Marrom",
+		"Formato": "Borboleta",
+		"wppDesc": 44,
+		"imgs": [
+			"https://i.ibb.co/W4q2p1dK/0-49.jpg"
+		],
+		"tipoDeCard": "Com Preço"
+	},
+	{
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Sol",
+		"Gênero": "Feminino",
+		"preco": 249,
+		"precoPromo": 249,
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Marrom",
+		"Formato": "Gatinho",
+		"wppDesc": 45,
+		"imgs": [
+			"https://i.ibb.co/pv7Xxp8d/0-50.jpg"
+		],
+		"tipoDeCard": "Com Preço"
+	},
+	{
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Sol",
+		"Gênero": "Feminino",
+		"preco": 249,
+		"precoPromo": 249,
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Nude",
+		"Formato": "Gatinho",
+		"wppDesc": 46,
+		"imgs": [
+			"https://i.ibb.co/Wvp5bzsW/0-51.jpg"
+		],
+		"tipoDeCard": "Com Preço"
+	},
+	{
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Sol",
+		"Gênero": "Feminino",
+		"preco": 249,
+		"precoPromo": 249,
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Tortoise",
+		"Formato": "Quadrado",
+		"wppDesc": 47,
+		"imgs": [
+			"https://i.ibb.co/VYpK9wGN/0-52.jpg"
+		],
+		"tipoDeCard": "Com Preço"
+	},
+	{
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Sol",
+		"Gênero": "Feminino",
+		"preco": 249,
+		"precoPromo": 249,
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Preto",
+		"Formato": "Borboleta",
+		"wppDesc": 48,
+		"imgs": [
+			"https://i.ibb.co/zVKrHyDN/0-53.jpg"
+		],
+		"tipoDeCard": "Com Preço"
+	},
+	{
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Sol",
+		"Gênero": "Feminino",
+		"preco": 249,
+		"precoPromo": 249,
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Dourado",
+		"Formato": "Redondo",
+		"wppDesc": 49,
+		"imgs": [
+			"https://i.ibb.co/XrhNcdR2/0-55.jpg"
+		],
+		"tipoDeCard": "Com Preço"
+	},
+	{
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Sol",
+		"Gênero": "Feminino",
+		"preco": 249,
+		"precoPromo": 249,
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Preto",
+		"Formato": "Gatinho",
+		"wppDesc": 50,
+		"imgs": [
+			"https://i.ibb.co/5hryFqSc/0-58.jpg"
+		],
+		"tipoDeCard": "Com Preço"
+	},
+	{
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Sol",
+		"Gênero": "Feminino",
+		"preco": 249,
+		"precoPromo": 249,
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Verde",
+		"Formato": "Borboleta",
+		"wppDesc": 51,
+		"imgs": [
+			"https://i.ibb.co/23rmvT58/0-59.jpg"
+		],
+		"tipoDeCard": "Com Preço"
+	},
+	{
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Sol",
+		"Gênero": "Feminino",
+		"preco": 249,
+		"precoPromo": 249,
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Preto",
+		"Formato": "Quadrado",
+		"wppDesc": 52,
+		"imgs": [
+			"https://i.ibb.co/s9qTLLZj/0-60.jpg"
+		],
+		"tipoDeCard": "Com Preço"
+	},
+	{
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Sol",
+		"Gênero": "Feminino",
+		"preco": 249,
+		"precoPromo": 249,
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Marrom",
+		"Formato": "Dourado",
+		"wppDesc": 53,
+		"imgs": [
+			"https://i.ibb.co/pj8Lq7JN/0-62.jpg"
+		],
+		"tipoDeCard": "Com Preço"
+	},
+	{
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Sol",
+		"Gênero": "Feminino",
+		"preco": 249,
+		"precoPromo": 249,
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Roxo",
+		"Formato": "Gatinho",
+		"wppDesc": 54,
+		"imgs": [
+			"https://i.ibb.co/mCbv6k3f/0-63.jpg"
+		],
+		"tipoDeCard": "Com Preço"
+	},
+	{
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Sol",
+		"Gênero": "Feminino",
+		"preco": 249,
+		"precoPromo": 249,
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Azul",
+		"Formato": "Borboleta",
+		"wppDesc": 55,
+		"imgs": [
+			"https://i.ibb.co/HLfwvmB7/0-64.jpg"
+		],
+		"tipoDeCard": "Com Preço"
+	},
+	{
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Sol",
+		"Gênero": "Feminino",
+		"preco": 249,
+		"precoPromo": 249,
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Transparente",
+		"Formato": "Borboleta",
+		"wppDesc": 56,
+		"imgs": [
+			"https://i.ibb.co/fVSSZ8G9/0-65.jpg"
+		],
+		"tipoDeCard": "Com Preço"
+	},
+	{
+		"marca": "P12",
+		"Grau/Sol": "Óculos de Sol",
+		"Gênero": "Feminino",
+		"preco": 249,
+		"precoPromo": 249,
+		"modelo": "",
+		"cor numérica": "",
+		"cor": "Preto",
+		"Formato": "Gatinho",
+		"wppDesc": 57,
+		"imgs": [
+			"https://i.ibb.co/zTMPMRwP/0-66.jpg"
+		],
+		"tipoDeCard": "Com Preço"
 	}
 ]

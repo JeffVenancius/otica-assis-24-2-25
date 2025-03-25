@@ -1,142 +1,172 @@
 [
-	{
-		"Grau/Sol": "Óculos de Grau",
-		"Gênero": "Masculino",
-		"marca": "Bulget",
-		"tipoDeCard": "Com Preço",
-		"modelo": "BG1716M 01B",
-		"preco": 430,
-		"precoPromo": 430,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/Y79VGxN/image.jpg",
-			"https://i.ibb.co/BPY826z/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Masculino",
-		"marca": "Bulget",
-		"tipoDeCard": "Com Preço",
-		"modelo": "BG1717M 02B",
-		"preco": 342,
-		"precoPromo": 342,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/dfhqCFG/image.jpg",
-			"https://i.ibb.co/SnJ90Sq/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Masculino",
-		"marca": "Bulget",
-		"tipoDeCard": "Com Preço",
-		"modelo": "BG1718M 02B",
-		"preco": 355,
-		"precoPromo": 355,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/23ZWKjC/image.jpg",
-			"https://i.ibb.co/TwvH2J0/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Masculino",
-		"marca": "Bulget",
-		"tipoDeCard": "Com Preço",
-		"modelo": "BG1719M 09B",
-		"preco": 455,
-		"precoPromo": 455,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/RY15cmC/image.jpg",
-			"https://i.ibb.co/jkN6VrS/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Masculino",
-		"marca": "Bulget",
-		"tipoDeCard": "Com Preço",
-		"modelo": "BG1720M 02B",
-		"preco": 355,
-		"precoPromo": 355,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/QNxntXP/image.jpg",
-			"https://i.ibb.co/6PKddLQ/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Masculino",
-		"marca": "Bulget",
-		"tipoDeCard": "Com Preço",
-		"modelo": "BG2067MT 09A",
-		"preco": 414,
-		"precoPromo": 414,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/MNb8P27/image.jpg",
-			"https://i.ibb.co/Mc3SYTP/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Bulget",
-		"tipoDeCard": "Com Preço",
-		"modelo": "BG4098N D01",
-		"preco": 327,
-		"precoPromo": 327,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/Lxm5YjN/image.jpg",
-			"https://i.ibb.co/Gvr4B5g/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Masculino",
-		"marca": "Bulget",
-		"tipoDeCard": "Com Preço",
-		"modelo": "BG4118MN A01",
-		"preco": 279,
-		"precoPromo": 279,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/2y5FWzM/image.jpg",
-			"https://i.ibb.co/TP3XCSP/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Bulget",
-		"tipoDeCard": "Com Preço",
-		"modelo": "BG7156 A03",
-		"preco": 590,
-		"precoPromo": 590,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/sKt22VL/image.jpg",
-			"https://i.ibb.co/KG5Cgcj/image.jpg"
-		]
-	},
-	{
-		"Tipo": "Óculos de Grau",
-		"Gênero": "Feminino",
-		"marca": "Bulget",
-		"tipoDeCard": "Com Preço",
-		"modelo": "BG7141 G21",
-		"preco": 512,
-		"precoPromo": 512,
-		"wppDesc": "",
-		"imgs": [
-			"https://i.ibb.co/tXGKKS2/image.jpg",
-			"https://i.ibb.co/phQZ7tC/image.jpg"
-		]
-	}
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Bulget",
+        "tipoDeCard": "Com Preço",
+        "modelo": "BG1716M",
+        "cor numérica": "01B",
+        "cor": "Marrom",
+        "Formato": "Quadrado",
+        "preco": 430,
+        "precoPromo": 430,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Y79VGxN/image.jpg",
+            "https://i.ibb.co/BPY826z/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Bulget",
+        "tipoDeCard": "Com Preço",
+        "modelo": "BG1717M",
+        "cor numérica": "02B",
+        "cor": "Grafite",
+        "Formato": "Retangular",
+        "preco": 342,
+        "precoPromo": 342,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/dfhqCFG/image.jpg",
+            "https://i.ibb.co/SnJ90Sq/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Bulget",
+        "tipoDeCard": "Com Preço",
+        "modelo": "BG1718M",
+        "cor numérica": "02B",
+        "cor": "Grafite",
+        "Formato": "Redondo",
+        "preco": 355,
+        "precoPromo": 355,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/23ZWKjC/image.jpg",
+            "https://i.ibb.co/TwvH2J0/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Bulget",
+        "tipoDeCard": "Com Preço",
+        "modelo": "BG1719M",
+        "cor numérica": "09B",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 455,
+        "precoPromo": 455,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/RY15cmC/image.jpg",
+            "https://i.ibb.co/jkN6VrS/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Bulget",
+        "tipoDeCard": "Com Preço",
+        "modelo": "BG1720M",
+        "cor numérica": "02B",
+        "cor": "Grafite",
+        "Formato": "Redondo",
+        "preco": 355,
+        "precoPromo": 355,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/QNxntXP/image.jpg",
+            "https://i.ibb.co/6PKddLQ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Bulget",
+        "tipoDeCard": "Com Preço",
+        "modelo": "BG2067MT",
+        "cor numérica": "09A",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 414,
+        "precoPromo": 414,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/MNb8P27/image.jpg",
+            "https://i.ibb.co/Mc3SYTP/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Bulget",
+        "tipoDeCard": "Com Preço",
+        "modelo": "BG4098N",
+        "cor numérica": "D01",
+        "cor": "Azul",
+        "Formato": "Gatinho",
+        "preco": 327,
+        "precoPromo": 327,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Lxm5YjN/image.jpg",
+            "https://i.ibb.co/Gvr4B5g/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Bulget",
+        "tipoDeCard": "Com Preço",
+        "modelo": "BG4118MN",
+        "cor numérica": "A01",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 279,
+        "precoPromo": 279,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2y5FWzM/image.jpg",
+            "https://i.ibb.co/TP3XCSP/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Bulget",
+        "tipoDeCard": "Com Preço",
+        "modelo": "BG7156",
+        "cor numérica": "A03",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 590,
+        "precoPromo": 590,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sKt22VL/image.jpg",
+            "https://i.ibb.co/KG5Cgcj/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Bulget",
+        "tipoDeCard": "Com Preço",
+        "modelo": "BG7141",
+        "cor numérica": "G21",
+        "cor": "Demi",
+        "Formato": "Gatinho",
+        "preco": 512,
+        "precoPromo": 512,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tXGKKS2/image.jpg",
+            "https://i.ibb.co/phQZ7tC/image.jpg"
+        ]
+    }
 ]

@@ -1,0 +1,36 @@
+[
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Carolina Herrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SHE689",
+        "cor númerica": "0AGQ",
+        "cor": "Verde",
+        "Formato": "Gatinho",
+        "preco": 1325,
+        "precoPromo": 1325,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Qkwz203/image.jpg",
+            "https://i.ibb.co/BCQbNb6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Carolina Herrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VHE108",
+        "cor númerica": "08GJ",
+        "cor": "Bordô",
+        "Formato": "Gatinho",
+        "preco": 1275,
+        "precoPromo": 1275,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/28yqpbF/image.jpg",
+            "https://i.ibb.co/84VcpqT/image.jpg"
+        ]
+    }
+]

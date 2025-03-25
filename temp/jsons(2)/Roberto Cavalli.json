@@ -1,0 +1,36 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Roberto Cavalli",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RC5099",
+        "cor númerica": "66",
+        "cor": "Vermelho",
+        "Formato": "Redondo",
+        "preco": 1193,
+        "precoPromo": 1193,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/MDBkvFR/image.jpg",
+            "https://i.ibb.co/S7C0L1G/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Roberto Cavalli",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RC5097",
+        "cor númerica": "16",
+        "cor": "Prata",
+        "Formato": "Redondo",
+        "preco": 1347,
+        "precoPromo": 1347,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/YhqzJdv/image.jpg",
+            "https://i.ibb.co/M6frmDg/image.jpg"
+        ]
+    }
+]

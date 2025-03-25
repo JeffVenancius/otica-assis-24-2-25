@@ -1,0 +1,104 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Marchon",
+        "tipoDeCard": "Com Preço",
+        "modelo": "M-2016",
+        "cor númerica": "002",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 471,
+        "precoPromo": 471,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/w4MYTvM/image.jpg",
+            "https://i.ibb.co/HnS7ppZ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Marchon",
+        "tipoDeCard": "Com Preço",
+        "modelo": "M-2500",
+        "cor númerica": "710",
+        "cor": "Dourado",
+        "Formato": "Quadrado",
+        "preco": 420,
+        "precoPromo": 420,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/cJ7J8cJ/image.jpg",
+            "https://i.ibb.co/LQrh4vG/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Marchon",
+        "tipoDeCard": "Com Preço",
+        "modelo": "M-3504",
+        "cor númerica": "971",
+        "cor": "Demi",
+        "Formato": "Retangular",
+        "preco": 499,
+        "precoPromo": 499,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/zJhwJxN/image.jpg",
+            "https://i.ibb.co/RhSDC53/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Marchon",
+        "tipoDeCard": "Com Preço",
+        "modelo": "M-4004",
+        "cor númerica": "320",
+        "cor": "Azul",
+        "Formato": "Gatinho",
+        "preco": 420,
+        "precoPromo": 420,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Q8FDGsK/image.jpg",
+            "https://i.ibb.co/mt90mFH/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Marchon",
+        "tipoDeCard": "Com Preço",
+        "modelo": "M-8502",
+        "cor númerica": "971",
+        "cor": "Transparente",
+        "Formato": "Retangular",
+        "preco": 464,
+        "precoPromo": 464,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/QYLLXMW/image.jpg",
+            "https://i.ibb.co/Pjc0c5Y/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Marchon",
+        "tipoDeCard": "Com Preço",
+        "modelo": "TIMESSQ",
+        "cor númerica": "215",
+        "cor": "Tortoise",
+        "Formato": "Retangular",
+        "preco": 499,
+        "precoPromo": 499,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/dBFTB6v/image.jpg",
+            "https://i.ibb.co/0ngzVJj/image.jpg"
+        ]
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Just Cavalli",
+        "tipoDeCard": "Com Preço",
+        "modelo": "VJC009",
+        "cor numérica": "0TAE",
+        "cor": "Rosé",
+        "Formato": "Gatinho",
+        "preco": 1498,
+        "precoPromo": 1498,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jH9B7pj/image.jpg",
+            "https://i.ibb.co/n6T51C9/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Just Cavalli",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SJC042",
+        "cor numérica": "0300",
+        "cor": "Dourado",
+        "Formato": "Gatinho",
+        "preco": 1589,
+        "precoPromo": 1589,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2SCnq2P/image.jpg",
+            "https://i.ibb.co/DC2p6fx/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Just Cavalli",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SJC023",
+        "cor numérica": "0700",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 1051,
+        "precoPromo": 1051,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/dMRGT9b/image.jpg",
+            "https://i.ibb.co/3rSmZ33/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Just Cavalli",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SJC026",
+        "cor numérica": "700Y",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 1293,
+        "precoPromo": 1293,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HHNdJJv/image.jpg",
+            "https://i.ibb.co/WDtDc92/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Just Cavalli",
+        "tipoDeCard": "Com Preço",
+        "modelo": "JC0878",
+        "cor numérica": "54",
+        "cor": "Demi",
+        "Formato": "Gatinho",
+        "preco": 637,
+        "precoPromo": 637,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/CHngGDP/image.jpg",
+            "https://i.ibb.co/42NYqf0/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Just Cavalli",
+        "tipoDeCard": "Com Preço",
+        "modelo": "JC0934",
+        "cor numérica": "53",
+        "cor": "Demi",
+        "Formato": "Gatinho",
+        "preco": 691,
+        "precoPromo": 691,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/52D4t1c/image.jpg",
+            "https://i.ibb.co/FnDWxh9/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Just Cavalli",
+        "tipoDeCard": "Com Preço",
+        "modelo": "JC867S",
+        "cor numérica": "56G",
+        "cor": "Demi",
+        "Formato": "Borboleta",
+        "preco": 795,
+        "precoPromo": 795,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/m8cF4jr/image.jpg",
+            "https://i.ibb.co/7rNDVMR/image.jpg"
+        ]
+    }
+]

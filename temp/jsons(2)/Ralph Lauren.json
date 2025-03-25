@@ -1,0 +1,87 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph Lauren",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RL6201",
+        "cor númerica": "5003",
+        "cor": "Demi",
+        "Formato": "Retangular",
+        "preco": 699,
+        "precoPromo": 699,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Rg2Xcbc/image.jpg",
+            "https://i.ibb.co/qkgvHVt/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ralph Lauren",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA5282U",
+        "cor númerica": "5003/13",
+        "cor": "Demi",
+        "Formato": "Gatinho",
+        "preco": 635,
+        "precoPromo": 635,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/QQnKLmQ/image.jpg",
+            "https://i.ibb.co/X3vpTxT/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph Lauren",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA7133U",
+        "cor númerica": "5987",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 580,
+        "precoPromo": 580,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/fMmKRmf/image.jpg",
+            "https://i.ibb.co/g7hgWjZ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph Lauren",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RL6193",
+        "cor númerica": "5001",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 697,
+        "precoPromo": 697,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jvx4FRg/image.jpg",
+            "https://i.ibb.co/7GvKzqG/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ralph Lauren",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RA6051",
+        "cor númerica": "9336",
+        "cor": "Rosé",
+        "Formato": "Borboleta",
+        "preco": 801,
+        "precoPromo": 801,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/qpvbjLs/image.jpg",
+            "https://i.ibb.co/SyL0PM0/image.jpg"
+        ]
+    }
+]

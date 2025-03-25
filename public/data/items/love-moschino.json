@@ -1,0 +1,104 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Love Moschino",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MOL592",
+        "cor numérica": "PJP",
+        "cor": "Azul",
+        "Formato": "Redondo",
+        "preco": 1136,
+        "precoPromo": 1136,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/yS63zjf/image.jpg",
+            "https://i.ibb.co/TWQC31L/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Love Moschino",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MOL036/S",
+        "cor numérica": "7HH4S",
+        "cor": "Cinza ",
+        "Formato": "Gatinho",
+        "preco": 595,
+        "precoPromo": 595,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/wdw9DQR/image.jpg",
+            "https://i.ibb.co/4sSQ82p/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Love Moschino",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MOL567",
+        "cor numérica": "3YG",
+        "cor": "Dourado",
+        "Formato": "Redondo",
+        "preco": 695,
+        "precoPromo": 695,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/L6nTYB6/image.jpg",
+            "https://i.ibb.co/tbFsDvs/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Love Moschino",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MOL585",
+        "cor numérica": "086",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 985,
+        "precoPromo": 985,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gg9PxkM/image.jpg",
+            "https://i.ibb.co/By7Vsd2/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Love Moschino",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MOL589",
+        "cor numérica": "C9N",
+        "cor": "Rosa",
+        "Formato": "Gatinho",
+        "preco": 985,
+        "precoPromo": 985,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/txNT1c6/image.jpg",
+            "https://i.ibb.co/JH4H4rq/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Love Moschino",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MOL593",
+        "cor numérica": "PJP",
+        "cor": "Azul",
+        "Formato": "Gatinho",
+        "preco": 741,
+        "precoPromo": 741,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/QHhGTWP/image.jpg",
+            "https://i.ibb.co/m8vMZPX/image.jpg"
+        ]
+    }
+]

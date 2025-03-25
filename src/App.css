@@ -15,14 +15,17 @@ button {
 /* Works on Chrome, Edge, and Safari */
 *::-webkit-scrollbar {
   width: 32px;
+	pointer-events: none;
 }
 
 *::-webkit-scrollbar-track {
   background: #2c2d3b;
+	pointer-events: none;
 }
 
 *::-webkit-scrollbar-thumb {
   background-color: white;
   border-radius: 20px;
   border: 3px solid #2c2d3b;
+	pointer-events: none;
 }

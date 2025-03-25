@@ -1,0 +1,293 @@
+[
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Carrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "CARRERA8060/S",
+        "cor númerica": "3U5T4",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 797,
+        "precoPromo": 797,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Kr17Htm/image.jpg",
+            "https://i.ibb.co/T8BqyRP/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Carrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "CARRERA189",
+        "cor númerica": "V81",
+        "cor": "Grafite",
+        "Formato": "Quadrado",
+        "preco": 875,
+        "precoPromo": 875,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/bNHfK0G/image.jpg",
+            "https://i.ibb.co/MMTSKNs/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Carrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "286",
+        "cor númerica": "79U",
+        "cor": "Pêssego ",
+        "Formato": "Retangular",
+        "preco": 875,
+        "precoPromo": 875,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tqtwxrg/image.jpg",
+            "https://i.ibb.co/ZzrGqPH/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Carrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "CARRERA8859",
+        "cor númerica": "807",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 868,
+        "precoPromo": 868,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/cNsPYH6/image.jpg",
+            "https://i.ibb.co/mBwYCF6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Carrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GIPSY65",
+        "cor númerica": "807WJ",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 995,
+        "precoPromo": 995,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/85dbskS/image.jpg",
+            "https://i.ibb.co/hBfJ6rj/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Carrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "CARDUC002/S",
+        "cor númerica": "R6ST",
+        "cor": "Cinza",
+        "Formato": "Esportivo",
+        "preco": 995,
+        "precoPromo": 995,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/P9LkkXt/image.jpg",
+            "https://i.ibb.co/3fgY2St/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Carrera",
+                "tipoDeCard": "Com Preço",
+                "modelo": "CARDUC002/S",
+                "cor númerica": "OITUZ",
+                "cor": "Preto",
+                "Formato": "Esportivo",
+                "preco": 995,
+                "precoPromo": 995,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/1nVL5d3/image.jpg",
+                    "https://i.ibb.co/4TpTnyH/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Carrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "1131",
+        "cor númerica": "SD9",
+        "cor": "Bege",
+        "Formato": "Quadrado",
+        "preco": 875,
+        "precoPromo": 875,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/ftGppYB/image.jpg",
+            "https://i.ibb.co/DwB8yBw/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Carrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "1128",
+        "cor númerica": "086",
+        "cor": "Tortoise",
+        "Formato": "Quadrado",
+        "preco": 875,
+        "precoPromo": 875,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/QnWc3Zk/image.jpg",
+            "https://i.ibb.co/nmnGYbt/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Carrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "1129",
+        "cor númerica": "003",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 875,
+        "precoPromo": 875,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/RBw7cx0/image.jpg",
+            "https://i.ibb.co/RBw7cx0/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Carrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "1132",
+        "cor númerica": "807",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 875,
+        "precoPromo": 875,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/WKmB5W5/image.jpg",
+            "https://i.ibb.co/WKmB5W5/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Carrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "2020T",
+        "cor númerica": "DDB",
+        "cor": "Rosé",
+        "Formato": "Aviador",
+        "preco": 875,
+        "precoPromo": 875,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HKXJvZw/image.jpg",
+            "https://i.ibb.co/n6wQn9S/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Carrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "217/G",
+        "cor númerica": "84J",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 875,
+        "precoPromo": 875,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/mBp2LRt/image.jpg",
+            "https://i.ibb.co/0Z17P2M/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Carrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "225",
+        "cor númerica": "086",
+        "cor": "Tortoise",
+        "Formato": "Quadrado",
+        "preco": 875,
+        "precoPromo": 875,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/CB8w681/image.jpg",
+            "https://i.ibb.co/G5ZTckP/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Carrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "265",
+        "cor númerica": "807",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 875,
+        "precoPromo": 875,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/vYm6Ywh/image.jpg",
+            "https://i.ibb.co/L5H8Gyj/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Carrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "271",
+        "cor númerica": "807",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 875,
+        "precoPromo": 875,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Tkb2rhC/image.jpg",
+            "https://i.ibb.co/gdm69QM/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Carrera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "HYPERFIT21/S",
+        "cor númerica": "003QT",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 995,
+        "precoPromo": 995,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/DQKRp28/image.jpg",
+            "https://i.ibb.co/9NPq6Wx/image.jpg"
+        ]
+    }
+]

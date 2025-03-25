@@ -1,0 +1,607 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P93187U",
+        "cor numérica": "L181",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 412,
+        "precoPromo": 412,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/s2qjktS/image.jpg",
+            "https://i.ibb.co/ykWs2JZ/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Platini",
+                "tipoDeCard": "Com Preço",
+                "modelo": "P93187U",
+                "cor numérica": "L179",
+                "cor": "Azul",
+                "Formato": "Retangular",
+                "preco": 445,
+                "precoPromo": 445,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/4sv92dp/image.jpg",
+                    "https://i.ibb.co/bbX7nQc/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Platini",
+                "tipoDeCard": "Com Preço",
+                "modelo": "P93187U",
+                "cor numérica": "L180",
+                "cor": "Cinza",
+                "Formato": "Retangular",
+                "preco": 372,
+                "precoPromo": 372,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/zFhFbXX/image.jpg",
+                    "https://i.ibb.co/K6m9My7/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91188",
+        "cor numérica": "H639",
+        "cor": "Grafite",
+        "Formato": "Retangular",
+        "preco": 463,
+        "precoPromo": 463,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/6sQV4Wd/image.jpg",
+            "https://i.ibb.co/C2zm0km/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Platini",
+                "tipoDeCard": "Com Preço",
+                "modelo": "P91188",
+                "cor numérica": "H637",
+                "cor": "Preto",
+                "Formato": "Retangular",
+                "preco": 478,
+                "precoPromo": 478,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/KG5PcYM/image.jpg",
+                    "https://i.ibb.co/80jN1wz/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91202",
+        "cor numérica": "I894",
+        "cor": "Rosé",
+        "Formato": "Borboleta",
+        "preco": 413,
+        "precoPromo": 413,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tHwssqx/image.jpg",
+            "https://i.ibb.co/GVXCfD3/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91209",
+        "cor numérica": "K948",
+        "cor": "Off White",
+        "Formato": "Borboleta",
+        "preco": 424,
+        "precoPromo": 424,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/520tcMM/image.jpg",
+            "https://i.ibb.co/jRQ8fmS/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91211B",
+        "cor numérica": "L157",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 505,
+        "precoPromo": 505,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/VCht1w3/image.jpg",
+            "https://i.ibb.co/myyNHJb/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Platini",
+                "tipoDeCard": "Com Preço",
+                "modelo": "P91211B",
+                "cor numérica": "L160",
+                "cor": "Rosé",
+                "Formato": "Borboleta",
+                "preco": 454,
+                "precoPromo": 454,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/rMM07gk/image.jpg",
+                    "https://i.ibb.co/0c4Bp7F/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91212",
+        "cor numérica": "L165",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 445,
+        "precoPromo": 445,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/ph2zFPg/image.jpg",
+            "https://i.ibb.co/Xp3Dmmw/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91213",
+        "cor numérica": "L176",
+        "cor": "Prata",
+        "Formato": "Quadrado",
+        "preco": 445,
+        "precoPromo": 445,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/fq9gPpX/image.jpg",
+            "https://i.ibb.co/0BMdk5H/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91214",
+        "cor numérica": "L175",
+        "cor": "Azul",
+        "Formato": "Quadrado",
+        "preco": 480,
+        "precoPromo": 480,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/xD8Q0Tr/image.jpg",
+            "https://i.ibb.co/54zzQSW/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91215B",
+        "cor numérica": "L823",
+        "cor": "Dourado",
+        "Formato": "Quadrado",
+        "preco": 472,
+        "precoPromo": 472,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/f2cSZtj/image.jpg",
+            "https://i.ibb.co/4pxjYGL/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Platini",
+                "tipoDeCard": "Com Preço",
+                "modelo": "P91215B",
+                "cor numérica": "L825",
+                "cor": "Marrom",
+                "Formato": "Quadrado",
+                "preco": 472,
+                "precoPromo": 472,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/9wKYwwX/image.jpg",
+                    "https://i.ibb.co/PZGjcMV/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P93177",
+        "cor numérica": "I830",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 372,
+        "precoPromo": 372,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/GkZ4RCt/image.jpg",
+            "https://i.ibb.co/zS6rrFK/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P93185BU",
+        "cor numérica": "L163",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 505,
+        "precoPromo": 505,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/SsvvyF7/image.jpg",
+            "https://i.ibb.co/G36pkSj/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91220",
+        "cor numérica": "M167",
+        "cor": "Prata",
+        "Formato": "Gatinho",
+        "preco": 463,
+        "precoPromo": 463,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/BcfyZ1j/image.jpg",
+            "https://i.ibb.co/CbqXxK3/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P93192U",
+        "cor numérica": "M165",
+        "cor": "Transparente",
+        "Formato": "Gatinho",
+        "preco": 532,
+        "precoPromo": 532,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/MDbmHBX/image.jpg",
+            "https://i.ibb.co/9r1S63R/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P93193U",
+        "cor numérica": "M176",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 445,
+        "precoPromo": 445,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/V9Lqrdy/image.jpg",
+            "https://i.ibb.co/9pm7PQf/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91216",
+        "cor numérica": "L845",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 463,
+        "precoPromo": 463,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/9nMLqZ3/image.jpg",
+            "https://i.ibb.co/FY847j3/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91218",
+        "cor numérica": "L836",
+        "cor": "Prata",
+        "Formato": "Borboleta",
+        "preco": 402,
+        "precoPromo": 402,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/hZ9fwGh/image.jpg",
+            "https://i.ibb.co/cvwD1yZ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91177",
+        "cor numérica": "F975",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 431,
+        "precoPromo": 431,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/rd01yWm/image.jpg",
+            "https://i.ibb.co/p4pKq11/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91181",
+        "cor numérica": "G553",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 432,
+        "precoPromo": 432,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Gtd1bth/image.jpg",
+            "https://i.ibb.co/ckhtTrF/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91184",
+        "cor numérica": "G770",
+        "cor": "Prata",
+        "Formato": "Retangular",
+        "preco": 329,
+        "precoPromo": 329,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/phpccJk/image.jpg",
+            "https://i.ibb.co/sCJHT8z/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91186",
+        "cor numérica": "H405",
+        "cor": "Nude",
+        "Formato": "Gatinho",
+        "preco": 432,
+        "precoPromo": 432,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/rwssw5b/image.jpg",
+            "https://i.ibb.co/wyb46xn/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91187",
+        "cor numérica": "H410",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 400,
+        "precoPromo": 400,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/LJfdC9K/image.jpg",
+            "https://i.ibb.co/R0DZP0R/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91190",
+        "cor numérica": "J968",
+        "cor": "Grafite",
+        "Formato": "Retangular",
+        "preco": 399,
+        "precoPromo": 399,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/d0MkDfk/image.jpg",
+            "https://i.ibb.co/sPtckG6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91194",
+        "cor numérica": "I615",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 432,
+        "precoPromo": 432,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/j5pJgmY/image.jpg",
+            "https://i.ibb.co/LnTsg29/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91201",
+        "cor numérica": "I888",
+        "cor": "Dourado",
+        "Formato": "Gatinho",
+        "preco": 485,
+        "precoPromo": 485,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/X2NxmH5/image.jpg",
+            "https://i.ibb.co/2W6TCcn/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Platini",
+                "tipoDeCard": "Com Preço",
+                "modelo": "P91201",
+                "cor numérica": "I890",
+                "cor": "Rosé",
+                "Formato": "Gatinho",
+                "preco": 479,
+                "precoPromo": 479,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/tmZWq1H/image.jpg",
+                    "https://i.ibb.co/nLxMXZL/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P91208B",
+        "cor numérica": "K492",
+        "cor": "Bronze",
+        "Formato": "Borboleta",
+        "preco": 454,
+        "precoPromo": 454,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/nQwDQxV/image.jpg",
+            "https://i.ibb.co/THmtD90/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P93152",
+        "cor numérica": "G544",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 372,
+        "precoPromo": 372,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/B4WmLtM/image.jpg",
+            "https://i.ibb.co/jD6kR99/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P93157",
+        "cor numérica": "H011",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 279,
+        "precoPromo": 279,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/K9F86Yc/image.jpg",
+            "https://i.ibb.co/mbxCt31/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P93163",
+        "cor numérica": "H419",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 399,
+        "precoPromo": 399,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/dt14XtW/image.jpg",
+            "https://i.ibb.co/Wst4kbY/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Platini",
+        "tipoDeCard": "Com Preço",
+        "modelo": "P93180BU",
+        "cor numérica": "J979",
+        "cor": "Transparente",
+        "Formato": "Gatinho",
+        "preco": 417,
+        "precoPromo": 417,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Y7SZ4yN/image.jpg",
+            "https://i.ibb.co/BCd19TK/image.jpg"
+        ]
+    }
+]

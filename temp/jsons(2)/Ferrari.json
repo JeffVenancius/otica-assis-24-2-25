@@ -1,0 +1,333 @@
+[
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ferrari",
+        "tipoDeCard": "Com Preço",
+        "modelo": "FZ6002U",
+        "cor númerica": "504/81",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 1077,
+        "precoPromo": 1077,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/h8Z0KdY/image.jpg",
+            "https://i.ibb.co/fFPG9b6/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ferrari",
+                "tipoDeCard": "Com Preço",
+                "modelo": "FZ6002U",
+                "cor númerica": "501/6Q",
+                "cor": "Preto",
+                "Formato": "Esportivo",
+                "preco": 833,
+                "precoPromo": 833,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/yWHVp5Z/image.jpg",
+                    "https://i.ibb.co/ySm9vc3/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ferrari",
+        "tipoDeCard": "Com Preço",
+        "modelo": "FZ6005U",
+        "cor númerica": "501/87",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 1146,
+        "precoPromo": 1146,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tBG6gwq/image.jpg",
+            "https://i.ibb.co/bgf2D8N/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ferrari",
+        "tipoDeCard": "Com Preço",
+        "modelo": "FZ6007U",
+        "cor númerica": "504/6G",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 996,
+        "precoPromo": 996,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/wCx0w5d/image.jpg",
+            "https://i.ibb.co/gwH44v6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ferrari",
+        "tipoDeCard": "Com Preço",
+        "modelo": "FZ8002U",
+        "cor númerica": "513",
+        "cor": "Transparente",
+        "Formato": "Quadrado",
+        "preco": 680,
+        "precoPromo": 680,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/MR4Rk2F/image.jpg",
+            "https://i.ibb.co/5KbGsFm/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ferrari",
+        "tipoDeCard": "Com Preço",
+        "modelo": "FZ5001",
+        "cor númerica": "109/6Q",
+        "cor": "Prata",
+        "Formato": "Esportivo",
+        "preco": 1254,
+        "precoPromo": 1254,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/FnXnttG/image.jpg",
+            "https://i.ibb.co/yQTF12v/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ferrari",
+        "tipoDeCard": "Com Preço",
+        "modelo": "FZ6001",
+        "cor númerica": "505/6G",
+        "cor": "Branco",
+        "Formato": "Esportivo",
+        "preco": 1108,
+        "precoPromo": 1108,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0Zzn5XV/image.jpg",
+            "https://i.ibb.co/V3rZ3w4/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ferrari",
+        "tipoDeCard": "Com Preço",
+        "modelo": "FZ6003U",
+        "cor númerica": "501/87",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 753,
+        "precoPromo": 753,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pLFYM8B/image.jpg",
+            "https://i.ibb.co/3cpmv4w/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ferrari",
+                "tipoDeCard": "Com Preço",
+                "modelo": "FZ6003U",
+                "cor númerica": "505/25",
+                "cor": "Cinza",
+                "Formato": "Esportivo",
+                "preco": 833,
+                "precoPromo": 833,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/kQ812Ng/image.jpg",
+                    "https://i.ibb.co/bbM4bFK/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ferrari",
+        "tipoDeCard": "Com Preço",
+        "modelo": "FZ6004U",
+        "cor númerica": "501/6Q",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 1035,
+        "precoPromo": 1035,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/nPK2wC0/image.jpg",
+            "https://i.ibb.co/tB6HCD7/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ferrari",
+        "tipoDeCard": "Com Preço",
+        "modelo": "FZ6006",
+        "cor númerica": "506/6P",
+        "cor": "Azul",
+        "Formato": "Esportivo",
+        "preco": 996,
+        "precoPromo": 996,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/qkTwWWn/image.jpg",
+            "https://i.ibb.co/y4DmRbz/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ferrari",
+        "tipoDeCard": "Com Preço",
+        "modelo": "FZ7001",
+        "cor númerica": "108",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 1046,
+        "precoPromo": 1046,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/y8mDzLL/image.jpg",
+            "https://i.ibb.co/qrkGk00/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ferrari",
+        "tipoDeCard": "Com Preço",
+        "modelo": "FZ7002",
+        "cor númerica": "111",
+        "cor": "Prata",
+        "Formato": "Esportivo",
+        "preco": 1046,
+        "precoPromo": 1046,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/r29MgK0/image.jpg",
+            "https://i.ibb.co/xgntWMH/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Ferrari",
+                "tipoDeCard": "Com Preço",
+                "modelo": "FZ7002",
+                "cor númerica": "112",
+                "cor": "Preto",
+                "Formato": "Esportivo",
+                "preco": 1046,
+                "precoPromo": 1046,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/b3KWSWj/image.jpg",
+                    "https://i.ibb.co/SV5MYHL/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ferrari",
+        "tipoDeCard": "Com Preço",
+        "modelo": "FZ8001U",
+        "cor númerica": "509",
+        "cor": "Azul",
+        "Formato": "Quadrado",
+        "preco": 851,
+        "precoPromo": 851,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/r3zzXGz/image.jpg",
+            "https://i.ibb.co/fQJtykV/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ferrari",
+        "tipoDeCard": "Com Preço",
+        "modelo": "FZ8003U",
+        "cor númerica": "505",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 708,
+        "precoPromo": 708,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/615bG1Y/image.jpg",
+            "https://i.ibb.co/vZTscbm/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Ferrari",
+                "tipoDeCard": "Com Preço",
+                "modelo": "FZ8003U",
+                "cor númerica": "508",
+                "cor": "Vermelho",
+                "Formato": "Quadrado",
+                "preco": 708,
+                "precoPromo": 708,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/DbzF2H7/image.jpg",
+                    "https://i.ibb.co/9tNXKPW/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ferrari",
+        "tipoDeCard": "Com Preço",
+        "modelo": "FZ8004U",
+        "cor númerica": "504",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 708,
+        "precoPromo": 708,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/DGMDfJQ/image.jpg",
+            "https://i.ibb.co/w6qhPPw/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ferrari",
+        "tipoDeCard": "Com Preço",
+        "modelo": "FZ8005U",
+        "cor númerica": "501",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 1190,
+        "precoPromo": 1190,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/4T6kzmG/image.jpg",
+            "https://i.ibb.co/dW1x0YM/image.jpg"
+        ]
+    }
+]

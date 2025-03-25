@@ -1,0 +1,19 @@
+[
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Moschino",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MOS002/S",
+        "cor númerica": "807IR",
+        "cor": "Preto",
+        "Formato": "Irregular",
+        "preco": 1227,
+        "precoPromo": 1227,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/CW7P8VM/image.jpg",
+            "https://i.ibb.co/ThwqFc2/image.jpg"
+        ]
+    }
+]

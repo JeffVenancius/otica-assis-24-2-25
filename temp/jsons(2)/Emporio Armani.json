@@ -1,0 +1,516 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3246",
+        "cor númerica": "5001",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 923,
+        "precoPromo": 923,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gLNgJzBH/image.jpg",
+            "https://i.ibb.co/Z1dnpn12/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3069",
+        "cor númerica": "5063",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 1080,
+        "precoPromo": 1080,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gPLZM6j/image.jpg",
+            "https://i.ibb.co/wgDJxDn/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1138",
+        "cor númerica": "3018",
+        "cor": "Azul",
+        "Formato": "Retangular",
+        "preco": 775,
+        "precoPromo": 775,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/wJ1bHxb/image.jpg",
+            "https://i.ibb.co/KDDVBb1/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1149",
+        "cor númerica": "3001",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 1015,
+        "precoPromo": 1015,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/JQHmZR8/image.jpg",
+            "https://i.ibb.co/HxF7KxB/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1150",
+        "cor númerica": "3268",
+        "cor": "Bordô",
+        "Formato": "Gatinho",
+        "preco": 1186,
+        "precoPromo": 1186,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/SRx0Cbw/image.jpg",
+            "https://i.ibb.co/VV5HYKz/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3223U",
+        "cor númerica": "5026",
+        "cor": "Demi",
+        "Formato": "Gatinho",
+        "preco": 997,
+        "precoPromo": 997,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Lhf3Y7F/image.jpg",
+            "https://i.ibb.co/rGVc1Zs/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3227",
+        "cor númerica": "6053",
+        "cor": "Bordô",
+        "Formato": "Quadrado",
+        "preco": 888,
+        "precoPromo": 888,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/YTF9Df9/image.jpg",
+            "https://i.ibb.co/1Tv7w1w/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3233",
+        "cor númerica": "6103",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 1015,
+        "precoPromo": 1015,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gVpbVqm/image.jpg",
+            "https://i.ibb.co/gTRyLC6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3238U",
+        "cor númerica": "6098",
+        "cor": "Bege",
+        "Formato": "Gatinho",
+        "preco": 944,
+        "precoPromo": 944,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/rmqN6X9/image.jpg",
+            "https://i.ibb.co/c8YYHNR/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3239",
+        "cor númerica": "5017",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 944,
+        "precoPromo": 944,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/4ffQvPS/image.jpg",
+            "https://i.ibb.co/qrjmdDX/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA4212U",
+        "cor númerica": "5001/71",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 1079,
+        "precoPromo": 1079,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/F5STcmQ/image.jpg",
+            "https://i.ibb.co/vHvjqqt/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3192",
+        "cor númerica": "5911",
+        "cor": "Verde",
+        "Formato": "Retangular",
+        "preco": 729,
+        "precoPromo": 729,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/3hN0f3y/image.jpg",
+            "https://i.ibb.co/nj6tfwm/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA4186",
+        "cor númerica": "5362/71",
+        "cor": "Verde",
+        "Formato": "Esportivo",
+        "preco": 1079,
+        "precoPromo": 1079,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Nn3R8Cw/image.jpg",
+            "https://i.ibb.co/MZVKrst/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA4187",
+        "cor númerica": "5029/87",
+        "cor": "Cinza",
+        "Formato": "Irregular",
+        "preco": 1079,
+        "precoPromo": 1079,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pKkk5wY/image.jpg",
+            "https://i.ibb.co/n8svNfX/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA4160",
+        "cor númerica": "5042/1W",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 1150,
+        "precoPromo": 1150,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/FX8dm8x/image.jpg",
+            "https://i.ibb.co/NCtRMPq/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1139",
+        "cor númerica": "3001",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 1029,
+        "precoPromo": 1029,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/DPJDvMN/image.jpg",
+            "https://i.ibb.co/bdCB8BW/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1105",
+        "cor númerica": "3014",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 1026,
+        "precoPromo": 1026,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HPJFYPd/image.jpg",
+            "https://i.ibb.co/JjYXQ24/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1165",
+        "cor númerica": "3001",
+        "cor": "Preto",
+        "Formato": "Aviador",
+        "preco": 1036,
+        "precoPromo": 1036,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/S0JVsy1/image.jpg",
+            "https://i.ibb.co/KwFpfxv/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3248",
+        "cor númerica": "5017",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 1085,
+        "precoPromo": 1085,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/bv05Typ/image.jpg",
+            "https://i.ibb.co/3RQs8f8/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA4029",
+        "cor númerica": "5042/71",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 1026,
+        "precoPromo": 1026,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/k4nv3V0/image.jpg",
+            "https://i.ibb.co/NsSS1F5/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Emporio Armani",
+                "tipoDeCard": "Com Preço",
+                "modelo": "EA4029",
+                "cor númerica": "5063/8G",
+                "cor": "Preto",
+                "Formato": "Esportivo",
+                "preco": 997,
+                "precoPromo": 997,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/pzV5C8X/image.jpg",
+                    "https://i.ibb.co/hFSFRBb/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1059",
+        "cor númerica": "3179",
+        "cor": "Marrom",
+        "Formato": "Redondo",
+        "preco": 962,
+        "precoPromo": 962,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/vPrnLb5/image.jpg",
+            "https://i.ibb.co/pQj5W0Y/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Emporio Armani",
+                "tipoDeCard": "Com Preço",
+                "modelo": "EA1059",
+                "cor númerica": "3001",
+                "cor": "Preto",
+                "Formato": "Quadrado",
+                "preco": 935,
+                "precoPromo": 935,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/88rmcHT/image.jpg",
+                    "https://i.ibb.co/Rhmkwm4/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1027",
+        "cor númerica": "3001",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 940,
+        "precoPromo": 940,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/F4BN3Tz/image.jpg",
+            "https://i.ibb.co/3cLv42H/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1041",
+        "cor númerica": "3094",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 1116,
+        "precoPromo": 1116,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/hFsRfc4/image.jpg",
+            "https://i.ibb.co/jymDfgP/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1052",
+        "cor númerica": "3155",
+        "cor": "Azul",
+        "Formato": "Retangular",
+        "preco": 985,
+        "precoPromo": 985,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Z6DJDM8/image.jpg",
+            "https://i.ibb.co/tXbrZM6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1079",
+        "cor númerica": "3094",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 1108,
+        "precoPromo": 1108,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Pmd1hjj/image.jpg",
+            "https://i.ibb.co/Z8JCc8T/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3147",
+        "cor númerica": "5754",
+        "cor": "Azul",
+        "Formato": "Quadrado",
+        "preco": 1006,
+        "precoPromo": 1006,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/xjTcp1q/image.jpg",
+            "https://i.ibb.co/NVCSVnm/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3177",
+        "cor númerica": "5042",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 923,
+        "precoPromo": 923,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HtFzCzd/image.jpg",
+            "https://i.ibb.co/y8Jz9mr/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3218",
+        "cor númerica": "5879",
+        "cor": "Demi",
+        "Formato": "Quadrado",
+        "preco": 877,
+        "precoPromo": 877,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/6DFj4MC/image.jpg",
+            "https://i.ibb.co/1vkY2K3/image.jpg"
+        ]
+    }
+]

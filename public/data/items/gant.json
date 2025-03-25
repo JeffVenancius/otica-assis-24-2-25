@@ -1,0 +1,225 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Gant",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GA3172",
+        "cor numérica": "032",
+        "cor": "Dourado",
+        "Formato": "Redondo",
+        "preco": 690,
+        "precoPromo": 690,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/vPZtLmB/image.jpg",
+            "https://i.ibb.co/DzbshrK/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Gant",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GA7085",
+        "cor numérica": "01D",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 690,
+        "precoPromo": 690,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/WHRkHxv/image.jpg",
+            "https://i.ibb.co/LpVBkFp/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Gant",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GA7102",
+        "cor numérica": "55N",
+        "cor": "Demi",
+        "Formato": "Quadrado",
+        "preco": 690,
+        "precoPromo": 690,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Z8gf5CL/image.jpg",
+            "https://i.ibb.co/MfT5qc7/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Gant",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GA7078",
+        "cor numérica": "96N",
+        "cor": "Marrom",
+        "Formato": "Quadrado",
+        "preco": 690,
+        "precoPromo": 690,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/5nyqpXh/image.jpg",
+            "https://i.ibb.co/Vw0dJPY/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Gant",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GA7095",
+        "cor numérica": "20C",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 690,
+        "precoPromo": 690,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/fXZZZzK/image.jpg",
+            "https://i.ibb.co/Q8WTpHD/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Gant",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GA7099",
+        "cor numérica": "09V",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 690,
+        "precoPromo": 690,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/XkN2y85/image.jpg",
+            "https://i.ibb.co/9pcF7Ch/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Gant",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GA7101",
+        "cor numérica": "55N",
+        "cor": "Demi",
+        "Formato": "Quadrado",
+        "preco": 690,
+        "precoPromo": 690,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0QFZLpS/image.jpg",
+            "https://i.ibb.co/sg0vj5z/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Gant",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GA7094",
+        "cor numérica": "20C",
+        "cor": "Grafite",
+        "Formato": "Retangular",
+        "preco": 690,
+        "precoPromo": 690,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/M1FMTmy/image.jpg",
+            "https://i.ibb.co/xzSVgHZ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Gant",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GA7064",
+        "cor numérica": "08D",
+        "cor": "Grafite",
+        "Formato": "Retangular",
+        "preco": 690,
+        "precoPromo": 690,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gz5vK3N/image.jpg",
+            "https://i.ibb.co/bzCdKLy/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Gant",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GA7064",
+                "cor numérica": "08C",
+                "cor": "Grafite",
+                "Formato": "Esportivo",
+                "preco": 690,
+                "precoPromo": 690,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/KsGvSNm/image.jpg",
+                    "https://i.ibb.co/bdTpkDg/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Gant",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GA7103",
+        "cor numérica": "32V",
+        "cor": "Dourado",
+        "Formato": "Redondo",
+        "preco": 690,
+        "precoPromo": 690,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/DYFZWfS/image.jpg",
+            "https://i.ibb.co/NnKryVq/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Gant",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GA4086",
+        "cor numérica": "002",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 690,
+        "precoPromo": 690,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2Kc45Vw/image.jpg",
+            "https://i.ibb.co/0MG7FFj/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Gant",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GA7109",
+        "cor numérica": "28Z",
+        "cor": "Rosé",
+        "Formato": "Redondo",
+        "preco": 757,
+        "precoPromo": 757,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Hz5LZ8z/image.jpg",
+            "https://i.ibb.co/qMN6p9s/image.jpg"
+        ]
+    }
+]

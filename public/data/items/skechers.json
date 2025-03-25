@@ -1,0 +1,19 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Skechers",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SE3231",
+        "cor numérica": "1",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 490,
+        "precoPromo": 490,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/9VRHmDm/image.jpg",
+            "https://i.ibb.co/zHyXbb6/image.jpg"
+        ]
+    }
+]

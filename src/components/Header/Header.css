@@ -2,12 +2,16 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 0 2%;
+	padding: 0 5%;
 	height: 128px;
 	background-color: #2c2d3b;
 }
 
 .header__nav--menu--mobile, .mobile__hamburger {
+	display: none;
+}
+
+.hambuger__inside {
 	display: none;
 }
 
@@ -34,7 +38,7 @@
 	font-size: 26px;
 	width: 100%;
 	font-weight: 400;
-	padding: 10px 14px;
+	padding: 10px 0;
 }
 
 .header__buttons--first {
@@ -46,46 +50,67 @@
 	color: white;
 }
 
-
-@media (max-width: 1200px) {
-	.header__logo {
-		width: 20vw;
+@media (max-width: 1627px) {
+	.header__buttons {
+		font-size: 1.48vw;
 	}
 }
 
-@media (max-width: 880px) {
+
+@media (max-width: 1315px) {
 	.header__nav {
 		flex-direction: column;
 		padding: 1% 0;
 		margin-bottom: 0;
 	}
 	.header__logo {
-		width: 80%;
+		width: 100%;
+	}
+	.header__buttons {
+		font-size: calc(8px + 1.4vw);
 	}
 }
 
-@media (max-width: 700px) {
+@media (max-width: 1200px) {
+	.header__logo {
+		width: 20vw;
+	}
+}
+@media (max-width: 880px) {
 	.header__nav {
 		flex-direction: row;
 		justify-content: center;
-		align-items: start;
-		height: 100%;
+		align-items: center;
+		height: 10vw;
 	}
 	.header__logo {
-		width: 100%;
+		width: 50vw;
 	}
 	.header__nav--menu {
 		display: none;
 	}
 	.mobile__hamburger, .mobile__on > .mobile__background > .mobile__hamburger {
 		display: unset;
-		width: 48px;
+		/* width: 48px; */
+		width: 10vw;
 		position: absolute;
-		top: 1%;
+		top: 1vw;
 		left: 2%;
 		background-color: transparent;
 		border: none;
+		transition: rotate 0.3s;
 	}
+	.hambuger__close {
+		z-index: 1011;
+		rotate: 90deg;
+		position: unset;
+		margin-top: -10%;
+		margin-left: 2%;
+	}
+
+.mobile__on > .mobile__background .hambuger__close {
+	width: 12vw;
+}
 
 	.mobile__hamburger img {
 		width: 100%;
@@ -105,25 +130,36 @@
 	}
 	.mobile__on > .mobile__background > div {
 		height: 100%;;
-		width: 50%;
+		width: 100%;
 		margin:0;
 		background-color: #2c2d3b;
 		display: flex;
 		flex-direction: column;
-		row-gap: 2vw;
-		padding-top: 15%
-	}
-	.inside__header--mobile .header__options {
-		flex-basis: 0;
+		padding-top: 8vh;
+		overflow-y: scroll;
+		box-sizing: border-box;
 	}
 
 	.mobile__on > .mobile__background button {
-		font-size: 4.5vw;
-		width: 100%;
+		font-size: 6vw;
+		width: 95%;
 		text-align: left;
 	}
+
+	.hambuger__outside {
+		display: none;
+	}
 	
+
 	.header__nav > img {
 		width: 70vw;
 	}
+}
+
+@media (max-width: 540px) {
+.mobile__on > .mobile__background .hambuger__close {
+	width: 15vw;
+	margin-top: -64px;
+	margin-left: 2%;
+}
 }

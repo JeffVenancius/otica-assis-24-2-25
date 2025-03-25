@@ -1,0 +1,87 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Grazi Massafera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GZ3077",
+        "cor numérica": "H609",
+        "cor": "Nude",
+        "Formato": "Gatinho",
+        "preco": 497,
+        "precoPromo": 497,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/z5pdgk3/image.jpg",
+            "https://i.ibb.co/xfDJMBY/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Grazi Massafera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GZ3081",
+        "cor numérica": "H939",
+        "cor": "Nude",
+        "Formato": "Gatinho",
+        "preco": 377,
+        "precoPromo": 377,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/x80fL8Q/image.jpg",
+            "https://i.ibb.co/HXGrts3/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Grazi Massafera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GZ3084",
+        "cor numérica": "H915",
+        "cor": "Cinza",
+        "Formato": "Borboleta",
+        "preco": 497,
+        "precoPromo": 497,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/YbRVpf2/image.jpg",
+            "https://i.ibb.co/P4BfQ1q/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Grazi Massafera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GZ4041",
+        "cor numérica": "H627",
+        "cor": "Transparente",
+        "Formato": "Borboleta",
+        "preco": 497,
+        "precoPromo": 497,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tbjYSJw/image.jpg",
+            "https://i.ibb.co/jTmCds6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Grazi Massafera",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GZ4044",
+        "cor numérica": "H929",
+        "cor": "Demi",
+        "Formato": "Borboleta",
+        "preco": 583,
+        "precoPromo": 583,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/fM3Gsdf/image.jpg",
+            "https://i.ibb.co/nmc83tY/image.jpg"
+        ]
+    }
+]

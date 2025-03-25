@@ -1,0 +1,465 @@
+[
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD2112/S",
+        "cor númerica": "R80UC",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 417,
+        "precoPromo": 417,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Xyg6FZR/image.jpg",
+            "https://i.ibb.co/dt4yfVS/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD2122/S",
+        "cor númerica": "DCD5X",
+        "cor": "Azul",
+        "Formato": "Esportivo",
+        "preco": 363,
+        "precoPromo": 363,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/RBdLDR7/image.jpg",
+            "https://i.ibb.co/9v1cXFJ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD4098/S",
+        "cor númerica": "B3VJR",
+        "cor": "Bordô",
+        "Formato": "Borboleta",
+        "preco": 499,
+        "precoPromo": 499,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0rzwS6c/image.jpg",
+            "https://i.ibb.co/FhYkWc0/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD2060/S",
+        "cor númerica": "003M9",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 389,
+        "precoPromo": 389,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jvW8Xft/image.jpg",
+            "https://i.ibb.co/tCLtNdB/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD6130/S",
+        "cor númerica": "08AM9",
+        "cor": "Preto",
+        "Formato": "Oval",
+        "preco": 395,
+        "precoPromo": 395,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/SXQW7DR/image.jpg",
+            "https://i.ibb.co/z5p8cYT/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Polaroid",
+                "tipoDeCard": "Com Preço",
+                "modelo": "PLD6130/S",
+                "cor númerica": "J5GUC",
+                "cor": "Dourado",
+                "Formato": "Oval",
+                "preco": 408,
+                "precoPromo": 408,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/Vt0p5SD/image.jpg",
+                    "https://i.ibb.co/JkFWZHx/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD2089/S/X",
+        "cor númerica": "01QLA",
+        "cor": "Dourado",
+        "Formato": "Aviador",
+        "preco": 389,
+        "precoPromo": 389,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/LCW66Cz/image.jpg",
+            "https://i.ibb.co/rZP5f4V/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD2105/G/S",
+        "cor númerica": "003MU",
+        "cor": "Preto",
+        "Formato": "Aviador",
+        "preco": 389,
+        "precoPromo": 389,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/KN1Mn47/image.jpg",
+            "https://i.ibb.co/xfCXL3g/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD4105/G/S",
+        "cor númerica": "EYRM9",
+        "cor": "Dourado",
+        "Formato": "Redondo",
+        "preco": 395,
+        "precoPromo": 395,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gb2jS0h/image.jpg",
+            "https://i.ibb.co/mt9dV4S/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Polaroid",
+                "tipoDeCard": "Com Preço",
+                "modelo": "PLD4105/G/S",
+                "cor númerica": "J5GWJ",
+                "cor": "Dourado",
+                "Formato": "Redondo",
+                "preco": 499,
+                "precoPromo": 499,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/vq5h73w/image.jpg",
+                    "https://i.ibb.co/XD8HpQq/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD2067/S/X",
+        "cor númerica": "3YG5Z",
+        "cor": "Champagne",
+        "Formato": "Aviador",
+        "preco": 389,
+        "precoPromo": 389,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/PCywXr0/image.jpg",
+            "https://i.ibb.co/tMt5tNR/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD2070/S/X",
+        "cor númerica": "PJPLM",
+        "cor": "Azul",
+        "Formato": "Aviador",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/s9Wdjpn/image.jpg",
+            "https://i.ibb.co/pfS1W7t/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD2107/S/X",
+        "cor númerica": "AOZM9",
+        "cor": "Champagne",
+        "Formato": "Redondo",
+        "preco": 389,
+        "precoPromo": 389,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/t4fWq5P/image.jpg",
+            "https://i.ibb.co/dD53qYB/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD6023/S",
+        "cor númerica": "TJCZ7",
+        "cor": "Azul",
+        "Formato": "Redondo",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/JK9Bkwj/image.jpg",
+            "https://i.ibb.co/5Tmdrkh/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD6049/S/X",
+        "cor númerica": "3YGC3",
+        "cor": "Prata",
+        "Formato": "Aviador",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/zHmZ4N3/image.jpg",
+            "https://i.ibb.co/gM87xGj/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD6116/G/S",
+        "cor númerica": "RHLLB",
+        "cor": "Dourado",
+        "Formato": "Aviador",
+        "preco": 389,
+        "precoPromo": 389,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/mFt3ckd/image.jpg",
+            "https://i.ibb.co/X7kXK6Z/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD6131/S",
+        "cor númerica": "R80M9",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 408,
+        "precoPromo": 408,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jGbBSQ2/image.jpg",
+            "https://i.ibb.co/d6wpfT9/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD7029/S",
+        "cor númerica": "PGCLM",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 443,
+        "precoPromo": 443,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Gvqr1zW/image.jpg",
+            "https://i.ibb.co/TY9CnDd/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD7034/G/S",
+        "cor númerica": "08ALM",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 457,
+        "precoPromo": 457,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/qMDjMpQ/image.jpg",
+            "https://i.ibb.co/GHnjffg/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLDD202",
+        "cor númerica": "FJI",
+        "cor": "Azul",
+        "Formato": "Retangular",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/wgkQFZd/image.jpg",
+            "https://i.ibb.co/QpsjhBk/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLDD338",
+        "cor númerica": "35J",
+        "cor": "Rosa",
+        "Formato": "Quadrado",
+        "preco": 432,
+        "precoPromo": 432,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HFMBvbL/image.jpg",
+            "https://i.ibb.co/w0M2vcM/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLDD356/G",
+        "cor númerica": "PJP",
+        "cor": "Azul",
+        "Formato": "Quadrado",
+        "preco": 362,
+        "precoPromo": 362,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/cgrMM0V/image.jpg",
+            "https://i.ibb.co/VWvThV5/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLDD422",
+        "cor númerica": "35J",
+        "cor": "Roxo",
+        "Formato": "Redondo",
+        "preco": 487,
+        "precoPromo": 487,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/qy1kQ85/image.jpg",
+            "https://i.ibb.co/ZL6Vn1T/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLDD446",
+        "cor númerica": "WS6",
+        "cor": "Cinza",
+        "Formato": "Gatinho",
+        "preco": 487,
+        "precoPromo": 487,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/JnW3w50/image.jpg",
+            "https://i.ibb.co/GHbt71W/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD4083/F/S",
+        "cor númerica": "807M9",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 389,
+        "precoPromo": 389,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/fNSC2sZ/image.jpg",
+            "https://i.ibb.co/4mLR51P/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD6053/F/S",
+        "cor númerica": "40G0F",
+        "cor": "Amarelo",
+        "Formato": "Quadrado",
+        "preco": 389,
+        "precoPromo": 389,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/C2fhhM1/image.jpg",
+            "https://i.ibb.co/YkR701P/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Polaroid",
+        "tipoDeCard": "Com Preço",
+        "modelo": "PLD6122/S",
+        "cor númerica": "SMFUC",
+        "cor": "Prata",
+        "Formato": "Irregular",
+        "preco": 339,
+        "precoPromo": 339,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/r2jJKzp/image.jpg",
+            "https://i.ibb.co/Dw8DzcV/image.jpg"
+        ]
+    }
+]

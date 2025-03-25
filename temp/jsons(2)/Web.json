@@ -1,0 +1,121 @@
+[
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Web",
+        "tipoDeCard": "Com Preço",
+        "modelo": "WE0123",
+        "cor númerica": "87A",
+        "cor": "Azul",
+        "Formato": "Redondo",
+        "preco": 850,
+        "precoPromo": 850,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/wgXjsFy/image.jpg",
+            "https://i.ibb.co/4WLWDBL/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Web",
+        "tipoDeCard": "Com Preço",
+        "modelo": "WE0129",
+        "cor númerica": "52G",
+        "cor": "Demi",
+        "Formato": "Redondo",
+        "preco": 850,
+        "precoPromo": 850,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/bNt7P0P/image.jpg",
+            "https://i.ibb.co/NYBLWx6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Web",
+        "tipoDeCard": "Com Preço",
+        "modelo": "WE0182",
+        "cor númerica": "18C",
+        "cor": "Prata",
+        "Formato": "Redondo",
+        "preco": 850,
+        "precoPromo": 850,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/w4gBQw2/image.jpg",
+            "https://i.ibb.co/TY0rw9n/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Web",
+        "tipoDeCard": "Com Preço",
+        "modelo": "WE0188",
+        "cor númerica": "14C",
+        "cor": "Prata",
+        "Formato": "Redondo",
+        "preco": 850,
+        "precoPromo": 850,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/BtbSsTb/image.jpg",
+            "https://i.ibb.co/3Fhjq5D/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Web",
+        "tipoDeCard": "Com Preço",
+        "modelo": "WE0189",
+        "cor númerica": "09C",
+        "cor": "Marrom",
+        "Formato": "Redondo",
+        "preco": 850,
+        "precoPromo": 850,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/wgyspWx/image.jpg",
+            "https://i.ibb.co/gWp8LXC/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Web",
+        "tipoDeCard": "Com Preço",
+        "modelo": "WE0191",
+        "cor númerica": "52V",
+        "cor": "Demi",
+        "Formato": "Redondo",
+        "preco": 850,
+        "precoPromo": 850,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/mv1Q4jg/image.jpg",
+            "https://i.ibb.co/XxYncKF/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Web",
+        "tipoDeCard": "Com Preço",
+        "modelo": "WE0193",
+        "cor númerica": "08C",
+        "cor": "Prata",
+        "Formato": "Redondo",
+        "preco": 690,
+        "precoPromo": 690,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/zHH11MK/image.jpg",
+            "https://i.ibb.co/nrqMrkZ/image.jpg"
+        ]
+    }
+]

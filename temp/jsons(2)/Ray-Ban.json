@@ -1,0 +1,2912 @@
+[
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3625",
+        "cor númerica": "9196/31",
+        "cor": "Dourado",
+        "Formato": "Aviador",
+        "preco": 881,
+        "precoPromo": 881,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/9HnftBYY/image.jpg",
+            "https://i.ibb.co/s9JK2tj8/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB2197",
+        "cor númerica": "902/33",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 1011,
+        "precoPromo": 1011,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jv1ndFVS/image.jpg",
+            "https://i.ibb.co/0j0C1CKW/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3647-NL",
+        "cor númerica": "001",
+        "cor": "Dourado",
+        "Formato": "Redondo",
+        "preco": 1115,
+        "precoPromo": 1115,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/BKNg20Pb/image.jpg",
+            "https://i.ibb.co/XxbxfnvT/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3647-NL",
+                "cor númerica": "923632",
+                "cor": "Dourado",
+                "Formato": "Redondo",
+                "preco": 1190,
+                "precoPromo": 1190,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/9nLyQLw/image.jpg",
+                    "https://i.ibb.co/nCxXchv/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3647-NL",
+                "cor númerica": "002/R5",
+                "cor": "Preto",
+                "Formato": "Redondo",
+                "preco": 1029,
+                "precoPromo": 1029,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/yqg2HYt/image.jpg",
+                    "https://i.ibb.co/stG7m4M/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3647-NL",
+                "cor númerica": "923871",
+                "cor": "Dourado",
+                "Formato": "Redondo",
+                "preco": 1185,
+                "precoPromo": 1185,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/wdYXRmZ/image.jpg",
+                    "https://i.ibb.co/zhVPt2N/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB0840-S",
+        "cor númerica": "901/58",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 1235,
+        "precoPromo": 1235,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Jy5Wz5N/image.jpg",
+            "https://i.ibb.co/1Gd0qf1/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB0840-S",
+                "cor númerica": "6637/2K",
+                "cor": "Rosa ",
+                "Formato": "Quadrado",
+                "preco": 1071,
+                "precoPromo": 1071,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/P9xvYrC/image.jpg",
+                    "https://i.ibb.co/j80Fdfm/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB0840-S",
+                "cor númerica": "901/31",
+                "cor": "Preto",
+                "Formato": "Quadrado",
+                "preco": 1065,
+                "precoPromo": 1065,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/C6D9ZsD/image.jpg",
+                    "https://i.ibb.co/DpvW4Tg/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB8422",
+        "cor númerica": "2861",
+        "cor": "Prata",
+        "Formato": "Redondo",
+        "preco": 1323,
+        "precoPromo": 1323,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tBb1qrX/RB8422-2861-1.jpg",
+            "https://i.ibb.co/KXChr7p/RB8422-2861-2.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB0298V",
+        "cor númerica": "8324",
+        "cor": "Azul ",
+        "Formato": "Quadrado",
+        "preco": 893,
+        "precoPromo": 893,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Sw5cZRx/image.jpg",
+            "https://i.ibb.co/Th25xFt/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB0947S",
+        "cor númerica": "902/R5",
+        "cor": "Tortoise",
+        "Formato": "Quadrado",
+        "preco": 890,
+        "precoPromo": 890,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/dK35d4k/image.jpg",
+            "https://i.ibb.co/qrprXRh/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB2242",
+        "cor númerica": "1332/3F",
+        "cor": "Tortoise",
+        "Formato": "Oval",
+        "preco": 1026,
+        "precoPromo": 1026,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jLQFF1J/image.jpg",
+            "https://i.ibb.co/wyPhdBH/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3025",
+        "cor númerica": "003/3F",
+        "cor": "Prata",
+        "Formato": "Aviador",
+        "preco": 1026,
+        "precoPromo": 1026,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/wBqFBF7/image.jpg",
+            "https://i.ibb.co/m6dpNKQ/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3025",
+                "cor númerica": "004/78",
+                "cor": "Grafite",
+                "Formato": "Aviador",
+                "preco": 1328,
+                "precoPromo": 1328,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/dDVTgfy/image.jpg",
+                    "https://i.ibb.co/ZBL3tQr/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3025",
+                "cor númerica": "9271/GK",
+                "cor": "Preto",
+                "Formato": "Aviador",
+                "preco": 1410,
+                "precoPromo": 1410,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/Y4sg9WB/image.jpg",
+                    "https://i.ibb.co/xfzzXhR/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3025",
+                "cor númerica": "9196/G5",
+                "cor": "Dourado",
+                "Formato": "Aviador",
+                "preco": 900,
+                "precoPromo": 900,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/bHwbGtg/image.jpg",
+                    "https://i.ibb.co/v3bMQR1/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3025",
+                "cor númerica": "W3400",
+                "cor": "Dourado",
+                "Formato": "Aviador",
+                "preco": 840,
+                "precoPromo": 840,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/qdPbGMt/image.jpg",
+                    "https://i.ibb.co/YQRWtCc/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3025",
+                "cor númerica": "001/3M",
+                "cor": "Dourado",
+                "Formato": "Aviador",
+                "preco": 1076,
+                "precoPromo": 1076,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/K52V5mX/image.jpg",
+                    "https://i.ibb.co/GRbG6pL/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3694V",
+        "cor númerica": "2500",
+        "cor": "Dourado",
+        "Formato": "Irregular",
+        "preco": 842,
+        "precoPromo": 842,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2gVYB6V/image.jpg",
+            "https://i.ibb.co/kBG29dP/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3765",
+        "cor númerica": "9196/31",
+        "cor": "Tortoise",
+        "Formato": "Redondo",
+        "preco": 1026,
+        "precoPromo": 1026,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/7Qy7nnB/image.jpg",
+            "https://i.ibb.co/C5W4s01/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3809",
+        "cor númerica": "001/51",
+        "cor": "Dourado",
+        "Formato": "Redondo",
+        "preco": 1076,
+        "precoPromo": 1076,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/6vfQrx6/image.jpg",
+            "https://i.ibb.co/18msS23/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3825",
+        "cor númerica": "001/31",
+        "cor": "Dourado",
+        "Formato": "Aviador",
+        "preco": 957,
+        "precoPromo": 957,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/zQjN7Zg/image.jpg",
+            "https://i.ibb.co/DVD6fYW/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4179",
+        "cor númerica": "601-S/9A",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 1378,
+        "precoPromo": 1378,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/vxmsXwz/image.jpg",
+            "https://i.ibb.co/26hpwnv/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4427",
+        "cor númerica": "6677/87",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 850,
+        "precoPromo": 850,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/qMrdXDS/image.jpg",
+            "https://i.ibb.co/SvYZ7wb/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB5435",
+        "cor númerica": "2000",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 845,
+        "precoPromo": 845,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/TcGskxb/image.jpg",
+            "https://i.ibb.co/3vyTJ82/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB6448L",
+        "cor númerica": "2500",
+        "cor": "Dourado",
+        "Formato": "Redondo",
+        "preco": 739,
+        "precoPromo": 739,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/mCGdrRN/image.jpg",
+            "https://i.ibb.co/8mvkjsh/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB6513",
+        "cor númerica": "3162",
+        "cor": "Bronze",
+        "Formato": "Retangular",
+        "preco": 990,
+        "precoPromo": 990,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Qp3bvH4/image.jpg",
+            "https://i.ibb.co/0KczhCR/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB6525L",
+        "cor númerica": "2595",
+        "cor": "Prata",
+        "Formato": "Retangular",
+        "preco": 607,
+        "precoPromo": 607,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/wMfsMSZ/image.jpg",
+            "https://i.ibb.co/FwjrH4J/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB6526L",
+        "cor númerica": "3180",
+        "cor": "Rosé",
+        "Formato": "Redondo",
+        "preco": 780,
+        "precoPromo": 780,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/ZdV6Mfc/image.jpg",
+            "https://i.ibb.co/s6G7tZ3/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB7206L",
+        "cor númerica": "2000",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 781,
+        "precoPromo": 781,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/LtCj6sX/image.jpg",
+            "https://i.ibb.co/vBWr3S0/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB7207L",
+        "cor númerica": "8190",
+        "cor": "Azul",
+        "Formato": "Quadrado",
+        "preco": 560,
+        "precoPromo": 560,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/x55L1xh/image.jpg",
+            "https://i.ibb.co/FVr8T87/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB7220L",
+        "cor númerica": "8277",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 794,
+        "precoPromo": 794,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0Y3Ws6T/image.jpg",
+            "https://i.ibb.co/WGfr8RS/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB7220L",
+                "cor númerica": "8279",
+                "cor": "Vermelho",
+                "Formato": "Gatinho",
+                "preco": 918,
+                "precoPromo": 918,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/nQD06vd/image.jpg",
+                    "https://i.ibb.co/VBNbxWx/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB7234L",
+        "cor númerica": "8329",
+        "cor": "Marrom",
+        "Formato": "Borboleta",
+        "preco": 887,
+        "precoPromo": 887,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/vdSvpF2/image.jpg",
+            "https://i.ibb.co/0tm5Mzp/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB7239",
+        "cor númerica": "2012",
+        "cor": "Tortoise",
+        "Formato": "Quadrado",
+        "preco": 718,
+        "precoPromo": 718,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Srd4Vz1/image.jpg",
+            "https://i.ibb.co/sbfkTDV/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB7242L",
+        "cor númerica": "8347",
+        "cor": "Bordô",
+        "Formato": "Borboleta",
+        "preco": 781,
+        "precoPromo": 781,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/bb0YTJk/image.jpg",
+            "https://i.ibb.co/CHFf6hz/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB7246L",
+        "cor númerica": "8387",
+        "cor": "Burgundy",
+        "Formato": "Gatinho",
+        "preco": 967,
+        "precoPromo": 967,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/ygKgB9B/image.jpg",
+            "https://i.ibb.co/tY8t3SD/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RBR0101S",
+        "cor númerica": "001/69",
+        "cor": "Dourado",
+        "Formato": "Aviador",
+        "preco": 1140,
+        "precoPromo": 1140,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HqCDPTR/image.jpg",
+            "https://i.ibb.co/sRgmn0C/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RBR0101S",
+                "cor númerica": "002/GS",
+                "cor": "Preto",
+                "Formato": "Aviador",
+                "preco": 1110,
+                "precoPromo": 1110,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/m6gSfN1/image.jpg",
+                    "https://i.ibb.co/mX9Bzvf/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RBR0101S",
+                "cor númerica": "003/GA",
+                "cor": "Prata",
+                "Formato": "Aviador",
+                "preco": 1117,
+                "precoPromo": 1117,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/fx8dxTT/image.jpg",
+                    "https://i.ibb.co/02rLgWp/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RBR0501S",
+        "cor númerica": "6711/GA",
+        "cor": "Marrom ",
+        "Formato": "Quadrado",
+        "preco": 1025,
+        "precoPromo": 1025,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Z1357ny/image.jpg",
+            "https://i.ibb.co/RNZFGLk/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RBR0501S",
+                "cor númerica": "6707/GS",
+                "cor": "Grafite ",
+                "Formato": "Esportivo",
+                "preco": 1054,
+                "precoPromo": 1054,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/JvZjqrC/image.jpg",
+                    "https://i.ibb.co/X830JyR/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RBR0502S",
+        "cor númerica": "6677/72",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 1140,
+        "precoPromo": 1140,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/XskZ01q/image.jpg",
+            "https://i.ibb.co/T2h4tFR/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RBR0502S",
+                "cor númerica": "6677/VR",
+                "cor": "Preto",
+                "Formato": "Quadrado",
+                "preco": 945,
+                "precoPromo": 945,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/stptWGq/image.jpg",
+                    "https://i.ibb.co/TYZM6kb/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RBR0502S",
+                "cor númerica": "6727/VR",
+                "cor": "Pêssego ",
+                "Formato": "Esportivo",
+                "preco": 1140,
+                "precoPromo": 1140,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/gzbf3SQ/image.jpg",
+                    "https://i.ibb.co/qYJkqMs/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RBR0502S",
+                "cor númerica": "6707/GR",
+                "cor": "Preto",
+                "Formato": "Quadrado",
+                "preco": 1180,
+                "precoPromo": 1180,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/JQqDjqK/image.jpg",
+                    "https://i.ibb.co/YP3Hcxz/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB2180",
+        "cor númerica": "710/83",
+        "cor": "Tortoise",
+        "Formato": "Redondo",
+        "preco": 1119,
+        "precoPromo": 1119,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/hs3fQjS/image.jpg",
+            "https://i.ibb.co/Cw6DLQH/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3565",
+        "cor númerica": "003/3F",
+        "cor": "Prata",
+        "Formato": "Redondo",
+        "preco": 1026,
+        "precoPromo": 1026,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/9prKcGk/image.jpg",
+            "https://i.ibb.co/QKPQbvN/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3565",
+                "cor númerica": "002/48",
+                "cor": "Preto",
+                "Formato": "Redondo",
+                "preco": 1274,
+                "precoPromo": 1274,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/CbgQ6Xb/image.jpg",
+                    "https://i.ibb.co/F65pYyZ/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3565",
+                "cor númerica": "001/GD",
+                "cor": "Dourado",
+                "Formato": "Redondo",
+                "preco": 1022,
+                "precoPromo": 1022,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/1rCLpPR/image.jpg",
+                    "https://i.ibb.co/kKc2hFd/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3565",
+                "cor númerica": "9196/31",
+                "cor": "Dourado",
+                "Formato": "Redondo",
+                "preco": 957,
+                "precoPromo": 957,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/RbfxjN2/image.jpg",
+                    "https://i.ibb.co/yNWzpjZ/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3737CH",
+        "cor númerica": "002/5J",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 1447,
+        "precoPromo": 1447,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/hWhqSp7/image.jpg",
+            "https://i.ibb.co/nMSLYPn/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4171",
+        "cor númerica": "6592/T3",
+        "cor": "Cinza ",
+        "Formato": "Redondo",
+        "preco": 1055,
+        "precoPromo": 1055,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/zVF8JyV/image.jpg",
+            "https://i.ibb.co/xqdH9Jx/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB4171",
+                "cor númerica": "6391/75",
+                "cor": "Tortoise",
+                "Formato": "Gatinho",
+                "preco": 752,
+                "precoPromo": 752,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/LpxBhws/image.jpg",
+                    "https://i.ibb.co/2jSFTJ6/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4395",
+        "cor númerica": "6686/8F",
+        "cor": "Laranja ",
+        "Formato": "Retangular",
+        "preco": 881,
+        "precoPromo": 881,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jL7hxxX/image.jpg",
+            "https://i.ibb.co/Lk4ytft/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB4395",
+                "cor númerica": "6677/71",
+                "cor": "Preto",
+                "Formato": "Retangular",
+                "preco": 816,
+                "precoPromo": 816,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/xg2XYzD/image.jpg",
+                    "https://i.ibb.co/Yjsj55P/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB2241",
+        "cor númerica": "1334/51",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 1120,
+        "precoPromo": 1120,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tzmnYtw/image.jpg",
+            "https://i.ibb.co/mTPgkm4/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3025L",
+        "cor númerica": "002/58",
+        "cor": "Preto",
+        "Formato": "Aviador",
+        "preco": 1302,
+        "precoPromo": 1302,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HgBT2PW/image.jpg",
+            "https://i.ibb.co/pKvBVNZ/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3025L",
+                "cor númerica": "001/58",
+                "cor": "Dourado",
+                "Formato": "Aviador",
+                "preco": 1445,
+                "precoPromo": 1445,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/5Bw8mY2/image.jpg",
+                    "https://i.ibb.co/9Y4XZc7/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3025L",
+                "cor númerica": "001/51",
+                "cor": "Dourado",
+                "Formato": "Aviador",
+                "preco": 1174,
+                "precoPromo": 1174,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/W2HdX28/image.jpg",
+                    "https://i.ibb.co/fFG1XF2/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3025L",
+                "cor númerica": "L2823",
+                "cor": "Preto",
+                "Formato": "Aviador",
+                "preco": 1103,
+                "precoPromo": 1103,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/1MstLx9/image.jpg",
+                    "https://i.ibb.co/Fnj8J4h/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3025L",
+                "cor númerica": "L0205",
+                "cor": "Dourado",
+                "Formato": "Aviador",
+                "preco": 890,
+                "precoPromo": 890,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/HhshYHk/image.jpg",
+                    "https://i.ibb.co/tht6CQ5/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3503L",
+        "cor númerica": "006/71",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 800,
+        "precoPromo": 800,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/xFXT2pn/image.jpg",
+            "https://i.ibb.co/jWvFpXW/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB0707-S",
+        "cor númerica": "6640/51",
+        "cor": "Marrom ",
+        "Formato": "Quadrado",
+        "preco": 1091,
+        "precoPromo": 1091,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Hz6WxNy/image.jpg",
+            "https://i.ibb.co/B2mRyxd/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB2230",
+        "cor númerica": "901/31",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 1015,
+        "precoPromo": 1015,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/KrW49mq/image.jpg",
+            "https://i.ibb.co/7Rx23yj/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3016",
+        "cor númerica": "W0365",
+        "cor": "Preto",
+        "Formato": "Clubmaster",
+        "preco": 957,
+        "precoPromo": 957,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/L5xfMNK/image.jpg",
+            "https://i.ibb.co/ZdML97W/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3016",
+                "cor númerica": "1367/B1",
+                "cor": "Cinza",
+                "Formato": "Clubmaster",
+                "preco": 961,
+                "precoPromo": 961,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/CvQCSs1/image.jpg",
+                    "https://i.ibb.co/bPPhvBf/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3016",
+                "cor númerica": "W0366",
+                "cor": "Preto",
+                "Formato": "Clubmaster",
+                "preco": 957,
+                "precoPromo": 957,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/3zXGKN4/image.jpg",
+                    "https://i.ibb.co/9cC1Hfw/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4398",
+        "cor númerica": "1403/51",
+        "cor": "Marrom",
+        "Formato": "Quadrado",
+        "preco": 1134,
+        "precoPromo": 1134,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/1RsGynK/image.jpg",
+            "https://i.ibb.co/HgzX4Hd/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB4398",
+                "cor númerica": "901/31",
+                "cor": "Preto",
+                "Formato": "Quadrado",
+                "preco": 1022,
+                "precoPromo": 1022,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/tqc3bPn/image.jpg",
+                    "https://i.ibb.co/VjHfMmz/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB4398",
+                "cor númerica": "902/31",
+                "cor": "Demi",
+                "Formato": "Quadrado",
+                "preco": 1026,
+                "precoPromo": 1026,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/7CgH9Cp/image.jpg",
+                    "https://i.ibb.co/f86fXNW/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB2140",
+        "cor númerica": "901",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 1011,
+        "precoPromo": 1011,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jw6wZyX/image.jpg",
+            "https://i.ibb.co/qg9wQBm/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB2140",
+                "cor númerica": "902",
+                "cor": "Tortoise",
+                "Formato": "Quadrado",
+                "preco": 1012,
+                "precoPromo": 1012,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/ZXg6wdG/image.jpg",
+                    "https://i.ibb.co/drSrY31/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB0316-S",
+        "cor númerica": "990/31",
+        "cor": "Tortoise",
+        "Formato": "Clubmaster",
+        "preco": 935,
+        "precoPromo": 935,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/FY3jbBs/image.jpg",
+            "https://i.ibb.co/3Yd5snc/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4416",
+        "cor númerica": "601/31",
+        "cor": "Dourado",
+        "Formato": "Clubmaster",
+        "preco": 1011,
+        "precoPromo": 1011,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0YNpK21/image.jpg",
+            "https://i.ibb.co/hMyrV6D/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4373L",
+        "cor númerica": "606981",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 986,
+        "precoPromo": 986,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Jjt0Ddc/image.jpg",
+            "https://i.ibb.co/Sc6vbkM/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB0298S",
+        "cor númerica": "1396/B1",
+        "cor": "Cinza",
+        "Formato": "Clubmaster",
+        "preco": 980,
+        "precoPromo": 980,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/t849CDb/image.jpg",
+            "https://i.ibb.co/44Rj7Yh/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB2186",
+        "cor númerica": "1334/51",
+        "cor": "Tortoise",
+        "Formato": "Quadrado",
+        "preco": 999,
+        "precoPromo": 999,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/C76mg9F/image.jpg",
+            "https://i.ibb.co/RGnCDC9/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB2186",
+                "cor númerica": "901/31",
+                "cor": "Preto",
+                "Formato": "Quadrado",
+                "preco": 1026,
+                "precoPromo": 1026,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/ct4hswj/image.jpg",
+                    "https://i.ibb.co/kg7DHXH/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB2186",
+                "cor númerica": "1294/3M",
+                "cor": "Preto",
+                "Formato": "Gatinho",
+                "preco": 1129,
+                "precoPromo": 1129,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/KyNxm3K/image.jpg",
+                    "https://i.ibb.co/MBdmSBD/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB2186",
+                "cor númerica": "1297/3M",
+                "cor": "Nude",
+                "Formato": "Gatinho",
+                "preco": 1086,
+                "precoPromo": 1086,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/VqB8VJ7/image.jpg",
+                    "https://i.ibb.co/sRFbv5C/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4415L",
+        "cor númerica": "667213",
+        "cor": "Rosa ",
+        "Formato": "Redondo",
+        "preco": 750,
+        "precoPromo": 750,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Bn5BDFY/image.jpg",
+            "https://i.ibb.co/nmjf34b/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB7199",
+        "cor númerica": "5207",
+        "cor": "Azul",
+        "Formato": "Quadrado",
+        "preco": 919,
+        "precoPromo": 919,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Lr1Z1tS/image.jpg",
+            "https://i.ibb.co/6w59KQ6/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB7199",
+                "cor númerica": "8063",
+                "cor": "Marrom",
+                "Formato": "Quadrado",
+                "preco": 839,
+                "precoPromo": 839,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/zXbmfxW/image.jpg",
+                    "https://i.ibb.co/dWSKjDV/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB2193",
+        "cor númerica": "1326/GE",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 950,
+        "precoPromo": 950,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/yn5tPW7/image.jpg",
+            "https://i.ibb.co/sChdgZ6/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB2193",
+                "cor númerica": "902/31",
+                "cor": "Tortoise",
+                "Formato": "Quadrado",
+                "preco": 881,
+                "precoPromo": 881,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/Pc7g1j3/image.jpg",
+                    "https://i.ibb.co/wz32NBH/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB2389",
+        "cor númerica": "901/31",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 1012,
+        "precoPromo": 1012,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/dBxzTj0/image.jpg",
+            "https://i.ibb.co/jWmJ806/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3749",
+        "cor númerica": "002/71",
+        "cor": "Preto",
+        "Formato": "Oval",
+        "preco": 1080,
+        "precoPromo": 1080,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/B2W1pCb/image.jpg",
+            "https://i.ibb.co/KXgTrhV/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3845",
+        "cor númerica": "9196/31",
+        "cor": "Dourado",
+        "Formato": "Irregular",
+        "preco": 1010,
+        "precoPromo": 1010,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/t2Kr02Y/image.jpg",
+            "https://i.ibb.co/6PqKVJd/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4187L",
+        "cor númerica": "622/8G",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 950,
+        "precoPromo": 950,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0nHvWps/image.jpg",
+            "https://i.ibb.co/QMgTczk/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4438L",
+        "cor númerica": "666987",
+        "cor": "Azul",
+        "Formato": "Quadrado",
+        "preco": 986,
+        "precoPromo": 986,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/dgXxb8n/image.jpg",
+            "https://i.ibb.co/Bg5f1h5/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4441D",
+        "cor númerica": "667787",
+        "cor": "Preto",
+        "Formato": "Oval",
+        "preco": 850,
+        "precoPromo": 850,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/c8TYSyx/image.jpg",
+            "https://i.ibb.co/G3nz9WL/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3697-M",
+        "cor númerica": "F009/Y3",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 1520,
+        "precoPromo": 1520,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tLykytB/image.jpg",
+            "https://i.ibb.co/gjQx6Tr/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3697-M",
+                "cor númerica": "F104/8G",
+                "cor": "Prata",
+                "Formato": "Esportivo",
+                "preco": 1520,
+                "precoPromo": 1520,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/xqfPQMF/image.jpg",
+                    "https://i.ibb.co/H4F6F5f/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4446L",
+        "cor númerica": "667771",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 875,
+        "precoPromo": 875,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/MCcfbcb/image.jpg",
+            "https://i.ibb.co/nzY1KYC/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB4446L",
+                "cor númerica": "678487",
+                "cor": "Marrom",
+                "Formato": "Quadrado",
+                "preco": 810,
+                "precoPromo": 810,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/d7z1nG7/image.jpg",
+                    "https://i.ibb.co/ZBStxLy/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB7251L",
+        "cor númerica": "8408",
+        "cor": "Marrom",
+        "Formato": "Quadrado",
+        "preco": 640,
+        "precoPromo": 640,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/18BhjRY/image.jpg",
+            "https://i.ibb.co/714Jtp1/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4437L",
+        "cor númerica": "601/9A",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 930,
+        "precoPromo": 930,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2Pr31Qq/image.jpg",
+            "https://i.ibb.co/RCjkdDn/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3947VL",
+        "cor númerica": "2501",
+        "cor": "Prata",
+        "Formato": "Redondo",
+        "preco": 760,
+        "precoPromo": 760,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/GJgD6xx/image.jpg",
+            "https://i.ibb.co/4dL2k5f/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB8265V",
+        "cor númerica": "1236",
+        "cor": "Bronze",
+        "Formato": "Redondo",
+        "preco": 1490,
+        "precoPromo": 1490,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/5FnNvDn/image.jpg",
+            "https://i.ibb.co/mNnB3PM/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB6375",
+        "cor númerica": "2944",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 947,
+        "precoPromo": 947,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/GQbDttK/image.jpg",
+            "https://i.ibb.co/HNkHDrY/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3648L",
+        "cor númerica": "001",
+        "cor": "Dourado",
+        "Formato": "Aviador",
+        "preco": 1010,
+        "precoPromo": 1010,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sKnRgc0/image.jpg",
+            "https://i.ibb.co/5xQjcRH/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB7140",
+        "cor númerica": "2000",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 816,
+        "precoPromo": 816,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/ws8W842/image.jpg",
+            "https://i.ibb.co/17gDBG9/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3584-N",
+        "cor númerica": "153/11",
+        "cor": "Preto",
+        "Formato": "Aviador",
+        "preco": 1063,
+        "precoPromo": 1063,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/YpysGcz/image.jpg",
+            "https://i.ibb.co/3S9qJyb/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3584-N",
+                "cor númerica": "001/19",
+                "cor": "Dourado",
+                "Formato": "Aviador",
+                "preco": 1140,
+                "precoPromo": 1140,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/fnQwwwr/image.jpg",
+                    "https://i.ibb.co/QJGYGx5/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4165L",
+        "cor númerica": "622/T3",
+        "cor": "Preto",
+        "Formato": "Esportivo",
+        "preco": 1100,
+        "precoPromo": 1100,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/nj8Sz3Z/image.jpg",
+            "https://i.ibb.co/RhF7CWt/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB4165L",
+                "cor númerica": "601/8G",
+                "cor": "Preto",
+                "Formato": "Esportivo",
+                "preco": 1080,
+                "precoPromo": 1080,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/1qNvWpJ/image.jpg",
+                    "https://i.ibb.co/d2cHNQD/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3548-N",
+        "cor númerica": "001/57",
+        "cor": "Dourado",
+        "Formato": "Redondo",
+        "preco": 1180,
+        "precoPromo": 1180,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/XtC6Bqf/image.jpg",
+            "https://i.ibb.co/jyxj46Y/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3548-N",
+                "cor númerica": "002/58",
+                "cor": "Preto",
+                "Formato": "Redondo",
+                "preco": 1180,
+                "precoPromo": 1180,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/NjVHPST/image.jpg",
+                    "https://i.ibb.co/R6GBTVN/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3548-NL",
+        "cor númerica": "1",
+        "cor": "Dourado",
+        "Formato": "Redondo",
+        "preco": 1103,
+        "precoPromo": 1103,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/N3B6XbW/image.jpg",
+            "https://i.ibb.co/b715Y4H/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3548-NL",
+                "cor númerica": "001",
+                "cor": "Dourado",
+                "Formato": "Redondo",
+                "preco": 1103,
+                "precoPromo": 1103,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/2YrFBvQ/image.jpg",
+                    "https://i.ibb.co/ZSJ6mQz/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3548-NL",
+                "cor númerica": "001/30",
+                "cor": "Dourado",
+                "Formato": "Aviador",
+                "preco": 830,
+                "precoPromo": 830,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/2yK5MVy/image.jpg",
+                    "https://i.ibb.co/k8Lr9sX/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3548-NL",
+                "cor númerica": "91233M",
+                "cor": "Dourado",
+                "Formato": "Aviador",
+                "preco": 1119,
+                "precoPromo": 1119,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/ypPgtNg/image.jpg",
+                    "https://i.ibb.co/Chz3nZF/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3548-NL",
+                "cor númerica": "001/58",
+                "cor": "Dourado",
+                "Formato": "Redondo",
+                "preco": 1180,
+                "precoPromo": 1180,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/2ZzK4Rc/image.jpg",
+                    "https://i.ibb.co/q9qxGbm/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3548-NL",
+                "cor númerica": "004/71",
+                "cor": "Prata",
+                "Formato": "Aviador",
+                "preco": 1180,
+                "precoPromo": 1180,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/1rqc7X1/image.jpg",
+                    "https://i.ibb.co/P4qgwzk/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3548-NL",
+                "cor númerica": "912443",
+                "cor": "Dourado",
+                "Formato": "Aviador",
+                "preco": 1180,
+                "precoPromo": 1180,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/ChHCMSk/image.jpg",
+                    "https://i.ibb.co/1mNcZJQ/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB1971",
+        "cor númerica": "9147/31",
+        "cor": "Dourado",
+        "Formato": "Quadrado",
+        "preco": 730,
+        "precoPromo": 730,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Q8Ytt9b/image.jpg",
+            "https://i.ibb.co/cFJcDnt/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB1971",
+                "cor númerica": "9148/31",
+                "cor": "Preto",
+                "Formato": "Quadrado",
+                "preco": 730,
+                "precoPromo": 730,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/R3J4ZPs/image.jpg",
+                    "https://i.ibb.co/qLG4qgR/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB1971",
+                "cor númerica": "9196/31",
+                "cor": "Dourado",
+                "Formato": "Quadrado",
+                "preco": 797,
+                "precoPromo": 797,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/GpTJzJH/image.jpg",
+                    "https://i.ibb.co/X2p5rBM/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3772L",
+        "cor númerica": "001/31",
+        "cor": "Dourado",
+        "Formato": "Redondo",
+        "preco": 946,
+        "precoPromo": 946,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/dBLTMXr/image.jpg",
+            "https://i.ibb.co/sstQDL2/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3958",
+        "cor númerica": "9196/31",
+        "cor": "Dourado",
+        "Formato": "Quadrado",
+        "preco": 730,
+        "precoPromo": 730,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jVtsWW1/image.jpg",
+            "https://i.ibb.co/xXwtbNz/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4171L",
+        "cor númerica": "865/13",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 810,
+        "precoPromo": 810,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/t4hMx9T/image.jpg",
+            "https://i.ibb.co/cwT5SQS/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4292-N",
+        "cor númerica": "601/11",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 1063,
+        "precoPromo": 1063,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pvSpMvx/image.jpg",
+            "https://i.ibb.co/mRSv9kM/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4359L",
+        "cor númerica": "619787",
+        "cor": "Azul",
+        "Formato": "Retangular",
+        "preco": 640,
+        "precoPromo": 640,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0Y48t3h/image.jpg",
+            "https://i.ibb.co/98p1r7g/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4386",
+        "cor númerica": "710/R5",
+        "cor": "Tortoise",
+        "Formato": "Quadrado",
+        "preco": 816,
+        "precoPromo": 816,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0yG8kdg/image.jpg",
+            "https://i.ibb.co/XXHC3bc/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4402L",
+        "cor númerica": "669380",
+        "cor": "Azul",
+        "Formato": "Quadrado",
+        "preco": 690,
+        "precoPromo": 690,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/d7sQfY5/image.jpg",
+            "https://i.ibb.co/zRmYTMt/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4417L",
+        "cor númerica": "673581",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 1078,
+        "precoPromo": 1078,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/1zh8Vxd/image.jpg",
+            "https://i.ibb.co/nPrfq5Z/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB4429",
+        "cor númerica": "601/31",
+        "cor": "Preto",
+        "Formato": "Clubmaster",
+        "preco": 930,
+        "precoPromo": 930,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/D4Zh982/image.jpg",
+            "https://i.ibb.co/8dZ1rXQ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB6441",
+        "cor númerica": "2500",
+        "cor": "Dourado",
+        "Formato": "Aviador",
+        "preco": 589,
+        "precoPromo": 589,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HT7dz5K/image.jpg",
+            "https://i.ibb.co/NK9pXht/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB6448",
+        "cor númerica": "2500",
+        "cor": "Dourado",
+        "Formato": "Redondo",
+        "preco": 739,
+        "precoPromo": 739,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/zR2jhmR/image.jpg",
+            "https://i.ibb.co/QQZKKf2/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB6465L",
+        "cor númerica": "2943",
+        "cor": "Bronze",
+        "Formato": "Redondo",
+        "preco": 560,
+        "precoPromo": 560,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/KzqgZP1/image.jpg",
+            "https://i.ibb.co/0yPH1VW/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB6466",
+        "cor númerica": "3102",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 775,
+        "precoPromo": 775,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/N7cs66p/image.jpg",
+            "https://i.ibb.co/hds0zSJ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB6496L",
+        "cor númerica": "2502",
+        "cor": "Prata",
+        "Formato": "Redondo",
+        "preco": 1099,
+        "precoPromo": 1099,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/3TnNfW3/image.jpg",
+            "https://i.ibb.co/vv1Y31s/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB6536",
+        "cor númerica": "2509",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 740,
+        "precoPromo": 740,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/wwdWFd9/image.jpg",
+            "https://i.ibb.co/GCpVgx1/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB7047L",
+        "cor númerica": "5196",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 741,
+        "precoPromo": 741,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/BVQDrWQ/image.jpg",
+            "https://i.ibb.co/88kGtkd/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB7137L",
+        "cor númerica": "5746",
+        "cor": "Marrom",
+        "Formato": "Gatinho",
+        "preco": 545,
+        "precoPromo": 545,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HqJnFSw/image.jpg",
+            "https://i.ibb.co/qdXKvQP/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB7208",
+        "cor númerica": "5521",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 863,
+        "precoPromo": 863,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/wgDqTs3/image.jpg",
+            "https://i.ibb.co/BynbNxb/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB7219L",
+        "cor númerica": "5196",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 730,
+        "precoPromo": 730,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/vmyCx90/image.jpg",
+            "https://i.ibb.co/jW3hGDz/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB8765",
+        "cor númerica": "1131",
+        "cor": "Marrom",
+        "Formato": "Redondo",
+        "preco": 813,
+        "precoPromo": 813,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/dQ0dznQ/image.jpg",
+            "https://i.ibb.co/Zg39Vjw/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RJ9545S",
+        "cor númerica": "271/71",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 470,
+        "precoPromo": 470,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/r4wpcjz/image.jpg",
+            "https://i.ibb.co/nQTP4jd/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB0840V",
+        "cor númerica": "8296",
+        "cor": "Azul ",
+        "Formato": "Quadrado",
+        "preco": 823,
+        "precoPromo": 823,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0mjZgQX/image.jpg",
+            "https://i.ibb.co/FbN15F3/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB0840V",
+                "cor númerica": "8297",
+                "cor": "Verde ",
+                "Formato": "Quadrado",
+                "preco": 768,
+                "precoPromo": 768,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/NFdKLSk/image.jpg",
+                    "https://i.ibb.co/rHH1wZk/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB2198",
+        "cor númerica": "902/R5",
+        "cor": "Tortoise",
+        "Formato": "Aviador",
+        "preco": 881,
+        "precoPromo": 881,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/QcKkvyJ/image.jpg",
+            "https://i.ibb.co/4jvjpcd/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3637-V",
+        "cor númerica": "2509",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 880,
+        "precoPromo": 880,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/rMZR49R/image.jpg",
+            "https://i.ibb.co/KbbKXTx/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Unissex",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3637-V",
+                "cor númerica": "3094",
+                "cor": "Rosé",
+                "Formato": "Redondo",
+                "preco": 768,
+                "precoPromo": 768,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/dQMPpm9/image.jpg",
+                    "https://i.ibb.co/b1bxj7r/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3522",
+        "cor númerica": "004/9A",
+        "cor": "Grafite",
+        "Formato": "Quadrado",
+        "preco": 1194,
+        "precoPromo": 1194,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/5GQ5gpB/image.jpg",
+            "https://i.ibb.co/qjPhBY9/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB6335",
+        "cor númerica": "2503",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 869,
+        "precoPromo": 869,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/g33MXjk/image.jpg",
+            "https://i.ibb.co/XVVj8B1/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB7106L",
+        "cor númerica": "5999",
+        "cor": "Tortoise",
+        "Formato": "Retangular",
+        "preco": 915,
+        "precoPromo": 915,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/j5GD1Sk/image.jpg",
+            "https://i.ibb.co/ZTWwvv1/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB7133L",
+        "cor númerica": "5679",
+        "cor": "Azul",
+        "Formato": "Retangular",
+        "preco": 640,
+        "precoPromo": 640,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/C5GgM67/image.jpg",
+            "https://i.ibb.co/d5XxK9H/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB6456",
+        "cor númerica": "2509",
+        "cor": "Preto",
+        "Formato": "Irregular",
+        "preco": 497,
+        "precoPromo": 497,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/z58DypN/image.jpg",
+            "https://i.ibb.co/p0bg7Bx/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3916",
+        "cor númerica": "1303/31",
+        "cor": "Preto",
+        "Formato": "Clubmaster",
+        "preco": 730,
+        "precoPromo": 730,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/yQ27XNF/image.jpg",
+            "https://i.ibb.co/qsTxZYR/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB2219",
+        "cor númerica": "954/31",
+        "cor": "Dourado",
+        "Formato": "Aviador",
+        "preco": 780,
+        "precoPromo": 780,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/KzkgzSN/image.jpg",
+            "https://i.ibb.co/jzR0Sdd/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB1972",
+        "cor númerica": "9147/51",
+        "cor": "Dourado",
+        "Formato": "Redondo",
+        "preco": 780,
+        "precoPromo": 780,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/RDtv5LR/image.jpg",
+            "https://i.ibb.co/WKPRr2w/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3026L",
+        "cor númerica": "L2821",
+        "cor": "Preto",
+        "Formato": "Aviador",
+        "preco": 934,
+        "precoPromo": 934,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/hsRw0J5/image.jpg",
+            "https://i.ibb.co/qk9BxST/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3447-NL",
+        "cor númerica": "001/3F",
+        "cor": "Dourado",
+        "Formato": "Redondo",
+        "preco": 950,
+        "precoPromo": 950,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/r0KVqsF/image.jpg",
+            "https://i.ibb.co/c6p4zDh/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3447-NL",
+                "cor númerica": "002/71",
+                "cor": "Preto",
+                "Formato": "Redondo",
+                "preco": 1174,
+                "precoPromo": 1174,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/WWWL4Cm/image.jpg",
+                    "https://i.ibb.co/FWkxjp3/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Ray-Ban",
+                "tipoDeCard": "Com Preço",
+                "modelo": "RB3447-NL",
+                "cor númerica": "004/51",
+                "cor": "Grafite",
+                "Formato": "Redondo",
+                "preco": 1119,
+                "precoPromo": 1119,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/r7JXcjJ/image.jpg",
+                    "https://i.ibb.co/JRkgPBg/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3447VL",
+        "cor númerica": "2503",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 918,
+        "precoPromo": 918,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/z7zdZW8/image.jpg",
+            "https://i.ibb.co/Thtw7Xd/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3548",
+        "cor númerica": "002/71",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 1026,
+        "precoPromo": 1026,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/LYtv9Ry/image.jpg",
+            "https://i.ibb.co/TPDTQtR/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3582",
+        "cor númerica": "002/B1",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 830,
+        "precoPromo": 830,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/V3qF91X/image.jpg",
+            "https://i.ibb.co/8r5Jykd/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3648-M",
+        "cor númerica": "002/58",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 1335,
+        "precoPromo": 1335,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/NC3mcP5/image.jpg",
+            "https://i.ibb.co/Pm0qDjY/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3682VL",
+        "cor númerica": "2500",
+        "cor": "Dourado",
+        "Formato": "Redondo",
+        "preco": 630,
+        "precoPromo": 630,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pL3ck4J/image.jpg",
+            "https://i.ibb.co/3fQyFvC/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB2188",
+        "cor númerica": "901/M3",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 1242,
+        "precoPromo": 1242,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/9WqLrFb/image.jpg",
+            "https://i.ibb.co/HgDnfhb/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3030",
+        "cor númerica": "L9500",
+        "cor": "Preto",
+        "Formato": "Aviador",
+        "preco": 957,
+        "precoPromo": 957,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/JjxJzht/image.jpg",
+            "https://i.ibb.co/5Gjmyd0/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3447V",
+        "cor númerica": "2861",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 768,
+        "precoPromo": 768,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/NtbfWcn/image.jpg",
+            "https://i.ibb.co/4gFCnHZ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RB3447",
+        "cor númerica": "001/51",
+        "cor": "Dourado",
+        "Formato": "Redondo",
+        "preco": 1169,
+        "precoPromo": 1169,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/PghDQRd/image.jpg",
+            "https://i.ibb.co/gJFPBLt/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Ray-Ban",
+        "tipoDeCard": "Com Preço",
+        "modelo": "RBR0102S",
+        "cor númerica": "9202/3A",
+        "cor": "Dourado",
+        "Formato": "Quadrado",
+        "preco": 1080,
+        "precoPromo": 1080,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/TMLm8GT/image.jpg",
+            "https://i.ibb.co/rwjxqrQ/image.jpg"
+        ]
+    }
+]

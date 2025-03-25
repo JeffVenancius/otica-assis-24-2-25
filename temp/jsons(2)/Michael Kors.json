@@ -1,0 +1,121 @@
+[
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Michael Kors",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MK2195U",
+        "cor númerica": "394413",
+        "cor": "Verde ",
+        "Formato": "Gatinho",
+        "preco": 980,
+        "precoPromo": 980,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/mBBNT3G/image.jpg",
+            "https://i.ibb.co/wsbq7X3/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Michael Kors",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MK2199",
+        "cor númerica": "395213",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 1299,
+        "precoPromo": 1299,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2nd5kZh/image.jpg",
+            "https://i.ibb.co/PW1Cz6k/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Michael Kors",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MK2201",
+        "cor númerica": "39468H",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 1299,
+        "precoPromo": 1299,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/cNzDZfp/image.jpg",
+            "https://i.ibb.co/5c0v8HF/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Michael Kors",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MK3072",
+        "cor númerica": "1018",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 1236,
+        "precoPromo": 1236,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/4MXyML6/image.jpg",
+            "https://i.ibb.co/hdBMCb6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Michael Kors",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MK2140",
+        "cor númerica": "300613",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 1190,
+        "precoPromo": 1190,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/TvWG1ZK/image.jpg",
+            "https://i.ibb.co/8zT17xr/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Michael Kors",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MK1102",
+        "cor númerica": "101413",
+        "cor": "Dourado",
+        "Formato": "Aviador",
+        "preco": 1137,
+        "precoPromo": 1137,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/vzKNg74/image.jpg",
+            "https://i.ibb.co/SwQ9ktv/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Michael Kors",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MK2163",
+        "cor númerica": "35008G",
+        "cor": "Marrom",
+        "Formato": "Borboleta",
+        "preco": 1190,
+        "precoPromo": 1190,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/125qBMS/image.jpg",
+            "https://i.ibb.co/pdnqLJk/image.jpg"
+        ]
+    }
+]

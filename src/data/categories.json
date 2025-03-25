@@ -1,0 +1,482 @@
+{
+    "Marcas": {
+			"Adventure": {
+				"Óculos de Grau": {
+					"Masculino": {}
+				},
+				"Óculos de Sol": {
+					"Masculino": {}
+				}
+			},
+			"Oslo": {
+				"Óculos de Grau": {
+					"Masculino": {},
+					"Feminino": {}
+				},
+				"Óculos de Sol": {
+					"Masculino": {},
+					"Feminino": {},
+					"Unissex": {}
+				}
+			},
+			"P12": {
+				"Óculos de Grau": {
+					"Feminino": {}
+				},
+				"Óculos de Sol": {
+					"Feminino": {}
+				}
+			},
+			"On Design": {
+				"Óculos de Grau": {
+					"Feminino": {}
+				}
+			},
+        "Vogue": {
+            "Óculos de Sol": {
+                "Feminino": {}
+            },
+            "Óculos de Grau": {
+                "Feminino": {}
+            }
+        },
+        "Ray-Ban": {
+            "Óculos de Sol": {
+                "Masculino": {},
+                "Feminino": {},
+                "Unissex": {}
+            },
+            "Óculos de Grau": {
+                "Unissex": {},
+                "Masculino": {},
+                "Feminino": {}
+            }
+        },
+        "Oakley": {
+            "Óculos de Sol": {
+                "Masculino": {}
+            },
+            "Óculos de Grau": {
+                "Masculino": {}
+            }
+        },
+        "Max&Co.": {
+            "Óculos de Sol": {
+                "Feminino": {}
+            },
+            "Óculos de Grau": {
+                "Feminino": {}
+            }
+        },
+        "HB": {
+            "Óculos de Sol": {
+                "Masculino": {}
+            },
+            "Óculos de Grau": {
+                "Masculino": {}
+            }
+        },
+        "Jean Monnier": {
+            "Óculos de Grau": {
+                "Masculino": {},
+                "Feminino": {}
+            },
+            "Óculos de Sol": {
+                "Feminino": {},
+                "Masculino": {}
+            }
+        },
+        "Emporio Armani": {
+            "Óculos de Grau": {
+                "Masculino": {},
+                "Feminino": {}
+            },
+            "Óculos de Sol": {
+                "Masculino": {}
+            }
+        },
+        "Gant": {
+            "Óculos de Grau": {
+                "Unissex": {},
+                "Feminino": {}
+            },
+            "Óculos de Sol": {
+                "Feminino": {},
+                "Masculino": {}
+            }
+        },
+        "Guess": {
+            "Óculos de Sol": {
+                "Feminino": {},
+                "Masculino": {},
+                "Unissex": {}
+            },
+            "Óculos de Grau": {
+                "Feminino": {},
+                "Unissex": {},
+                "Masculino": {}
+            }
+        },
+        "Timberland": {
+            "Óculos de Grau": {
+                "Feminino": {},
+                "Masculino": {}
+            },
+            "Óculos de Sol": {
+                "Masculino": {},
+                "Feminino": {}
+            }
+        },
+        "Platini": {
+            "Óculos de Grau": {
+                "Masculino": {},
+                "Feminino": {},
+                "Unissex": {}
+            }
+        },
+        "Ralph": {
+            "Óculos de Sol": {
+                "Feminino": {}
+            },
+            "Óculos de Grau": {
+                "Feminino": {}
+            }
+        },
+        "Michael Kors": {
+            "Óculos de Sol": {
+                "Feminino": {}
+            },
+            "Óculos de Grau": {
+                "Feminino": {}
+            }
+        },
+        "Arnette": {
+            "Óculos de Sol": {
+                "Masculino": {}
+            },
+            "Óculos de Grau": {
+                "Masculino": {}
+            }
+        },
+        "Armani Exchange": {
+            "Óculos de Sol": {
+                "Masculino": {},
+                "Feminino": {}
+            },
+            "Óculos de Grau": {
+                "Feminino": {},
+                "Masculino": {}
+            }
+        },
+        "Grazi Massafera": {
+            "Óculos de Grau": {
+                "Feminino": {}
+            },
+            "Óculos de Sol": {
+                "Feminino": {}
+            }
+        },
+        "Kipling": {
+            "Óculos de Grau": {
+                "Feminino": {}
+            },
+            "Óculos de Sol": {
+                "Feminino": {}
+            }
+        },
+        "Miraflex": {
+            "Óculos de Grau": {
+                "Feminino": {}
+            }
+        },
+        "Carrera": {
+            "Óculos de Sol": {
+                "Masculino": {}
+            },
+            "Óculos de Grau": {
+                "Masculino": {}
+            }
+        },
+        "David Beckham": {
+            "Óculos de Sol": {
+                "Unissex": {},
+                "Masculino": {}
+            },
+            "Óculos de Grau": {
+                "Masculino": {},
+                "Feminino": {}
+            }
+        },
+        "Ralph Lauren": {
+            "Óculos de Grau": {
+                "Feminino": {}
+            },
+            "Óculos de Sol": {
+                "Feminino": {}
+            }
+        },
+        "Roberto Cavalli": {
+            "Óculos de Grau": {
+                "Feminino": {}
+            }
+        },
+        "Love Moschino": {
+            "Óculos de Grau": {
+                "Feminino": {}
+            },
+            "Óculos de Sol": {
+                "Feminino": {}
+            }
+        },
+        "Ana Hickmann": {
+            "Óculos de Grau": {
+                "Feminino": {}
+            },
+            "Óculos de Sol": {
+                "Feminino": {}
+            }
+        },
+        "Harley Davidson": {
+            "Óculos de Sol": {
+                "Masculino": {}
+            },
+            "Óculos de Grau": {
+                "Masculino": {}
+            }
+        },
+        "Victor Hugo": {
+            "Óculos de Sol": {
+                "Feminino": {},
+                "Unissex": {}
+            },
+            "Óculos de Grau": {
+                "Feminino": {}
+            }
+        },
+        "Fila": {
+            "Óculos de Grau": {
+                "Masculino": {}
+            }
+        },
+        "Polaroid": {
+            "Óculos de Sol": {
+                "Masculino": {},
+                "Feminino": {},
+                "Unissex": {}
+            },
+            "Óculos de Grau": {
+                "Unissex": {},
+                "Feminino": {},
+                "Masculino": {}
+            }
+        },
+        "Just Cavalli": {
+            "Óculos de Grau": {
+                "Feminino": {}
+            },
+            "Óculos de Sol": {
+                "Feminino": {}
+            }
+        },
+        "Marchon": {
+            "Óculos de Grau": {
+                "Masculino": {},
+                "Feminino": {},
+                "Unissex": {}
+            }
+        },
+        "Speedo": {
+            "Óculos de Sol": {
+                "Masculino": {},
+                "Feminino": {}
+            },
+            "Óculos de Grau": {
+                "Masculino": {}
+            }
+        },
+        "Tecnol": {
+            "Óculos de Grau": {
+                "Masculino": {},
+                "Feminino": {}
+            },
+            "Óculos de Sol": {
+                "Masculino": {},
+                "Feminino": {}
+            }
+        },
+        "Via Pampa": {
+            "Óculos de Grau": {
+                "Feminino": {},
+                "Masculino": {}
+            }
+        },
+        "Spellbound": {
+            "Óculos de Grau": {
+                "Masculino": {}
+            }
+        },
+        "Skechers": {
+            "Óculos de Grau": {
+                "Feminino": {}
+            }
+        },
+        "Seventh Street": {
+            "Óculos de Grau": {
+                "Feminino": {},
+                "Masculino": {}
+            }
+        },
+        "Nike": {
+            "Óculos de Sol": {
+                "Unissex": {},
+                "Masculino": {}
+            },
+            "Óculos de Grau": {
+                "Masculino": {}
+            }
+        },
+        "Keeper Brasil": {
+            "Óculos de Grau": {
+                "Masculino": {}
+            }
+        },
+        "Levi's": {
+            "Óculos de Grau": {
+                "Masculino": {},
+                "Unissex": {}
+            }
+        },
+        "Moschino": {
+            "Óculos de Sol": {
+                "Feminino": {}
+            }
+        },
+        "Havaianas": {
+            "Óculos de Sol": {
+                "Feminino": {}
+            }
+        },
+        "Airlock": {
+            "Óculos de Grau": {
+                "Masculino": {}
+            }
+        },
+        "Bulget": {
+            "Óculos de Grau": {
+                "Masculino": {},
+                "Feminino": {}
+            }
+        },
+        "Carmen Vitti": {
+            "Óculos de Grau": {
+                "Feminino": {}
+            }
+        },
+        "Carmim": {
+            "Óculos de Grau": {
+                "Feminino": {}
+            }
+        },
+        "Athenas": {
+            "Óculos de Grau": {
+                "Feminino": {}
+            }
+        },
+        "Carolina Herrera": {
+            "Óculos de Sol": {
+                "Feminino": {}
+            },
+            "Óculos de Grau": {
+                "Feminino": {}
+            }
+        },
+        "T-Charge": {
+            "Óculos de Grau": {
+                "Masculino": {}
+            },
+            "Óculos de Sol": {
+                "Masculino": {}
+            }
+        },
+        "Web": {
+            "Óculos de Sol": {
+                "Unissex": {},
+                "Feminino": {}
+            }
+        },
+        "Tommy Hilfiger": {
+            "Óculos de Grau": {
+                "Masculino": {},
+                "Feminino": {}
+            }
+        },
+        "Ferrari": {
+            "Óculos de Sol": {
+                "Masculino": {}
+            },
+            "Óculos de Grau": {
+                "Masculino": {}
+            }
+        }
+    },
+    "Óculos de Grau": {
+        "Feminino": {
+            "Gatinho": {},
+            "Borboleta": {},
+            "Quadrado": {},
+            "Redondo": {},
+            "Retangular": {},
+            "Oval": {},
+            "Esportivo": {}
+        },
+        "Masculino": {
+            "Quadrado": {},
+            "Redondo": {},
+            "Retangular": {},
+            "Esportivo": {},
+            "Aviador": {},
+            "Irregular": {}
+        },
+        "Unissex": {
+            "Redondo": {},
+            "Quadrado": {},
+            "Irregular": {},
+            "Retangular": {}
+        }
+    },
+    "Óculos de Sol": {
+        "Feminino": {
+            "Borboleta": {},
+            "Gatinho": {},
+            "Quadrado": {},
+            "Redondo": {},
+            "Aviador": {},
+            "Retangular": {},
+            "Oval": {},
+            "Irregular": {},
+            "Esportivo": {},
+            "Clubmaster": {}
+        },
+        "Masculino": {
+            "Aviador": {},
+            "Esportivo": {},
+            "Quadrado": {},
+            "Redondo": {},
+            "Irregular": {},
+            "Retangular": {},
+            "Oval": {},
+            "Clubmaster": {}
+        },
+        "Unissex": {
+            "Redondo": {},
+            "Quadrado": {},
+            "Oval": {},
+            "Aviador": {},
+            "Esportivo": {},
+            "Clubmaster": {},
+            "Irregular": {},
+            "Retangular": {}
+        }
+    },
+		"Lentes Cosméticas": {}
+}

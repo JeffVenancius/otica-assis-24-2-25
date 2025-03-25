@@ -1,0 +1,2409 @@
+[
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU00162",
+        "cor númerica": "96B",
+        "cor": "Verde",
+        "Formato": "Borboleta",
+        "preco": 845,
+        "precoPromo": 845,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/ysW4gN0/image.jpg",
+            "https://i.ibb.co/V37qbyZ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50175",
+        "cor númerica": "092",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 942,
+        "precoPromo": 942,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/51TW5XP/image.jpg",
+            "https://i.ibb.co/fGxCVmR/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50176",
+        "cor númerica": "052",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 864,
+        "precoPromo": 864,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Bj7Myd1/image.jpg",
+            "https://i.ibb.co/vZqSBDb/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU50176",
+                "cor númerica": "069",
+                "cor": "Bordô",
+                "Formato": "Borboleta",
+                "preco": 837,
+                "precoPromo": 837,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/4TrCFTv/image.jpg",
+                    "https://i.ibb.co/hcrn7gL/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50180",
+        "cor númerica": "052",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 972,
+        "precoPromo": 972,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/nC1PkTD/image.jpg",
+            "https://i.ibb.co/jLt9BRJ/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU50180",
+                "cor númerica": "066",
+                "cor": "Vermelho",
+                "Formato": "Borboleta",
+                "preco": 942,
+                "precoPromo": 942,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/L0d7nZD/image.jpg",
+                    "https://i.ibb.co/j4rBCyk/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU50180",
+                "cor númerica": "096",
+                "cor": "Verde",
+                "Formato": "Borboleta",
+                "preco": 942,
+                "precoPromo": 942,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/5WZQPzj/image.jpg",
+                    "https://i.ibb.co/LzmbZp9/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50182",
+        "cor númerica": "052",
+        "cor": "Demi",
+        "Formato": "Gatinho",
+        "preco": 1080,
+        "precoPromo": 1080,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2cKBrtR/image.jpg",
+            "https://i.ibb.co/6XP1qKN/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU50182",
+                "cor númerica": "066",
+                "cor": "Vermelho",
+                "Formato": "Gatinho",
+                "preco": 868,
+                "precoPromo": 868,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/bJzBHXZ/image.jpg",
+                    "https://i.ibb.co/QNrNnZj/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50172",
+        "cor númerica": "001",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 837,
+        "precoPromo": 837,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/JHd5Dd6/image.jpg",
+            "https://i.ibb.co/qCsvjg5/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50181",
+        "cor númerica": "020",
+        "cor": "Cinza",
+        "Formato": "Gatinho",
+        "preco": 907,
+        "precoPromo": 907,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/kxFp7CC/image.jpg",
+            "https://i.ibb.co/svZ2pDr/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50183",
+        "cor númerica": "092",
+        "cor": "Azul ",
+        "Formato": "Gatinho",
+        "preco": 900,
+        "precoPromo": 900,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/cyYnKp0/image.jpg",
+            "https://i.ibb.co/gdxDzgh/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7820",
+        "cor númerica": "69T",
+        "cor": "Bordô",
+        "Formato": "Borboleta",
+        "preco": 710,
+        "precoPromo": 710,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/3S522h4/image.jpg",
+            "https://i.ibb.co/G00qdHC/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU7820",
+                "cor númerica": "52F",
+                "cor": "Tortoise",
+                "Formato": "Borboleta",
+                "preco": 681,
+                "precoPromo": 681,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/wgvTSzg/image.jpg",
+                    "https://i.ibb.co/JvzHPKJ/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50177",
+        "cor númerica": "087",
+        "cor": "Verde ",
+        "Formato": "Gatinho",
+        "preco": 837,
+        "precoPromo": 837,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/qm2fb6S/image.jpg",
+            "https://i.ibb.co/9h4L74n/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU00160",
+        "cor númerica": "52F",
+        "cor": "Demi",
+        "Formato": "Borboleta",
+        "preco": 904,
+        "precoPromo": 904,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/P4qLBgs/image.jpg",
+            "https://i.ibb.co/GTHT0K9/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2977",
+        "cor númerica": "052",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 722,
+        "precoPromo": 722,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/BNsyXj2/image.jpg",
+            "https://i.ibb.co/31FM0gs/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU2977",
+                "cor númerica": "059",
+                "cor": "Bege",
+                "Formato": "Gatinho",
+                "preco": 700,
+                "precoPromo": 700,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/C7C99tL/image.jpg",
+                    "https://i.ibb.co/C1HWZmw/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU2977",
+                "cor númerica": "069",
+                "cor": "Burgundy",
+                "Formato": "Gatinho",
+                "preco": 722,
+                "precoPromo": 722,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/16Q5DLB/image.jpg",
+                    "https://i.ibb.co/Nn7LQnt/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU00013",
+        "cor númerica": "10Q",
+        "cor": "Prata",
+        "Formato": "Aviador",
+        "preco": 690,
+        "precoPromo": 690,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/6DGGQdM/image.jpg",
+            "https://i.ibb.co/wM41Bht/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50169",
+        "cor númerica": "032",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 798,
+        "precoPromo": 798,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2SbPPSr/image.jpg",
+            "https://i.ibb.co/CHn5NgW/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50173",
+        "cor númerica": "001",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 694,
+        "precoPromo": 694,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/94cWN6w/image.jpg",
+            "https://i.ibb.co/BN6RMJQ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50174",
+        "cor númerica": "068",
+        "cor": "Vermelho",
+        "Formato": "Borboleta",
+        "preco": 901,
+        "precoPromo": 901,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/cXjw6Gw/image.jpg",
+            "https://i.ibb.co/cg3Qw4b/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50179",
+        "cor númerica": "028",
+        "cor": "Rosé",
+        "Formato": "Borboleta",
+        "preco": 868,
+        "precoPromo": 868,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Tmwdpj7/image.jpg",
+            "https://i.ibb.co/cXnDd7H/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50114",
+        "cor númerica": "020",
+        "cor": "Cinza",
+        "Formato": "Gatinho",
+        "preco": 872,
+        "precoPromo": 872,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/3zN375y/image.jpg",
+            "https://i.ibb.co/K52W1Qx/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2594",
+        "cor númerica": "087",
+        "cor": "Azul",
+        "Formato": "Gatinho",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pbB5b8d/image.jpg",
+            "https://i.ibb.co/Tq0FQ70/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2648",
+        "cor númerica": "002",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/ScXk7Dk/image.jpg",
+            "https://i.ibb.co/5kQGC1H/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2881",
+        "cor númerica": "069",
+        "cor": "Burgundy",
+        "Formato": "Gatinho",
+        "preco": 821,
+        "precoPromo": 821,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/XJ6ycBS/image.jpg",
+            "https://i.ibb.co/LYzFy1V/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU2881",
+                "cor númerica": "057",
+                "cor": "Nude",
+                "Formato": "Gatinho",
+                "preco": 821,
+                "precoPromo": 821,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/YQTJ56p/image.jpg",
+                    "https://i.ibb.co/MGB4LK2/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2953",
+        "cor númerica": "059",
+        "cor": "Bege",
+        "Formato": "Borboleta",
+        "preco": 700,
+        "precoPromo": 700,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/kKxKmSK/image.jpg",
+            "https://i.ibb.co/L0p06Tm/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU2953",
+                "cor númerica": "005",
+                "cor": "Preto",
+                "Formato": "Borboleta",
+                "preco": 730,
+                "precoPromo": 730,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/yYLwQXC/image.jpg",
+                    "https://i.ibb.co/txvtBGs/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2958",
+        "cor númerica": "26",
+        "cor": "Transparente",
+        "Formato": "Gatinho",
+        "preco": 590,
+        "precoPromo": 590,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/VjVHVgt/image.jpg",
+            "https://i.ibb.co/Dbmdqpf/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50079",
+        "cor númerica": "052",
+        "cor": "Tortoise",
+        "Formato": "Redondo",
+        "preco": 982,
+        "precoPromo": 982,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/KNSZqQ3/image.jpg",
+            "https://i.ibb.co/WzHX5mt/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU50079",
+                "cor númerica": "001",
+                "cor": "Preto",
+                "Formato": "Redondo",
+                "preco": 895,
+                "precoPromo": 895,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/pvM9cHB/image.jpg",
+                    "https://i.ibb.co/z6fMTP8/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50094",
+        "cor númerica": "092",
+        "cor": "Azul ",
+        "Formato": "Quadrado",
+        "preco": 722,
+        "precoPromo": 722,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/c1rpnY4/image.jpg",
+            "https://i.ibb.co/fpCXYsN/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU50094",
+                "cor númerica": "056",
+                "cor": "Demi",
+                "Formato": "Quadrado",
+                "preco": 799,
+                "precoPromo": 799,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/FHCw0gf/image.jpg",
+                    "https://i.ibb.co/MB0WWQ1/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7815",
+        "cor númerica": "25B",
+        "cor": "Branco",
+        "Formato": "Borboleta",
+        "preco": 791,
+        "precoPromo": 791,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/DV2W5Hk/image.jpg",
+            "https://i.ibb.co/3zSwg7c/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7818",
+        "cor númerica": "20B",
+        "cor": "Cinza ",
+        "Formato": "Borboleta",
+        "preco": 727,
+        "precoPromo": 727,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/kKdHkjd/image.jpg",
+            "https://i.ibb.co/TWxgPpj/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU7818",
+                "cor númerica": "52B",
+                "cor": "Tortoise",
+                "Formato": "Borboleta",
+                "preco": 871,
+                "precoPromo": 871,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/jRHtGsj/image.jpg",
+                    "https://i.ibb.co/QHrfg2h/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7908",
+        "cor númerica": "59Z",
+        "cor": "Bege",
+        "Formato": "Borboleta",
+        "preco": 699,
+        "precoPromo": 699,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/k1mwR3d/image.jpg",
+            "https://i.ibb.co/SRV7ptH/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU7908",
+                "cor númerica": "52F",
+                "cor": "Marrom ",
+                "Formato": "Borboleta",
+                "preco": 700,
+                "precoPromo": 700,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/JdM4znf/image.jpg",
+                    "https://i.ibb.co/16vnKKV/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU6737",
+        "cor númerica": "GLD-1F",
+        "cor": "Dourado",
+        "Formato": "Aviador",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Rv0B72R/image.jpg",
+            "https://i.ibb.co/Pwmr1ks/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2728",
+        "cor númerica": "028",
+        "cor": "Rosé",
+        "Formato": "Borboleta",
+        "preco": 800,
+        "precoPromo": 800,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/qYVhqB4/image.jpg",
+            "https://i.ibb.co/y0SYC3n/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU2728",
+                "cor númerica": "032",
+                "cor": "Dourado",
+                "Formato": "Borboleta",
+                "preco": 800,
+                "precoPromo": 800,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/hHJMYVr/image.jpg",
+                    "https://i.ibb.co/XFMFWKt/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU8277",
+        "cor númerica": "21E",
+        "cor": "Branco",
+        "Formato": "Oval",
+        "preco": 629,
+        "precoPromo": 629,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pxD1jcW/image.jpg",
+            "https://i.ibb.co/qdzHnGx/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU8286",
+        "cor númerica": "28Y",
+        "cor": "Rosé",
+        "Formato": "Irregular",
+        "preco": 629,
+        "precoPromo": 629,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/wKJNcGJ/image.jpg",
+            "https://i.ibb.co/z7FjQ0b/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2912",
+        "cor númerica": "32",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 705,
+        "precoPromo": 705,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/d4TZgVd/image.jpg",
+            "https://i.ibb.co/FnnkxQf/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU2912",
+                "cor númerica": "033",
+                "cor": "Demi",
+                "Formato": "Borboleta",
+                "preco": 847,
+                "precoPromo": 847,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/WFxyYTF/image.jpg",
+                    "https://i.ibb.co/M2C0X9Y/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2940",
+        "cor númerica": "001",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 776,
+        "precoPromo": 776,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0qF8BXF/image.jpg",
+            "https://i.ibb.co/YjLkhpZ/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU2940",
+                "cor númerica": "069",
+                "cor": "Bordô",
+                "Formato": "Gatinho",
+                "preco": 776,
+                "precoPromo": 776,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/3MjkpKN/image.jpg",
+                    "https://i.ibb.co/ZLw9nyn/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2945",
+        "cor númerica": "020",
+        "cor": "Cinza",
+        "Formato": "Gatinho",
+        "preco": 867,
+        "precoPromo": 867,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pJDsZ1Z/image.jpg",
+            "https://i.ibb.co/qn4gC31/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2947",
+        "cor númerica": "20",
+        "cor": "Cinza",
+        "Formato": "Gatinho",
+        "preco": 867,
+        "precoPromo": 867,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Cz9JJWf/image.jpg",
+            "https://i.ibb.co/j8zdNyq/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2960",
+        "cor númerica": "056",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 1032,
+        "precoPromo": 1032,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Bf5PNZY/image.jpg",
+            "https://i.ibb.co/nn9xf16/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2969",
+        "cor númerica": "092",
+        "cor": "Azul",
+        "Formato": "Gatinho",
+        "preco": 720,
+        "precoPromo": 720,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/d0dDzrT/image.jpg",
+            "https://i.ibb.co/GsgWwZZ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2976",
+        "cor númerica": "074",
+        "cor": "Nude",
+        "Formato": "Gatinho",
+        "preco": 722,
+        "precoPromo": 722,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tz8rKhR/image.jpg",
+            "https://i.ibb.co/tQ0CXmg/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU2976",
+                "cor númerica": "028",
+                "cor": "Dourado",
+                "Formato": "Quadrado",
+                "preco": 722,
+                "precoPromo": 722,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/w0Q17N8/image.jpg",
+                    "https://i.ibb.co/Rpr1Kjr/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2980",
+        "cor númerica": "020",
+        "cor": "Pêssego",
+        "Formato": "Gatinho",
+        "preco": 1046,
+        "precoPromo": 1046,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Nst6HRz/image.jpg",
+            "https://i.ibb.co/JsbFqFN/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU2980",
+                "cor númerica": "092",
+                "cor": "Nude",
+                "Formato": "Redondo",
+                "preco": 905,
+                "precoPromo": 905,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/X5sTVHL/image.jpg",
+                    "https://i.ibb.co/FYgVZTd/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2983",
+        "cor númerica": "098",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 849,
+        "precoPromo": 849,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/g6LNB52/image.jpg",
+            "https://i.ibb.co/P4L58N2/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU2983",
+                "cor númerica": "071",
+                "cor": "Burgundy",
+                "Formato": "Borboleta",
+                "preco": 849,
+                "precoPromo": 849,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/QKk93YX/image.jpg",
+                    "https://i.ibb.co/qRZ8Khw/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2984",
+        "cor númerica": "020",
+        "cor": "Cinza",
+        "Formato": "Gatinho",
+        "preco": 905,
+        "precoPromo": 905,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/qxwZvY9/image.jpg",
+            "https://i.ibb.co/0YNvHQq/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU5216",
+        "cor númerica": "95V",
+        "cor": "Havana",
+        "Formato": "Redondo",
+        "preco": 820,
+        "precoPromo": 820,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/B6TXbSc/image.jpg",
+            "https://i.ibb.co/Zhhs65c/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU6744",
+        "cor númerica": "SI-35",
+        "cor": "Prata",
+        "Formato": "Redondo",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/cXJ7WyX/image.jpg",
+            "https://i.ibb.co/PxgXw3c/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU6882",
+        "cor númerica": "52E",
+        "cor": "Demi",
+        "Formato": "Esportivo",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/qxpGP4R/image.jpg",
+            "https://i.ibb.co/cFpFrMP/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU6890",
+        "cor númerica": "02C",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/nPsjJyS/image.jpg",
+            "https://i.ibb.co/1qK6K0N/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU6907",
+        "cor númerica": "01A",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/3FMFm4V/image.jpg",
+            "https://i.ibb.co/8cY3RWz/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU6913",
+        "cor númerica": "91C",
+        "cor": "Azul",
+        "Formato": "Quadrado",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HC0v8WV/image.jpg",
+            "https://i.ibb.co/wsRkPn4/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7109",
+        "cor númerica": "BLK-3F",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 713,
+        "precoPromo": 713,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/hXWGXcY/image.jpg",
+            "https://i.ibb.co/grjbN08/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7187",
+        "cor númerica": "GLD-1F",
+        "cor": "Dourado",
+        "Formato": "Aviador",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/f91YGS4/image.jpg",
+            "https://i.ibb.co/Tv6Hr4T/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7189",
+        "cor númerica": "GLD-1F",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/ZdYqsHw/image.jpg",
+            "https://i.ibb.co/b2m4t0v/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7231",
+        "cor númerica": "BRN-34",
+        "cor": "Dourado",
+        "Formato": "Aviador",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jHn4QyW/image.jpg",
+            "https://i.ibb.co/N18KRZM/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7253",
+        "cor númerica": "RGLD-52",
+        "cor": "Dourado",
+        "Formato": "Aviador",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/p3NxvK2/image.jpg",
+            "https://i.ibb.co/H7km56L/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7325",
+        "cor númerica": "GLD-62F",
+        "cor": "Dourado",
+        "Formato": "Aviador",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/kckQhSg/image.jpg",
+            "https://i.ibb.co/jMg84LD/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7387",
+        "cor númerica": "01B",
+        "cor": "Preto",
+        "Formato": "Redondo",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/30Gf5zN/image.jpg",
+            "https://i.ibb.co/7Yzbh96/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7606",
+        "cor númerica": "20C",
+        "cor": "Prata",
+        "Formato": "Redondo",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/qdSJT5C/image.jpg",
+            "https://i.ibb.co/jWrVTkq/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7741",
+        "cor númerica": "57G",
+        "cor": "Bege",
+        "Formato": "Borboleta",
+        "preco": 732,
+        "precoPromo": 732,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/LQS3zhy/image.jpg",
+            "https://i.ibb.co/RH2fJ6q/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7845",
+        "cor númerica": "01D",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 1082,
+        "precoPromo": 1082,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/BwhBBYX/image.jpg",
+            "https://i.ibb.co/9n4712W/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7875",
+        "cor númerica": "33B",
+        "cor": "Dourado",
+        "Formato": "Gatinho",
+        "preco": 1109,
+        "precoPromo": 1109,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/PWwjCkV/image.jpg",
+            "https://i.ibb.co/1RFchg7/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7878",
+        "cor númerica": "52H",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 755,
+        "precoPromo": 755,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/BnndPgc/image.jpg",
+            "https://i.ibb.co/YTF7LK7/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU7878",
+                "cor númerica": "01B",
+                "cor": "Preto",
+                "Formato": "Borboleta",
+                "preco": 610,
+                "precoPromo": 610,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/4WvtcTm/image.jpg",
+                    "https://i.ibb.co/9vGnzKF/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU7878",
+                "cor númerica": "20W",
+                "cor": "Cinza",
+                "Formato": "Borboleta",
+                "preco": 609,
+                "precoPromo": 609,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/zQLhVpB/image.jpg",
+                    "https://i.ibb.co/1fpF5FQ/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7889",
+        "cor númerica": "53W",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 1010,
+        "precoPromo": 1010,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/ZTysP6q/image.jpg",
+            "https://i.ibb.co/Y2ZV6b4/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7907",
+        "cor númerica": "20B",
+        "cor": "Cinza",
+        "Formato": "Borboleta",
+        "preco": 686,
+        "precoPromo": 686,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/k9vybVg/image.jpg",
+            "https://i.ibb.co/m8vX39J/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7921-H",
+        "cor númerica": "52P",
+        "cor": "Demi",
+        "Formato": "Borboleta",
+        "preco": 707,
+        "precoPromo": 707,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/ykCswy6/image.jpg",
+            "https://i.ibb.co/c1HyrCd/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU7921-H",
+                "cor númerica": "01D",
+                "cor": "Preto",
+                "Formato": "Borboleta",
+                "preco": 790,
+                "precoPromo": 790,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/nwRbqWj/image.jpg",
+                    "https://i.ibb.co/RCJ4rXg/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU8241",
+        "cor númerica": "01B",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 677,
+        "precoPromo": 677,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pK4KHQp/image.jpg",
+            "https://i.ibb.co/tcw3zMP/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU9189",
+        "cor númerica": "56G",
+        "cor": "Demi",
+        "Formato": "Quadrado",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/nM9BDNK/image.jpg",
+            "https://i.ibb.co/YBzzHm7/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU3028",
+        "cor númerica": "67C",
+        "cor": "Vermelho",
+        "Formato": "Redondo",
+        "preco": 516,
+        "precoPromo": 516,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/g3GKQrL/image.jpg",
+            "https://i.ibb.co/xSL4kYd/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2693",
+        "cor númerica": "47",
+        "cor": "Dourado",
+        "Formato": "Gatinho",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/VDC8Yqp/image.jpg",
+            "https://i.ibb.co/6v7QyDH/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2655",
+        "cor númerica": "84",
+        "cor": "Verde",
+        "Formato": "Gatinho",
+        "preco": 559,
+        "precoPromo": 559,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/8s3gQFg/image.jpg",
+            "https://i.ibb.co/bmrNwwK/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2729",
+        "cor númerica": "10",
+        "cor": "Prata",
+        "Formato": "Redondo",
+        "preco": 589,
+        "precoPromo": 589,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/qrDqZ5P/image.jpg",
+            "https://i.ibb.co/vZkNK0c/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU1698",
+        "cor númerica": "GUN",
+        "cor": "Preto",
+        "Formato": "Retangular",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/DprWCC9/image.jpg",
+            "https://i.ibb.co/wsSHfN3/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU1781",
+        "cor númerica": "GUN",
+        "cor": "Prata",
+        "Formato": "Retangular",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/QnRxhrp/image.jpg",
+            "https://i.ibb.co/Y325S4V/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU1785",
+        "cor númerica": "BRN",
+        "cor": "Bronze",
+        "Formato": "Retangular",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Kss2myy/image.jpg",
+            "https://i.ibb.co/gJ9JYYL/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU1786",
+        "cor númerica": "BLK",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0VznwQQ/image.jpg",
+            "https://i.ibb.co/C5NfD1R/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU1818",
+        "cor númerica": "GUNBLK",
+        "cor": "Cinza",
+        "Formato": "Retangular",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HHWkpht/image.jpg",
+            "https://i.ibb.co/Xj8wdgS/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU1877",
+        "cor númerica": "090",
+        "cor": "Azul",
+        "Formato": "Quadrado",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/d0wx7Dw/image.jpg",
+            "https://i.ibb.co/x8n0hLR/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2288",
+        "cor númerica": "BU",
+        "cor": "Vermelho",
+        "Formato": "Retangular",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Y3K0cmS/image.jpg",
+            "https://i.ibb.co/ct4kKMj/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2401",
+        "cor númerica": "PRBL",
+        "cor": "Roxo",
+        "Formato": "Gatinho",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/xfbXkCs/image.jpg",
+            "https://i.ibb.co/MZVRthW/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2428",
+        "cor númerica": "PNK",
+        "cor": "Nude",
+        "Formato": "Borboleta",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Zx6CMPZ/image.jpg",
+            "https://i.ibb.co/ChD5HyW/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2539",
+        "cor númerica": "001",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/vDWdZny/image.jpg",
+            "https://i.ibb.co/7JGGTh6/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2543",
+        "cor númerica": "90",
+        "cor": "Azul",
+        "Formato": "Gatinho",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/bm8KLqm/image.jpg",
+            "https://i.ibb.co/MNB1WFQ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2629",
+        "cor númerica": "49",
+        "cor": "Bronze",
+        "Formato": "Gatinho",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/q9JMs0z/image.jpg",
+            "https://i.ibb.co/GCXrLpL/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2694",
+        "cor númerica": "92",
+        "cor": "Prata",
+        "Formato": "Gatinho",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/C8qN1vM/image.jpg",
+            "https://i.ibb.co/M5Wkthz/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2792",
+        "cor númerica": "028",
+        "cor": "Rosé",
+        "Formato": "Borboleta",
+        "preco": 848,
+        "precoPromo": 848,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/GdDBC1H/image.jpg",
+            "https://i.ibb.co/g619nN0/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2818",
+        "cor númerica": "068",
+        "cor": "Vermelho",
+        "Formato": "Gatinho",
+        "preco": 737,
+        "precoPromo": 737,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gdgfSsr/image.jpg",
+            "https://i.ibb.co/y4FBQX2/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2880",
+        "cor númerica": "057",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 798,
+        "precoPromo": 798,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/xG12K8n/image.jpg",
+            "https://i.ibb.co/9nbvbKY/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU2880",
+                "cor númerica": "098",
+                "cor": "Tortoise",
+                "Formato": "Gatinho",
+                "preco": 774,
+                "precoPromo": 774,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/WPjrk9M/image.jpg",
+                    "https://i.ibb.co/GJLKCck/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50112",
+        "cor númerica": "052",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 801,
+        "precoPromo": 801,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Syzx82L/image.jpg",
+            "https://i.ibb.co/pW33W6C/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7843-S",
+        "cor númerica": "28Z",
+        "cor": "Rosé",
+        "Formato": "Borboleta",
+        "preco": 1298,
+        "precoPromo": 1298,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Gv8S0pH/image.jpg",
+            "https://i.ibb.co/my6hwjB/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU1783",
+        "cor númerica": "GRY",
+        "cor": "Demi",
+        "Formato": "Retangular",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/vjdRvBt/image.jpg",
+            "https://i.ibb.co/8s2pwLT/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2671",
+        "cor númerica": "001",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 624,
+        "precoPromo": 624,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/y5K9bDT/image.jpg",
+            "https://i.ibb.co/4NB1bCV/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU6908",
+        "cor númerica": "52Q",
+        "cor": "Demi",
+        "Formato": "Quadrado",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Rpq9Yq2/image.jpg",
+            "https://i.ibb.co/7zF37H9/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU3008",
+        "cor númerica": "073",
+        "cor": "Rosa",
+        "Formato": "Gatinho",
+        "preco": 525,
+        "precoPromo": 525,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/cgBkX8s/image.jpg",
+            "https://i.ibb.co/s98GsNb/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7630",
+        "cor númerica": "05B",
+        "cor": "Preto",
+        "Formato": "Irregular",
+        "preco": 589,
+        "precoPromo": 589,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/FmB94fz/image.jpg",
+            "https://i.ibb.co/sq6c7T5/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU00105",
+        "cor númerica": "55B",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 955,
+        "precoPromo": 955,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/wcLnnj8/image.jpg",
+            "https://i.ibb.co/cD3pdGq/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2825",
+        "cor númerica": "020",
+        "cor": "Cinza",
+        "Formato": "Borboleta",
+        "preco": 800,
+        "precoPromo": 800,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/r3hfYdM/image.jpg",
+            "https://i.ibb.co/X2YfFcn/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU2825",
+                "cor númerica": "072",
+                "cor": "Rosé",
+                "Formato": "Borboleta",
+                "preco": 836,
+                "precoPromo": 836,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/r4ZHhf6/image.jpg",
+                    "https://i.ibb.co/MnCwqbQ/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2903",
+        "cor númerica": "028",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 784,
+        "precoPromo": 784,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/dbbQv4T/image.jpg",
+            "https://i.ibb.co/2h4LLfy/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2938",
+        "cor númerica": "001",
+        "cor": "Preto",
+        "Formato": "Borboleta",
+        "preco": 630,
+        "precoPromo": 630,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/BwgvjLm/image.jpg",
+            "https://i.ibb.co/ww5rWQ2/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2952",
+        "cor númerica": "059",
+        "cor": "Nude",
+        "Formato": "Borboleta",
+        "preco": 763,
+        "precoPromo": 763,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/j47mVzJ/image.jpg",
+            "https://i.ibb.co/jGHtWqC/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU5222",
+        "cor númerica": "052",
+        "cor": "Tortoise",
+        "Formato": "Redondo",
+        "preco": 841,
+        "precoPromo": 841,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/FhW5bgN/image.jpg",
+            "https://i.ibb.co/qm6mw45/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7829",
+        "cor númerica": "90B",
+        "cor": "Azul",
+        "Formato": "Borboleta",
+        "preco": 735,
+        "precoPromo": 735,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/3mnXCGZ/image.jpg",
+            "https://i.ibb.co/NL89VCb/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7843",
+        "cor númerica": "28B",
+        "cor": "Dourado",
+        "Formato": "Borboleta",
+        "preco": 710,
+        "precoPromo": 710,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/1LvrHGH/image.jpg",
+            "https://i.ibb.co/wR7VSTB/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7867",
+        "cor númerica": "32F",
+        "cor": "Rosé",
+        "Formato": "Borboleta",
+        "preco": 645,
+        "precoPromo": 645,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/CbkvTj4/image.jpg",
+            "https://i.ibb.co/s37Vkdm/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7877",
+        "cor númerica": "53Z",
+        "cor": "Tortoise",
+        "Formato": "Gatinho",
+        "preco": 620,
+        "precoPromo": 620,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2cpdW6p/image.jpg",
+            "https://i.ibb.co/MZsMptZ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU7886",
+        "cor númerica": "52F",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 826,
+        "precoPromo": 826,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/xJx7gmb/image.jpg",
+            "https://i.ibb.co/68GSrLc/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU7886",
+                "cor númerica": "57B",
+                "cor": "Bege",
+                "Formato": "Borboleta",
+                "preco": 789,
+                "precoPromo": 789,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/12fSQRT/image.jpg",
+                    "https://i.ibb.co/hKVsvMQ/image.jpg"
+                ]
+            },
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Feminino",
+                "marca": "Guess",
+                "tipoDeCard": "Com Preço",
+                "modelo": "GU7886",
+                "cor númerica": "59Z",
+                "cor": "Marrom ",
+                "Formato": "Borboleta",
+                "preco": 826,
+                "precoPromo": 826,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/Tc1k2Vn/image.jpg",
+                    "https://i.ibb.co/H2kdvKL/image.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU8292",
+        "cor númerica": "52F",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 665,
+        "precoPromo": 665,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/kSPZjDR/image.jpg",
+            "https://i.ibb.co/vw6NB6Z/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU00108",
+        "cor númerica": "05B",
+        "cor": "Rosé",
+        "Formato": "Borboleta",
+        "preco": 955,
+        "precoPromo": 955,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/JBX7r4c/image.jpg",
+            "https://i.ibb.co/fpMnxxL/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50118",
+        "cor númerica": "088",
+        "cor": "Verde ",
+        "Formato": "Borboleta",
+        "preco": 675,
+        "precoPromo": 675,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/1ZFG3Nd/image.jpg",
+            "https://i.ibb.co/kG0wTKJ/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU00100",
+        "cor númerica": "52F",
+        "cor": "Tortoise",
+        "Formato": "Borboleta",
+        "preco": 802,
+        "precoPromo": 802,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Rbq9WNb/image.jpg",
+            "https://i.ibb.co/kBdnK7L/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU1878",
+        "cor númerica": "052",
+        "cor": "Demi",
+        "Formato": "Retangular",
+        "preco": 650,
+        "precoPromo": 650,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/PgFJDqv/image.jpg",
+            "https://i.ibb.co/k2PdLQj/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2975",
+        "cor númerica": "028",
+        "cor": "Rosé",
+        "Formato": "Gatinho",
+        "preco": 692,
+        "precoPromo": 692,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/DtHc3gG/image.jpg",
+            "https://i.ibb.co/BzM6nyN/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2978",
+        "cor númerica": "069",
+        "cor": "Bordô",
+        "Formato": "Gatinho",
+        "preco": 722,
+        "precoPromo": 722,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/xmdvQp8/image.jpg",
+            "https://i.ibb.co/hXmQLhB/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU2979",
+        "cor númerica": "020",
+        "cor": "Cinza",
+        "Formato": "Gatinho",
+        "preco": 877,
+        "precoPromo": 877,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/fqPf2Fh/image.jpg",
+            "https://i.ibb.co/xm9b2fx/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50099",
+        "cor númerica": "020",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
+        "preco": 1046,
+        "precoPromo": 1046,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/42BdXdS/image.jpg",
+            "https://i.ibb.co/ySHGbwF/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Guess",
+        "tipoDeCard": "Com Preço",
+        "modelo": "GU50127",
+        "cor númerica": "057",
+        "cor": "Rosa ",
+        "Formato": "Gatinho",
+        "preco": 996,
+        "precoPromo": 996,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/1X9p4yj/image.jpg",
+            "https://i.ibb.co/Snf6zfK/image.jpg"
+        ]
+    }
+]

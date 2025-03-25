@@ -1,0 +1,87 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Seventh Street",
+        "tipoDeCard": "Com Preço",
+        "modelo": "7A085",
+        "cor numérica": "003",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 978,
+        "precoPromo": 978,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/PTW88VJ/image.jpg",
+            "https://i.ibb.co/HBSY5CV/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Seventh Street",
+        "tipoDeCard": "Com Preço",
+        "modelo": "7A096",
+        "cor numérica": "09Q",
+        "cor": "Marrom ",
+        "Formato": "Quadrado",
+        "preco": 782,
+        "precoPromo": 782,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/VL3BvVs/image.jpg",
+            "https://i.ibb.co/vdfP1t5/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Seventh Street",
+        "tipoDeCard": "Com Preço",
+        "modelo": "7A553",
+        "cor numérica": "OY4",
+        "cor": "Preto",
+        "Formato": "Gatinho",
+        "preco": 695,
+        "precoPromo": 695,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pfsnsxQ/image.jpg",
+            "https://i.ibb.co/9VZtpPm/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Seventh Street",
+        "tipoDeCard": "Com Preço",
+        "modelo": "7A562",
+        "cor numérica": "B3V",
+        "cor": "Rosa ",
+        "Formato": "Borboleta",
+        "preco": 548,
+        "precoPromo": 548,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/WpdfHVT/image.jpg",
+            "https://i.ibb.co/T8VfJnX/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Seventh Street",
+        "tipoDeCard": "Com Preço",
+        "modelo": "7A567",
+        "cor numérica": "8CQ",
+        "cor": "Rosa ",
+        "Formato": "Gatinho",
+        "preco": 665,
+        "precoPromo": 665,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0KR3jpD/image.jpg",
+            "https://i.ibb.co/NmT83B8/image.jpg"
+        ]
+    }
+]

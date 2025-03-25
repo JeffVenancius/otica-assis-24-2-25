@@ -1,0 +1,36 @@
+[
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Levi's",
+        "tipoDeCard": "Com Preço",
+        "modelo": "LV5020",
+        "cor numérica": "807",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 613,
+        "precoPromo": 613,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tCpNDGk/image.jpg",
+            "https://i.ibb.co/2dX3WH0/image.jpg"
+        ]
+    },
+    {
+        "Grau/Sol": "Óculos de Grau",
+        "Gênero": "Unissex",
+        "marca": "Levi's",
+        "tipoDeCard": "Com Preço",
+        "modelo": "LV5026",
+        "cor numérica": "HKZ",
+        "cor": "Demi",
+        "Formato": "Quadrado",
+        "preco": 687,
+        "precoPromo": 687,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/JrDsqmG/image.jpg",
+            "https://i.ibb.co/0ft9gSn/image.jpg"
+        ]
+    }
+]

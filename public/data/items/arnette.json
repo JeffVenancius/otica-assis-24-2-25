@@ -1,10 +1,13 @@
 [
-{
-        "Tipo": "Óculos de Sol",
+    {
+        "Grau/Sol": "Óculos de Sol",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "4283 2759/83",
+        "modelo": "4283",
+        "cor numérica": "2759/83",
+        "cor": "Azul",
+        "Formato": "Esportivo",
         "preco": 570,
         "precoPromo": 570,
         "wppDesc": "",
@@ -13,12 +16,15 @@
             "https://i.ibb.co/GFYv0ry/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN6146L 771",
+        "modelo": "AN6146L",
+        "cor numérica": "771",
+        "cor": "Prata",
+        "Formato": "Retangular",
         "preco": 738,
         "precoPromo": 738,
         "wppDesc": "",
@@ -27,12 +33,15 @@
             "https://i.ibb.co/HKH626q/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7218 2911",
+        "modelo": "AN7218",
+        "cor numérica": "2911",
+        "cor": "Azul",
+        "Formato": "Redondo",
         "preco": 397,
         "precoPromo": 397,
         "wppDesc": "",
@@ -41,12 +50,15 @@
             "https://i.ibb.co/Gt8KztM/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7265L 2983",
+        "modelo": "AN7265L",
+        "cor numérica": "2983",
+        "cor": "Preto",
+        "Formato": "Retangular",
         "preco": 443,
         "precoPromo": 443,
         "wppDesc": "",
@@ -55,12 +67,15 @@
             "https://i.ibb.co/q57zZBp/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Sol",
+    {
+        "Grau/Sol": "Óculos de Sol",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "4234 JAN/81",
+        "modelo": "4234",
+        "cor numérica": "JAN/81",
+        "cor": "Preto",
+        "Formato": "Esportivo",
         "preco": 553,
         "precoPromo": 553,
         "wppDesc": "",
@@ -69,12 +84,15 @@
             "https://i.ibb.co/1K27cpz/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Sol",
+    {
+        "Grau/Sol": "Óculos de Sol",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "4269 41/AM",
+        "modelo": "4269",
+        "cor numérica": "41/AM",
+        "cor": "Preto",
+        "Formato": "Esportivo",
         "preco": 553,
         "precoPromo": 553,
         "wppDesc": "",
@@ -83,12 +101,15 @@
             "https://i.ibb.co/KsqG7dH/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Sol",
+    {
+        "Grau/Sol": "Óculos de Sol",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN3089 741/6R",
+        "modelo": "AN3089",
+        "cor numérica": "741/6R",
+        "cor": "Prata",
+        "Formato": "Esportivo",
         "preco": 588,
         "precoPromo": 588,
         "wppDesc": "",
@@ -97,12 +118,15 @@
             "https://i.ibb.co/xg2Sk6m/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Sol",
+    {
+        "Grau/Sol": "Óculos de Sol",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "4278 1200/6G",
+        "modelo": "4278",
+        "cor numérica": "1200/6G",
+        "cor": "Preto",
+        "Formato": "Retangular",
         "preco": 597,
         "precoPromo": 597,
         "wppDesc": "",
@@ -111,54 +135,68 @@
             "https://i.ibb.co/TPXJd5J/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Sol",
+    {
+        "Grau/Sol": "Óculos de Sol",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN4325 28586G",
+        "modelo": "AN4325",
+        "cor numérica": "28586G",
+        "cor": "Cinza ",
+        "Formato": "Quadrado",
         "preco": 479,
         "precoPromo": 479,
         "wppDesc": "",
         "imgs": [
-            "https://i.ibb.co/pXnV6C8/image.jpg",
-            "https://i.ibb.co/4FwQH9M/image.jpg"
+            "https://i.ibb.co/4FwQH9M/image.jpg",
+            "https://i.ibb.co/D8L3xT8/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Sol",
+    {
+        "Grau/Sol": "Óculos de Sol",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN4326U 287087",
+        "modelo": "AN4326U",
+        "cor numérica": "287087",
+        "cor": "Cinza",
+        "Formato": "Quadrado",
         "preco": 586,
         "precoPromo": 586,
         "wppDesc": "",
         "imgs": [
             "https://i.ibb.co/f4G3T4D/image.jpg",
             "https://i.ibb.co/jvK8tyx/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Sol",
+                "Gênero": "Masculino",
+                "marca": "Arnette",
+                "tipoDeCard": "Com Preço",
+                "modelo": "AN4326U",
+                "cor numérica": "290022",
+                "cor": "Preto",
+                "Formato": "Esportivo",
+                "preco": 735,
+                "precoPromo": 735,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/x3MqbPT/image.jpg",
+                    "https://i.ibb.co/VtZvdQ2/image.jpg"
+                ]
+            }
         ]
     },
-{
-        "Tipo": "Óculos de Sol",
+    {
+        "Grau/Sol": "Óculos de Sol",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN4326U 290022",
-        "preco": 735,
-        "precoPromo": 735,
-        "wppDesc": "",
-        "imgs": [
-            "https://i.ibb.co/x3MqbPT/image.jpg",
-            "https://i.ibb.co/VtZvdQ2/image.jpg"
-        ]
-    },
-{
-        "Tipo": "Óculos de Sol",
-        "Gênero": "Masculino",
-        "marca": "Arnette",
-        "tipoDeCard": "Com Preço",
-        "modelo": "AN4334 1243/2Q",
+        "modelo": "AN4334",
+        "cor numérica": "1243/2Q",
+        "cor": "Cinza ",
+        "Formato": "Esportivo",
         "preco": 656,
         "precoPromo": 656,
         "wppDesc": "",
@@ -167,12 +205,15 @@
             "https://i.ibb.co/FsPCkwn/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN6130L 501",
+        "modelo": "AN6130L",
+        "cor numérica": "501",
+        "cor": "Preto",
+        "Formato": "Retangular",
         "preco": 575,
         "precoPromo": 575,
         "wppDesc": "",
@@ -181,12 +222,15 @@
             "https://i.ibb.co/RTm4zwT/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN6135 737",
+        "modelo": "AN6135",
+        "cor numérica": "737",
+        "cor": "Preto",
+        "Formato": "Quadrado",
         "preco": 572,
         "precoPromo": 572,
         "wppDesc": "",
@@ -195,12 +239,15 @@
             "https://i.ibb.co/xFLzkBK/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN6138 745",
+        "modelo": "AN6138",
+        "cor numérica": "745",
+        "cor": "Prata",
+        "Formato": "Quadrado",
         "preco": 490,
         "precoPromo": 490,
         "wppDesc": "",
@@ -209,12 +256,15 @@
             "https://i.ibb.co/ySHv19R/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN6139L 738",
+        "modelo": "AN6139L",
+        "cor numérica": "738",
+        "cor": "Preto",
+        "Formato": "Quadrado",
         "preco": 612,
         "precoPromo": 612,
         "wppDesc": "",
@@ -223,12 +273,15 @@
             "https://i.ibb.co/s5kgXk0/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7073L 2260",
+        "modelo": "AN7073L",
+        "cor numérica": "2260",
+        "cor": "Azul",
+        "Formato": "Retangular",
         "preco": 425,
         "precoPromo": 425,
         "wppDesc": "",
@@ -237,12 +290,15 @@
             "https://i.ibb.co/VSb2dbt/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7178L 2669",
+        "modelo": "AN7178L",
+        "cor numérica": "2669",
+        "cor": "Azul",
+        "Formato": "Retangular",
         "preco": 425,
         "precoPromo": 425,
         "wppDesc": "",
@@ -251,12 +307,15 @@
             "https://i.ibb.co/sFkLjDF/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7184L 1",
+        "modelo": "AN7184L",
+        "cor numérica": "1",
+        "cor": "Preto",
+        "Formato": "Quadrado",
         "preco": 437,
         "precoPromo": 437,
         "wppDesc": "",
@@ -265,12 +324,15 @@
             "https://i.ibb.co/s6RDjjP/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "7194 2665",
+        "modelo": "7194",
+        "cor numérica": "2665",
+        "cor": "Cinza",
+        "Formato": "Retangular",
         "preco": 555,
         "precoPromo": 555,
         "wppDesc": "",
@@ -279,12 +341,15 @@
             "https://i.ibb.co/DY4fNq4/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7195L 01",
+        "modelo": "AN7195L",
+        "cor numérica": "01",
+        "cor": "Preto",
+        "Formato": "Quadrado",
         "preco": 452,
         "precoPromo": 452,
         "wppDesc": "",
@@ -293,12 +358,15 @@
             "https://i.ibb.co/VB3y4jT/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7198L 2754",
+        "modelo": "AN7198L",
+        "cor numérica": "2754",
+        "cor": "Azul",
+        "Formato": "Quadrado",
         "preco": 504,
         "precoPromo": 504,
         "wppDesc": "",
@@ -307,26 +375,15 @@
             "https://i.ibb.co/rcVdqkB/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7198L 2793",
-        "preco": 418,
-        "precoPromo": 418,
-        "wppDesc": "",
-        "imgs": [
-            "https://i.ibb.co/qR6MPzD/image.jpg",
-            "https://i.ibb.co/bPwnnQH/image.jpg"
-        ]
-    },
-{
-        "Tipo": "Óculos de Grau",
-        "Gênero": "Masculino",
-        "marca": "Arnette",
-        "tipoDeCard": "Com Preço",
-        "modelo": "AN7199L 2753",
+        "modelo": "AN7199L",
+        "cor numérica": "2753",
+        "cor": "Preto",
+        "Formato": "Quadrado",
         "preco": 418,
         "precoPromo": 418,
         "wppDesc": "",
@@ -335,12 +392,15 @@
             "https://i.ibb.co/qxWSggS/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7204L 2791",
+        "modelo": "AN7204L",
+        "cor numérica": "2791",
+        "cor": "Preto",
+        "Formato": "Quadrado",
         "preco": 529,
         "precoPromo": 529,
         "wppDesc": "",
@@ -349,12 +409,15 @@
             "https://i.ibb.co/D1rqjQy/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7206L 2758",
+        "modelo": "AN7206L",
+        "cor numérica": "2758",
+        "cor": "Preto",
+        "Formato": "Quadrado",
         "preco": 664,
         "precoPromo": 664,
         "wppDesc": "",
@@ -363,12 +426,15 @@
             "https://i.ibb.co/wrwc0YN/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7228- 1237",
+        "modelo": "AN7228-",
+        "cor numérica": "1237",
+        "cor": "Preto",
+        "Formato": "Quadrado",
         "preco": 540,
         "precoPromo": 540,
         "wppDesc": "",
@@ -377,12 +443,15 @@
             "https://i.ibb.co/Pz2xPXr/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7234L 2885",
+        "modelo": "AN7234L",
+        "cor numérica": "2885",
+        "cor": "Preto",
+        "Formato": "Quadrado",
         "preco": 520,
         "precoPromo": 520,
         "wppDesc": "",
@@ -391,40 +460,51 @@
             "https://i.ibb.co/tCZW9c4/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7237U 2755",
+        "modelo": "AN7237U",
+        "cor numérica": "2755",
+        "cor": "Transparente",
+        "Formato": "Quadrado",
         "preco": 474,
         "precoPromo": 474,
         "wppDesc": "",
         "imgs": [
             "https://i.ibb.co/HgLPz1N/image.jpg",
             "https://i.ibb.co/Rh8xhs4/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Arnette",
+                "tipoDeCard": "Com Preço",
+                "modelo": "AN7237U",
+                "cor numérica": "2759",
+                "cor": "Azul",
+                "Formato": "Quadrado",
+                "preco": 590,
+                "precoPromo": 590,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/7Cmhrjd/image.jpg",
+                    "https://i.ibb.co/DK99hcN/image.jpg"
+                ]
+            }
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7237U 2759",
-        "preco": 590,
-        "precoPromo": 590,
-        "wppDesc": "",
-        "imgs": [
-            "https://i.ibb.co/7Cmhrjd/image.jpg",
-            "https://i.ibb.co/DK99hcN/image.jpg"
-        ]
-    },
-{
-        "Tipo": "Óculos de Grau",
-        "Gênero": "Masculino",
-        "marca": "Arnette",
-        "tipoDeCard": "Com Preço",
-        "modelo": "AN7240U 2904",
+        "modelo": "AN7240U",
+        "cor numérica": "2904",
+        "cor": "Preto",
+        "Formato": "Quadrado",
         "preco": 495,
         "precoPromo": 495,
         "wppDesc": "",
@@ -433,26 +513,32 @@
             "https://i.ibb.co/NWz8LX0/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7241U 2900",
-        "preco": 474,
-        "precoPromo": 474,
+        "modelo": "AN7241U",
+        "cor numérica": "2900",
+        "cor": "Preto",
+        "Formato": "Quadrado",
+        "preco": 590,
+        "precoPromo": 590,
         "wppDesc": "",
         "imgs": [
             "https://i.ibb.co/X3Hc3HJ/image.jpg",
             "https://i.ibb.co/k2SPqdN/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7243L 2783",
+        "modelo": "AN7243L",
+        "cor numérica": "2783",
+        "cor": "Grafite",
+        "Formato": "Retangular",
         "preco": 474,
         "precoPromo": 474,
         "wppDesc": "",
@@ -461,40 +547,51 @@
             "https://i.ibb.co/jVzvxvQ/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN6143L 736",
+        "modelo": "AN6143L",
+        "cor numérica": "736",
+        "cor": "Prata",
+        "Formato": "Retangular",
         "preco": 624,
         "precoPromo": 624,
         "wppDesc": "",
         "imgs": [
             "https://i.ibb.co/jG20XYQ/image.jpg",
             "https://i.ibb.co/4N4xf7F/image.jpg"
+        ],
+        "variações": [
+            {
+                "Grau/Sol": "Óculos de Grau",
+                "Gênero": "Masculino",
+                "marca": "Arnette",
+                "tipoDeCard": "Com Preço",
+                "modelo": "AN6143L",
+                "cor numérica": "767",
+                "cor": "Prata",
+                "Formato": "Retangular",
+                "preco": 624,
+                "precoPromo": 624,
+                "wppDesc": "",
+                "imgs": [
+                    "https://i.ibb.co/sRj6ZKG/image.jpg",
+                    "https://i.ibb.co/6WfJxJK/image.jpg"
+                ]
+            }
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN6143L 767",
-        "preco": 624,
-        "precoPromo": 624,
-        "wppDesc": "",
-        "imgs": [
-            "https://i.ibb.co/sRj6ZKG/image.jpg",
-            "https://i.ibb.co/6WfJxJK/image.jpg"
-        ]
-    },
-{
-        "Tipo": "Óculos de Grau",
-        "Gênero": "Masculino",
-        "marca": "Arnette",
-        "tipoDeCard": "Com Preço",
-        "modelo": "AN7244L 2753",
+        "modelo": "AN7244L",
+        "cor numérica": "2753",
+        "cor": "Preto",
+        "Formato": "Retangular",
         "preco": 495,
         "precoPromo": 495,
         "wppDesc": "",
@@ -503,12 +600,15 @@
             "https://i.ibb.co/dkFzswJ/image.jpg"
         ]
     },
-{
-        "Tipo": "Óculos de Grau",
+    {
+        "Grau/Sol": "Óculos de Grau",
         "Gênero": "Masculino",
         "marca": "Arnette",
         "tipoDeCard": "Com Preço",
-        "modelo": "AN7255L 2758",
+        "modelo": "AN7255L",
+        "cor numérica": "2758",
+        "cor": "Preto",
+        "Formato": "Quadrado",
         "preco": 612,
         "precoPromo": 612,
         "wppDesc": "",
