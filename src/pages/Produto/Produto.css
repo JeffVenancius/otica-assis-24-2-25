@@ -42,7 +42,7 @@
 	position: relative;
 }
 
-.discount {
+.discount--product {
 	position: absolute;
 	padding: 8px;
 	background-color: #2c2d3b;
@@ -164,7 +164,7 @@
 	.product__specs--price p {
 		line-height: 4vw;
 	}
-	.discount {
+	.discount--product {
 		height: 2.5vw;
 		width: 15vw;
 		font-size: calc(6px + 4vw);

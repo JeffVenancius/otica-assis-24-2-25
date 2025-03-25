@@ -29,7 +29,7 @@ const ImgContainer = (props) => {
 	if (props.tipoDeCard === "Com Preço Promocional") {
 		return (
 		<div className="promoContainer">
-			<div className="discount"><p>{props.discount} %</p></div>
+			<div className="discount--product"><p>{props.discount} %</p></div>
 		<ImgCarousel
 				tipoDeCard={props.tipoDeCard} 
 				imgs={props?.imgs} 
